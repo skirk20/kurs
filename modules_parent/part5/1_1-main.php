@@ -9,11 +9,11 @@
 <body>
     <?php
     include_once("../../sample/navigation_modules.html");
-    include_once("../module_1.php");
+    include_once("../module_5.php");
     ?>
     <article class="modules-content">
-        <h2>wartości, czyli o ukrytych motywach naszego dzialania</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jzsVW867gxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h2>wytrwałość, czyli życie jako maraton, a nie sprint</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AvFrPAc7Nrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
             <a href="../../index.php" class="start-button">powrót na stronę główną</a>
     </article>
