@@ -79,7 +79,7 @@
             </p>
             <p class="attached">
                 
-                <a href="./resources/Kurs na relacje GD - całość pdf.docx.pdf" target="_blank">
+                <a href="./resources/kurs_na_relacje_gd-calosc_pdf.docx.pdf" target="_blank">
                     <img src="./images/zasob_16.png" alt="">
                     cały kurs na relacje
                 </a>

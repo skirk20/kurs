@@ -5,7 +5,6 @@ include_once("../module_2.php");
 ?>
 <article class="modules-content">
 <h2>Podcast</h2>
-<p>tu będzie podcast</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fINa4AGnDsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <a href="2_7.php" class="start-button">przejdź dalej</a>
 </article>

@@ -137,9 +137,9 @@ poszukiwaniem innych sposobów doceniania.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/Moduł III docenianie/Kurs_na_relacje_moduł_III-docenianie-GD-pdf-zalacznik_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>
-        <a href="../../resources/Moduł III docenianie/Kurs_na_relacje_moduł_III-docenianie-GD-pdf-zalacznik2_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 scenariusz zebrania z rodzicami</a>
-        <a href="../../resources/Moduł III docenianie/Kurs_na_relacje_moduł_III-docenianie-GD-pdf-zalacznik1_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opis sytuacji v2</a>
+        <a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf-zalacznik_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>
+        <a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf-zalacznik2_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 scenariusz zebrania z rodzicami</a>
+        <a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf-zalacznik1_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opis sytuacji v2</a>
     </p>
     <a href="2_6.php" class="start-button">przejdź dalej</a>
     </article>

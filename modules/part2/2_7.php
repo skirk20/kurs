@@ -21,7 +21,7 @@ include_once("../module_2.php");
     </ul>
 </p>
 <p class="attached">
-<a href="../../resources/Moduł III docenianie/Kurs_na_relacje_moduł_III-docenianie-GD-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <a href="../part3/3_1-main.php" class="start-button">przejdź dalej</a>
 </article>

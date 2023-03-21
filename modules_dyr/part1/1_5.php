@@ -140,7 +140,7 @@ i rodzicami.
 </dl>
     
     <p class="attached">
-        <a href="../../resources/Moduł I dyrektor/Kurs_na_relacje-moduł_I-dyrektor-pdf-zalaczniki.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
+        <a href="../../resources/modul_2_dyrektor/kurs_na_relacje-modul_I-dyrektor-pdf-zalaczniki.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
     </p>
     <a href="1_6.php" class="start-button">przejd dalej</a>
     </article>

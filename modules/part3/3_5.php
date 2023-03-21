@@ -181,7 +181,7 @@ robić w rodzinie, w klasie, a jak indywidualnie.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/Moduł IV omówienie/Kurs_na_relacje_moduł_IV-omowienie-pdf-zalacznik-scenariusz_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 Przykłady informacji zwrotnych</a>
+        <a href="../../resources/modul_4_omowienie/kurs_na_relacje_modul_IV-omowienie-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 Przykłady informacji zwrotnych</a>
     </p>
     <a href="3_6.php" class="start-button">przejdź dalej</a>
     </article>

@@ -48,7 +48,7 @@ https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
 [dostęp:05.02.2023 r.]
 </p>
 <p class="attached">
-<a href="../../resources/Moduł%20VI%20wytrwałość/Kurs_na_relacje_moduł_VI-wytrwalosc-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/modul_6_wytrwalosc/kurs_na_relacje_modul_VI-wytrwalosc-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <a href="5_7.php" class="start-button">przejdź dalej</a>
 </article>

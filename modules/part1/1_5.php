@@ -150,7 +150,7 @@ dyskusji:
     </ol>
 
     <p class="attached">
-        <a href="../../resources/Moduł II wartości/Kurs_na_relacje_moduł_II-wartości-GD-pdf-zalaczniki_wychowawca.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
+        <a href="../../resources/modul_2/kurs_na_relacje_modul_II-wartosci-gd-pdf-zalaczniki_wychowawca.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
     </p>
     <a href="1_6.php" class="start-button">przejdź Dalej</a>
     </article>

@@ -20,7 +20,7 @@ include_once("../module_1.php");
     </ul>
 </p>
 <p class="attached">
-<a href="../../resources/Moduł%20I%20dyrektor/Kurs_na_relacje-moduł_I-dyrektor-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/modul_2_dyrektor/kurs_na_relacje-modul_I-dyrektor-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <a href="../../index.php" class="start-button">powrót na stronę główną</a>
 </article>

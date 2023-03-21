@@ -111,8 +111,8 @@ potrzebne.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/Moduł V planowanie/Kurs_na_relacje_moduł_V-planowanie-pdf-zalaczniki_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 SMART</a>
-        <a href="../../resources/Moduł V planowanie/Kurs_na_relacje_moduł_V-planowanie-pdf-scenariusz_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">scenariusz zebrania z rodzicami</a>
+        <a href="../../resources/modul_5_planowanie/kurs_na_relacje_modul_V-planowanie-pdf-zalaczniki_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 SMART</a>
+        <a href="../../resources/modul_5_planowanie/kurs_na_relacje_modul_V-planowanie-pdf-scenariusz_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">scenariusz zebrania z rodzicami</a>
     </p>
     <a href="4_6.php" class="start-button">przejdź dalej</a>
     </article>

@@ -105,8 +105,8 @@ wypracowaniu nawyku.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/Moduł VI wytrwałość/Kurs_na_relacje_moduł_VI-wytrwalosc-pdf-zalaczniki_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 biogramy</a>
-        <a href="../../resources/Moduł%20VI%20wytrwałość/Kurs_na_relacje_moduł_VI-wytrwalosc-pdf-zalacznik_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 7 nawyków skutecznego nastolatka</a>
+        <a href="../../resources/modul_6_wytrwalosc/kurs_na_relacje_modul_VI-wytrwalosc-pdf-zalaczniki_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 biogramy</a>
+        <a href="../../resources/modul_6_wytrwalosc/kurs_na_relacje_modul_VI-wytrwalosc-pdf-zalacznik_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 7 nawyków skutecznego nastolatka</a>
         
     </p>
     <a href="5_6.php" class="start-button">przejdź dalej</a>
