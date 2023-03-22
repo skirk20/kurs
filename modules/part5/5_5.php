@@ -5,30 +5,30 @@ include_once("../module_5.php");
 ?>
 <article class="modules-content">
     <h2>praktyka</h2>
-    <h4>scenariusz lekcji wychowawczej</h4>
+    <h3>scenariusz lekcji wychowawczej</h3>
     <p>
         <b>temat:</b> Życie jako maraton, a nie sprint, czyli o wytrwałości.</br>
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
-    <h4>cele</h4>
+    <h3>cele</h3>
         po zajeciach uczen: </br>
         <ul>
             <li>wie, czym jest wytrwałość</li>
             <li>rozumie, że wytrwałość jest niezbędna do osiągania celów</li>
             <li>zna nawyki skutecznego działania</li>
         </ul>
-    <h4>metody</h4>
+    <h3>metody</h3>
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    <h4>formy</h4>
+    <h3>formy</h3>
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    <h4>Faza wstępna [5 min]</h4>  
+    <h3>Faza wstępna [5 min]</h3>  
     <ol class="a1_5-list">
     
     <li>
@@ -38,7 +38,7 @@ panujących na lekcji (wywieś kontrakt).
         
     </li>
 </ol>
-<h4>Faza realizacyjna [30 min]</h4>
+<h3>Faza realizacyjna [30 min]</h3>
 <ol class="a1_5-list">
     
     <li>
@@ -76,7 +76,7 @@ spać o określonej godzinie, zapisywanie rzeczy do zrobienia w kalendarzu.
         
     </li>
 </ol>
-    <h4>Faza podsumowująca [10 min]</h4>
+    <h3>Faza podsumowująca [10 min]</h3>
     <ol class="a1_5-list">
     <li>
         
@@ -91,7 +91,7 @@ wybrało ich dziecko oraz wspólne ustalenie jak rodzic może je wspierać
 wypracowaniu nawyku.
     </li>
 </ol>
-    <h4>Propozycja rozszerzenia:</h4>
+    <h3>Propozycja rozszerzenia:</h3>
     <ol class="a1_5-list">
     <li>
         
@@ -105,8 +105,8 @@ wypracowaniu nawyku.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/modul_6_wytrwalosc/kurs_na_relacje_modul_VI-wytrwalosc-pdf-zalaczniki_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 biogramy</a>
-        <a href="../../resources/modul_6_wytrwalosc/kurs_na_relacje_modul_VI-wytrwalosc-pdf-zalacznik_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 7 nawyków skutecznego nastolatka</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__VI-wytrwalosc-pdf-zalaczniki_wychowawcza.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 biogramy</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__VI-wytrwalosc-pdf-zalacznik_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 7 nawyków skutecznego nastolatka</a>
         
     </p>
     <a href="5_6.php" class="start-button">przejdź dalej</a>

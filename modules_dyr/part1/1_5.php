@@ -5,7 +5,7 @@ include_once("../module_1.php");
 ?>
 <article class="modules-content">
     <h2>Praktyka</h2>
-    <h4>scenariusz rady pedagogicznej</h4>
+    <h3>scenariusz rady pedagogicznej</h3>
     <p>
     Temat: Edukacja to relacja. Relacja to komunikacja.
     </p>
@@ -42,7 +42,7 @@ efektywność dydaktyczno-wychowawczą.
         </dd>
 </dl>
     <p>
-        <h4>uwagi organizacyjne</h4>
+        <h3>uwagi organizacyjne</h3>
         Zaproś kadrę pedagogiczną do zajęcia miejsc w kręgu - ważne, aby także przestrzeń
 sygnalizowała, że wszyscy jesteście tak samo ważni i potrzebni, bo jesteście jednym
 zespołem. Zadawaj dużo pytań otwartych, zachęcaj do generowania pomysłów, nie narzucaj
@@ -140,9 +140,9 @@ i rodzicami.
 </dl>
     
     <p class="attached">
-        <a href="../../resources/modul_2_dyrektor/kurs_na_relacje-modul_I-dyrektor-pdf-zalaczniki.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje-modu__I-dyrektor-pdf-zalaczniki.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
     </p>
-    <a href="1_6.php" class="start-button">przejd dalej</a>
+    <a href="1_6.php" class="start-button">przejdź dalej</a>
     </article>
     </section>
 </section>

@@ -14,7 +14,7 @@ wszystkim zasługa dużej dozy szczęścia, a nie jego pracy. W końcu „wszyst
 „wszystko Pan zorganizował”. Janek po tej pochwale wie, że ma być posłuszny, bo wtedy
 będzie nagroda w formie pochwały (Brawo!).
 </p>
-<h4>Co usłyszeli pozostali bohaterowie?</h4>
+<h3>Co usłyszeli pozostali bohaterowie?</h3>
 <p>
 Pani Karolina wie, że dyrektor zauważył jej pracę, czas, który przeznaczyła na przygotowania
 chóru, ale także jej postawę – cierpliwość i umiejętność zaangażowania rodziców. Pan Michał
@@ -55,9 +55,9 @@ apelu; pani Joanna, z której dumny jest dyrektor). W konsekwencji każda poraż
 obawę o samoakceptację i zniechęcać do podejmowania działań, których do tej pory nie
 podejmowaliśmy.
 </p>
-<h4>
+<h3>
 Jak zatem mądrze doceniać?
-</h4>
+</h3>
 <p>
 Żeby móc docenić, trzeba wiedzieć, za co. Wymaga to czasu i uważności: patrzenia,
 słuchania, rozmawiania. Musisz wiedzieć, co dokładnie chcesz docenić, i to jest największe

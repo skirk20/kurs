@@ -5,7 +5,7 @@ include_once("../module_1.php");
 ?>
 <article class="modules-content">
 <h2>Praktyka</h2>
-    <h4>scenariusz lekcji wychowawczej</h4>
+    <h3>scenariusz lekcji wychowawczej</h3>
     <p>
     Temat: Wartości, czyli o ukrytych motywach naszego działania
     </p>
@@ -55,7 +55,7 @@ include_once("../module_1.php");
         zespołowa
         </li>
     </ul>
-        <h4>Faza wstępna [15 min]</h4>
+        <h3>Faza wstępna [15 min]</h3>
         <ol>
             
             <li>
@@ -75,9 +75,9 @@ było wskazanie różnych wartości do tych samych sytuacji, często bowiem podo
 decyzje mogą wynikać z różnych potrzeb, a te - z różnych wartości.
             </li>
         </ol>
-        <h4>
+        <h3>
         Faza realizacyjna [25 minut]
-        </h4>
+        </h3>
         <ol>
         <li>
         Każdemu uczniowi wręcz kartę wartości (załącznik nr 2). Poproś, aby wybrał
@@ -105,7 +105,7 @@ i instytucje. Przykładem grupy, jednej z najważniejszych w społeczeństwie, j
 rodzina.
         </li>
 </ol>
-        <h4>Faza podsumowująca [5 min]</h4>
+        <h3>Faza podsumowująca [5 min]</h3>
      <ol>
         <li>
         W ramach podsumowania opowiedz uczniom o zebraniu z rodzicami, na którym
@@ -114,9 +114,9 @@ wykonania wraz z uczniami - wspólnej rozmowie o tym, które wartości są ważn
 w ich rodzinie oraz co robią jako rodzina, żeby postępować zgodnie z nimi.
         </li>
     </ol>
-    <h4>
+    <h3>
         propozycja rozszerzenia
-    </h4>
+    </h3>
     <ol>
     
     <li>
@@ -150,7 +150,7 @@ dyskusji:
     </ol>
 
     <p class="attached">
-        <a href="../../resources/modul_2/kurs_na_relacje_modul_II-wartosci-gd-pdf-zalaczniki_wychowawca.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf-zalaczniki_wychowawca.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
     </p>
     <a href="1_6.php" class="start-button">przejdź Dalej</a>
     </article>

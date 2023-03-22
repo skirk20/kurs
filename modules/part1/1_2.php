@@ -21,7 +21,7 @@ include_once("../module_1.php");
         Magdalena Kowalska
         
     </p>
-    <h5>Magda otrzymała odpowiedź:</h5>
+    <h4>Magda otrzymała odpowiedź:</h4>
     <p style="font-style:oblique;">
         Pani Magdo,<br><br>
         szanujemy wybór Adriana, dajemy mu wolność w decydowaniu o swoim ubiorze.<br><br>

@@ -5,12 +5,12 @@ include_once("../module_2.php");
 ?>
 <article class="modules-content">
     <h2>praktyka</h2>
-    <h4>scenariusz lekcji wychowawczej</h4>
+    <h3>scenariusz lekcji wychowawczej</h3>
     <p>
         <b>temat:</b> Dlaczego warto doceniać? Jak to robić?</br>
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
-    <h4>cele;</h4>
+    <h3>cele;</h3>
     <p>
         po zajeciach uczen:</p> 
         <ul>
@@ -18,21 +18,21 @@ include_once("../module_2.php");
             <li>potrafi sformułować komunikat doceniający drugą osobę</li>
         </ul>
     
-    <h4>metody</h4>
+    <h3>metody</h3>
     
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
     
-    <h4>formy</h4>
+    <h3>formy</h3>
     
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    <h4>Faza wstępna [15 min]</h4>
+    <h3>Faza wstępna [15 min]</h3>
     <ol class="a1_5-list">
     
     <li>
@@ -56,7 +56,7 @@ bezpośredniego kontaktu z uczniami, dopóki nie pojawiła się edukacja zdalna)
         
     </li>
     </ol>
-    <h4>Faza realizacyjna [25 min]</h4>
+    <h3>Faza realizacyjna [25 min]</h3>
     <ol class="a1_5-list">
     <li>
         
@@ -102,7 +102,7 @@ już nową wiedzę.
 jest to zadanie tylko dla chętnych).
     </li>
     </ol>
-    <h4>Faza podsumowująca [5 min]</h4>
+    <h3>Faza podsumowująca [5 min]</h3>
     <ol class="a1_5-list">
     <li>
         
@@ -113,7 +113,7 @@ najbliższy tydzień.
         
     </li>
 </ol>
-    <h4>propozycja rozszerzenia:</h4>
+    <h3>propozycja rozszerzenia:</h3>
     <ol class="a1_5-list">
     <li>
     
@@ -137,9 +137,9 @@ poszukiwaniem innych sposobów doceniania.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf-zalacznik_wychowawcza.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>
-        <a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf-zalacznik2_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 scenariusz zebrania z rodzicami</a>
-        <a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf-zalacznik1_zebranie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opis sytuacji v2</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__III-docenianie-GD-pdf-zalacznik_wychowawcza.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__III-docenianie-GD-pdf-zalacznik2_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 scenariusz zebrania z rodzicami</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__III-docenianie-GD-pdf-zalacznik1_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opis sytuacji v2</a>
     </p>
     <a href="2_6.php" class="start-button">przejdź dalej</a>
     </article>

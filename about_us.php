@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Kurs na relacje</title>
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
@@ -14,9 +14,9 @@
     <section class="content">
         <article>
         <h2>O nas</h2>
-        <h4>
+        <h3>
             Innowatorzy
-        </h4>
+        </h3>
         <h4>Karolina Kozak</h4>
         <p>Z wykształcenia polonistka, z wyboru współzałożycielka i wiceprezeska Fundacji
 Laboratorium Edukacyjne Edulab, będącej organem prowadzącym szkołę podstawową.
@@ -29,7 +29,7 @@ naukowych. Absolwentka polonistyki na Uniwersytecie Warszawskim, studiów
 podyplomowych Trener zdolności poznawczych na Uniwersytecie SWPS oraz absolwentka
 Akademii Przywództwa Liderów Oświaty organizowanej przez Instytut Humanites. Członek
 Ogólnopolskiego Stowarzyszenia Kadry Kierowniczej Oświaty.</p>
-<h5>Piotr Sienkiewicz</h5>
+<h4>Piotr Sienkiewicz</h4>
 <p>
 Wicedyrektor Niepublicznej Szkoły Podstawowej EduLab, nauczyciel historii, wiedzy
 o społeczeństwie, wychowawca klas, tutor. Ekspert w zakresie edukacji obywatelskiej. Jako

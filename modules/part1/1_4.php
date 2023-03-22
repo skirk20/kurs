@@ -22,7 +22,7 @@ konfliktu o wartości.
 nazwane wartości. Dzięki temu uczniowie i rodzice będą rozumieli, co w waszej klasie
 (szkole) jest ważne w zakresie trzech funkcji szkoły: dydaktyki, wychowywania i opieki.
     </p>
-<h4>jak określić te wartości?</h4>
+<h3>jak określić te wartości?</h3>
 <ol>
     <li>Sprawdź, jakie wartości są zapisane w szkolnych dokumentach. Bardzo możliwe, że są
         one wyrażone wprost, np. w koncepcji pracy szkoły, programie profilaktyczno-
@@ -41,7 +41,7 @@ nazwane wartości. Dzięki temu uczniowie i rodzice będą rozumieli, co w wasze
     i funkcjonować w społeczeństwie. Zostaje jeszcze spore pole do ich doprecyzowania. I to
     właśnie do tego zaproś uczniów i rodziców.</p>
 
-<h4>Na czym mogą polegać różnice w wartościach?</h4>
+<h3>Na czym mogą polegać różnice w wartościach?</h3>
 <p>Od lat przy dyskusjach o edukacji wiele osób odwołuje się do fińskiego modelu kształcenia.
     W szczególności, że uczniowie w Finlandii osiągają bardzo dobre wyniki w badaniach PISA 1 .
     Nie dziwi więc, że rodzice spoglądają na fińską szkołę z rozmarzeniem – szkoła bez
@@ -66,7 +66,7 @@ nieświadomie) zwolenników tak fińskiego, jak i singapurskiego modelu kształc
         lata jest egzamin! Proponuję dodatkowe lekcje z języka polskiego.</li>
 </ul>
 </p>
-<h4>Co wtedy?</h4>
+<h3>Co wtedy?</h3>
 <p>Jako wychowawca ponosisz odpowiedzialność za klasę, za realizację funkcji wychowawczej
     i opiekuńczej. Wyjaśnij rodzicom, które wartości z zaproponowanych staną się waszym
     drogowskazem a które nie. Odwołaj się do swojego doświadczenia, literatury naukowej,

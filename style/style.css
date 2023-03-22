@@ -50,7 +50,8 @@ a{
     width: 50%;
 }
 h2{
-    color:#02aab0
+    color:#028388;
+    line-height: 1.5em;
 }
 footer{
     background-color: white;
@@ -104,13 +105,14 @@ main{
     text-decoration: none;
     text-align: left;
     lighting-color: black;
-    opacity: 50%;
+    /* opacity: 50%; */
+    color: #757575;
 }
 .button-choice:hover{
     opacity: 70%;
 }
-.button-choice:active{
-    opacity: 80%;
+.module-choice{
+    line-height: 1.5em;
 }
 .module-choice:hover{
     opacity: 70%;
@@ -122,9 +124,10 @@ main{
 .content3>article{
     width: max-content;
 }
-.left-bar>h4, form>h4{
+.left-bar>h3, form>h3{
     border-left: 0.5px solid gray;
     padding: 0em 0.5em ;
+    font-size: 1em;
 }
 .modules-content{
     text-align: left;
@@ -133,12 +136,13 @@ main{
     border: 1px solid lightgrey;
     background-color: rgb(243, 243, 243);
     padding: 2em;
-   
 }
-
+ol,ul{
+    line-height: 1.5em;
+}
 .start-button{
     padding: 0.5em 1em;
-    border: 1px solid #02aab0;
+    border: 1px solid #028388;
     border-radius: 50px;
     text-transform: uppercase;
     display: block;
@@ -147,10 +151,10 @@ main{
     margin-left: 0;
     margin-top: 2em;
     color: white;
-    background-color: #02aab0;
+    background-color: #028388;
 }
 .start-button:hover{
-    color: #02aab0;
+    color: #028388;
     background-color: white;
 }
 .attached{
@@ -162,12 +166,6 @@ main{
     vertical-align: middle;
     margin-right: 1em;
 }
-dd{
-    padding-left: 1em;
-}
-dd::marker{
-    margin-left: 2em;
-}
 .a1_5-list li{
     list-style-position: inside;
 }
@@ -175,6 +173,7 @@ dd::marker{
     padding: 0;
 }
 .button-black{
+    line-height: 1.5em;
     text-align: center;
     align-items: center;
     display: inline-grid;
@@ -184,15 +183,17 @@ dd::marker{
     color: white;
     background-image:url("../images/modul_kolo_czarne.png");
     background-size:contain;
-    background-size: contain;
+    /* background-size: contain; */
     width: 12em;
     height: 12em;
     background-repeat: no-repeat;
     /* width: 33%; */
     vertical-align: middle;
+    padding: 0.5em;
     margin: 2em;
 }
 .button-blue{
+    line-height: 1.5em;
     align-items: center;
     display: inline-grid;
     text-transform: uppercase;
@@ -200,13 +201,14 @@ dd::marker{
     border: none;
     color: white;
     background-image:url("../images/modul_kolo_morskie.png");
-    background-size:contain;
+    /* background-size:contain; */
     background-size: contain;
     width: 12em;
     height: 12em;
     background-repeat: no-repeat;
     /* width: 33%; */
     vertical-align: middle;
+    padding: 0.5em;
     margin: 2em;
 } 
 .button-black:hover, .button-blue:hover{
@@ -214,7 +216,7 @@ dd::marker{
     transition: .5s;
 }
 p{
-    line-height: 1.3em;
+    line-height: 1.5em;
     font-size:medium;
 }
 li::first-letter{

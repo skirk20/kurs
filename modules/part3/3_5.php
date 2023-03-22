@@ -5,12 +5,12 @@ include_once("../module_3.php");
 ?>
 <article class="modules-content">
     <h2>praktyka</h2>
-    <h4>scenariusz lekcji wychowawczej</h4>
+    <h3>scenariusz lekcji wychowawczej</h3>
     <p>
         <b>temat:</b> Omówienie, czyli świętowanie sukcesów i analizowanie porażek</br>
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
-    <h4>cel:</h4>
+    <h3>cel:</h3>
         <p>po zajeciach uczen: </p>
         <ul>
             <li>rozumie, dlaczego warto podsumowywać wydarzenia, procesy i efekty swojej pracy</li>
@@ -18,18 +18,18 @@ include_once("../module_3.php");
             <li>jest świadom, że informacja zwrotna służy rozwojowi a nie jest próbą krytyki danej
 osoby.</li>
         </ul>
-    <h4>metody</h4>
+    <h3>metody</h3>
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    <h4>formy</h4>
+    <h3>formy</h3>
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    <h4>Faza wstępna [5 min]</h4>    
+    <h3>Faza wstępna [5 min]</h3>    
     <ol class="a1_5-list">
     
     <li>
@@ -39,7 +39,7 @@ panujących na lekcji (wywieś kontrakt).
         
     </li>
 </ol>
-    <h4>Faza realizacyjna [25 min]</h4>
+    <h3>Faza realizacyjna [25 min]</h3>
     <ol class="a1_5-list">
     <li>
         
@@ -91,7 +91,7 @@ rodzice nauczyli się formułować informację zwrotną. Poproś o zgodę uczni�
         
     </li>
     </ol>
-    <h4>Faza podsumowująca [15 min]</h4>
+    <h3>Faza podsumowująca [15 min]</h3>
     <ol class="a1_5-list">
     <li>
         
@@ -108,7 +108,7 @@ udzielenie informacji zwrotnej do opisanej przez uczniów sytuacji, a następnie
 wspólne omówienie jej z dziećmi.
     </li>
 </ol>
-    <h4>Propozycja rozszerzenia:</h4>
+    <h3>Propozycja rozszerzenia:</h3>
     <p>
     W celu głębszego zrozumienia przez uczniów, czym jest omówienie i świętowanie, na
 kolejnej lekcji zaproponuj zabawę:
@@ -181,7 +181,7 @@ robić w rodzinie, w klasie, a jak indywidualnie.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/modul_4_omowienie/kurs_na_relacje_modul_IV-omowienie-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 Przykłady informacji zwrotnych</a>
+        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__IV-omowienie-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 Przykłady informacji zwrotnych</a>
     </p>
     <a href="3_6.php" class="start-button">przejdź dalej</a>
     </article>

@@ -40,7 +40,7 @@ Kevin Steede, 10 błędów popełnianych przez dobrych rodziców, wyd. GWP Gdań
 Wydawnictwo Psychologiczne, wyd. 2015</li>
 </ul>
 <p>
-<h4>Źródła internetowe</h4>
+<h3>Źródła internetowe</h3>
 https://epale.ec.europa.eu/pl/blog/wytrwalosc-jako-klucz-do-sukcesu [dostęp: 05.02.2023
 r.] <br>
 https://angeladuckworth.com/grit-scale/ [dostęp: 05.02.2023 r.]<br>
@@ -48,7 +48,7 @@ https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
 [dostęp:05.02.2023 r.]
 </p>
 <p class="attached">
-<a href="../../resources/modul_6_wytrwalosc/kurs_na_relacje_modul_VI-wytrwalosc-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__VI-wytrwalosc-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <a href="5_7.php" class="start-button">przejdź dalej</a>
 </article>
