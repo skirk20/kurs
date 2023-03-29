@@ -30,8 +30,10 @@ siebie.
 normalne teraz?
     </li>
 </ul>
-
-<a href="4_3.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="4_1.php" class="back-button"> wróć</a>
+    <a href="4_3.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

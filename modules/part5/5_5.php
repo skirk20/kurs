@@ -109,7 +109,10 @@ wypracowaniu nawyku.
         <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__VI-wytrwalosc-pdf-zalacznik_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 7 nawyków skutecznego nastolatka</a>
         
     </p>
+    <div class = "back_next">
+    <a href="5_4.php" class="back-button"> wróć</a>
     <a href="5_6.php" class="start-button">przejdź dalej</a>
+</div>
     </article>
     </section>
 </section>

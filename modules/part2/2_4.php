@@ -78,7 +78,10 @@ dostrzegasz i cenisz.
     </li>
 </ol>
 </p>
-<a href="2_5.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="2_3.php" class="back-button"> wróć</a>
+    <a href="2_5.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

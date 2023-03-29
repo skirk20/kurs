@@ -22,7 +22,10 @@ include_once("../module_3.php");
 <p class="attached">
 <a href="../../resources/modul_4_omowienie/kurs_na_relacje_modul_IV-omowienie-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
+    <div class = "back_next">
+    <a href="3_6.php" class="back-button"> wróć</a>
     <a href="../part4/4_1-main.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

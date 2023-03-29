@@ -55,7 +55,10 @@ include_once("../module_1.php");
             <li>Jakimi ludźmi powinni być moi absolwenci?</li>
         </ol>
     </p>
+    <div class = "back_next">
+    <a href="1_2.php" class="back-button"> wróć</a>
     <a href="1_4.php" class="start-button">przejdź dalej</a>
+    </div>
 </article>
 </section>
 </section>

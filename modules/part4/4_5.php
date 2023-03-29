@@ -114,7 +114,10 @@ potrzebne.
         <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__V-planowanie-pdf-zalaczniki_wychowawcza.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 SMART</a>
         <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__V-planowanie-pdf-scenariusz_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">scenariusz zebrania z rodzicami</a>
     </p>
+    <div class = "back_next">
+    <a href="4_4.php" class="back-button"> wróć</a>
     <a href="4_6.php" class="start-button">przejdź dalej</a>
+</div>
     </article>
     </section>
 </section>

@@ -14,7 +14,10 @@ include_once("../module_1.php");
     <p>
     Rozpoczynając przygodę z nową klasą poznaj system wartości uczniów i rodziców. Dzięki temu łatwiej będzie Ci później zrozumieć ich zachowania i zaplanować działania wychowawcze.
     </p>
+    <div class = "back_next">
+    <a href="../../modules.php" class="back-button"> wróć</a>
     <a href="1_1.php" class="start-button">przejdź dalej</a>
+    </div>
 </article>
 </section>
 </section>

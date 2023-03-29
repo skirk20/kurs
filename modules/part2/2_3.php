@@ -45,7 +45,10 @@ include_once("../module_2.php");
         Jakie pozytywne słowa nie mają dla Ciebie większego znaczenia?
         </li>
     </ul>
+    <div class = "back_next">
+    <a href="2_2.php" class="back-button"> wróć</a>
     <a href="2_4.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
     </section>
 </section>

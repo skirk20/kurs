@@ -36,7 +36,10 @@ przekładają się na postawy i zachowania uczniów?
 sprzyjają?
         </li>
     </ul>
+    <div class = "back_next">
+    <a href="5_2.php" class="back-button"> wróć</a>
     <a href="5_4.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
     </section>
 </section>

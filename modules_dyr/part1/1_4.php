@@ -260,7 +260,10 @@ Pamiętaj, że dopiero nauczyciel, który czuje się bezpieczny i akceptowany, b
 wyjścia ze swojej strefy komfortu i wykorzystania nowych rozwiązań czy metod pracy.
 </p>
 </p>
-    <a href="1_5.php" class="start-button">przejdź dalej</a>
+        <div class = "back_next">
+            <a href="1_3.php" class="back-button"> wróć</a>
+            <a href="1_5.php" class="start-button">przejdź dalej</a>
+            </div>
 </article>
 </section>
 </section>

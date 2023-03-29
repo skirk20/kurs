@@ -66,7 +66,10 @@ semestr. Chciałabym z Państwem porozmawiać o:
 Do zobaczenia,<br><br>
 Marta Niewczas
 </div>
-<a href="3_3.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="3_1.php" class="back-button"> wróć</a>
+    <a href="3_3.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

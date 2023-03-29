@@ -145,7 +145,10 @@ powoduje u dziecka poczucia, że to dorosły mu coś narzuca czy ogranicza przyj
 więc nie prowokuje konfliktów, o które łatwo przy niestabilnych emocjach nastolatka.
 </p>
 
-<a href="5_5.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="5_3.php" class="back-button"> wróć</a>
+    <a href="5_5.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

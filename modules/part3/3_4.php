@@ -72,7 +72,10 @@ przyjmować informację zwrotną. Z tego powodu warto uczyć uczniów i rodzicó
 formułować informację zwrotną, czemu ma ona służyć i jak na nią reagować. O tym, jak to
 robić, dowiesz się z podcastu oraz scenariusza zajęć.
 </p>
-<a href="3_5.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="3_3.php" class="back-button"> wróć</a>
+    <a href="3_5.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

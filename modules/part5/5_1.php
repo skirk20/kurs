@@ -10,7 +10,10 @@ uczniów w sytuacjach szkolnych oraz jak rozmawiać z rodzicami o wspieraniu nas
 w kształtowaniu wytrwałości. Zachęcisz rodziców i uczniów do zastanowienia się nad tym,
 kiedy wytrwałość jest potrzebna, czy są wytrwali oraz zainspirujesz rodziców do tego, jak
 mogą wspierać rozwój tej postawy.</p>
-<a href="5_2.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="5_1-main.php" class="back-button"> wróć</a>
+    <a href="5_2.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

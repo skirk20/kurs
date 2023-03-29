@@ -76,7 +76,10 @@ nieświadomie) zwolenników tak fińskiego, jak i singapurskiego modelu kształc
 jest pozostać przy z góry określonych wartościach określonych w prawie szkolnym
 i oświatowym.
     </p>
+    <div class = "back_next">
+    <a href="1_3.php" class="back-button"> wróć</a>
     <a href="1_5.php" class="start-button">przejdź dalej</a>
+    </div>
 </article>
 </section>
 </section>

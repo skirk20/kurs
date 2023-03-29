@@ -11,7 +11,10 @@ include_once("../module_1.php");
     przyjętymi przez szkołę (np. w programie profilaktyczno-wychowawczym).
     Przygotujesz uczniów do analizowania własnych zachowań i podejmowania decyzji
     z uwzględnieniem ich systemu wartości.</p>
+    <div class = "back_next">
+    <a href="1_1-main.php" class="back-button"> wróć</a>
     <a href="1_2.php" class="start-button">przejdź dalej</a>
+    </div>
 </article>
 </section>
 </section>

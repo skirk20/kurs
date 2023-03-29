@@ -41,7 +41,10 @@ do pomocy. Jak możemy wspierać w tym rodziców? Przede wszystkim podsuwając
 wskazówki, jak rozmawiać z młodymi ludźmi, aby samodzielnie znaleźli odpowiedź na
 pytanie kim są i czego chcą. Pomysły, jak to robić, znajdziesz w scenariuszu aktywności.
 </p>
-<a href="4_5.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="4_3.php" class="back-button"> wróć</a>
+    <a href="4_5.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

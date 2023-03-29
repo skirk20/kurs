@@ -24,7 +24,10 @@ include_once("../module_3.php");
         Jak rodzice rozmawiają z dziećmi o tym, co dzieje się w szkole?
         </li>
     </ul>
+    <div class = "back_next">
+    <a href="3_2.php" class="back-button"> wróć</a>
     <a href="3_4.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
     </section>
 </section>

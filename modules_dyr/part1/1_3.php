@@ -15,7 +15,10 @@ include_once("../module_1.php");
     </p>
     
     
-    <a href="1_4.php" class="start-button">przejdź dalej</a>
+    <div class = "back_next">
+            <a href="1_2.php" class="back-button"> wróć</a>
+            <a href="1_4.php" class="start-button">przejdź dalej</a>
+            </div>
 </article>
 </section>
 </section>

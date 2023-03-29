@@ -24,7 +24,10 @@ odpowiedzi na te pytania?
 zrealizować? Dlaczego? Co Ci przeszkadzało, a co wspierało?
         </li>
     </ul>
+    <div class = "back_next">
+    <a href="4_2.php" class="back-button"> wróć</a>
     <a href="4_4.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
     </section>
 </section>

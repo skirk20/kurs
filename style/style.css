@@ -113,6 +113,7 @@ main{
 }
 .module-choice{
     line-height: 1.5em;
+    display: inline-block;
 }
 .module-choice:hover{
     opacity: 70%;
@@ -140,7 +141,20 @@ main{
 ol,ul{
     line-height: 1.5em;
 }
-.start-button{
+.start-button {
+    padding: 0.5em 1em;
+    border: 1px solid #028388;
+    border-radius: 50px;
+    text-transform: uppercase;
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    margin-right: 0;
+    margin-top: 2em;
+    color: white;
+    background-color: #028388;
+}
+.back-button{
     padding: 0.5em 1em;
     border: 1px solid #028388;
     border-radius: 50px;
@@ -154,6 +168,10 @@ ol,ul{
     background-color: #028388;
 }
 .start-button:hover{
+    color: #028388;
+    background-color: white;
+}
+.back_button:hover{
     color: #028388;
     background-color: white;
 }
@@ -227,4 +245,7 @@ li::first-letter{
 }
 .knowledge>li{
     margin: .5em 0;
+}
+.back_next{
+    display: flex;
 }

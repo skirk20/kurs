@@ -38,7 +38,10 @@ z Wieliczki, opowie legendę związaną z kopalnią soli i zaproponuje wyjazd na
 pociągiem. Po zakończeniu treningu mama zaproponowała, aby Julka wystąpiła przed
 starszym bratem i sprawdziła, czy jej prezentacja go przekonała.
 </p>
-<a href="5_3.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="5_1.php" class="back-button"> wróć</a>
+    <a href="5_3.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

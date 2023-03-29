@@ -43,7 +43,10 @@ Po apelu wychowawczyni mówi:
     Zosiu, doceniam to, że wytrwałaś w skupieniu przez cały apel. Co Ci w tym pomogło?
     </p>
 </section>
-<a href="2_3.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="2_1.php" class="back-button"> wróć</a>
+    <a href="2_3.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

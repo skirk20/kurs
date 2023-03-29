@@ -11,7 +11,10 @@ kolejnych działań. Omówisz wybrany proces lub projekt z uczniami i rodzicami.
 refleksję w uczniach i rodzicach nie tylko nad samym efektem końcowym, ale również
 procesem do tego efektu prowadzącym. Dowiesz się, dlaczego popełnienie błędu to świetna
 okazja do uczenia się.</p>
-<a href="3_2.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="3_1-main.php" class="back-button"> wróć</a>
+    <a href="3_2.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

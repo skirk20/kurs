@@ -11,7 +11,10 @@ o budowanie dobrej przyszłości, z drugiej - korzystać z bieżących przyjemno
 metodą, aby to nie przypadek w pełni decydował o naszym życiu, jest wyznaczanie sobie
 celów i dążenie do ich realizacji. Tylko w ten sposób nie zgubimy obranej drogi w labiryncie
 życia.</p>
-<a href="4_1.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="../../modules.php" class="back-button"> wróć</a>
+    <a href="4_1.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

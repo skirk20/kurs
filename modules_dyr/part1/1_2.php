@@ -32,7 +32,10 @@ dowiedzieć, dlaczego pani Agnieszka nie może, podobnie jak polonistka w równo
 poświęcić lekcji wychowawczych na dodatkową lekcję matematyki. Jej zdaniem geometria
 leży, a dodatkowo część uczniów nie potrafi wykonywać obliczeń na ułamkach.
 </p>
-    <a href="1_3.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+            <a href="1_1.php" class="back-button"> wróć</a>
+            <a href="1_3.php" class="start-button">przejdź dalej</a>
+            </div>
 </section></article>
 </section>
 </section>

@@ -152,7 +152,10 @@ dyskusji:
     <p class="attached">
         <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf-zalaczniki_wychowawca.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
     </p>
-    <a href="1_6.php" class="start-button">przejdź Dalej</a>
+    <div class = "back_next">
+    <a href="1_4.php" class="back-button"> wróć</a>
+    <a href="1_6.php" class="start-button">przejdź dalej</a>
+    </div>
     </article>
     </section>
 </section>

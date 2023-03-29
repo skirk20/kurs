@@ -10,7 +10,10 @@ i wzmacniania ich motywacji. Będziesz rozróżniać, czym jest docenianie, a cz
 i jak wpływają one na kształtowanie postawy młodego człowieka. Nauczysz uczniów i ich
 rodziców doceniania i stworzysz sytuację, w której wzajemnie będą dostrzegać swoje mocne
 strony.</p>
-<a href="2_2.php" class="start-button">przejdź dalej</a>
+<div class = "back_next">
+    <a href="2_1-main.php" class="back-button"> wróć</a>
+    <a href="2_2.php" class="start-button">przejdź dalej</a>
+</div>
 </article>
 </section>
 </section>

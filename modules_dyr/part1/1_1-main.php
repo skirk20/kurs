@@ -8,7 +8,10 @@ include_once("../module_1.php");
 <p>Dyrektorze, masz ogromny wpływ na to, jaki ukryty program realizuje szkoła, której
 przewodzisz. To od wysyłanych przez Ciebie sygnałów i podejmowanych działań
 w bardzo dużym stopniu zależy jakość nauczania, wychowywania i opieki w Twojej szkole.</p>
-    <a href="1_1.php" class="start-button">przejdź dalej</a>
+    <div class = "back_next">
+            <a href="../../modules.php" class="back-button"> wróć</a>
+            <a href="1_1.php" class="start-button">przejdź dalej</a>
+            </div>
 </article>
 </section>
 </section>
