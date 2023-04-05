@@ -251,7 +251,7 @@ internetowe grupy wsparcia dla początkujących nauczycieli? A może w budżecie
 znajdą się finanse na opłacenie kursu, warsztatów albo wręcz szkolenie dla kadry
 pedagogicznej? Nawet jeśli budżet szkoły nie pozwala zrealizować wymarzonego
 scenariusza, to zawsze można podsunąć nowemu nauczycielowi wartościową literaturę,
-podcasty do odsłuchania lub inspirujące materiały w internecie.
+Inspiratoriumy do odsłuchania lub inspirujące materiały w internecie.
 </p>
 <p>
 Nie krytykuj za popełnione błędy. Stosuj informację zwrotną lub inne formy komunikowania

@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_1.php");
 ?>
 <article class="modules-content">
-<h2>wartości, czyli o ukrytych motywach naszego działania</h2>
+<h2>Wartości, czyli o ukrytych motywach naszego działania</h2>
 <p>Kurs zaczynamy od wartości. Dlaczego? Wyznawane przez nas wartości decydują o naszych postawach, są podstawą podejmowania przez nas decyzji, czasami prowadzą do konfliktów 
     z osobami o innej hierarchii wartości. Wpływają na nasze emocje, ocenę innych i samoocenę. </p>
     <p>

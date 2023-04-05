@@ -12,12 +12,12 @@
     include_once("../module_3.php");
     ?>
     <article class="modules-content">
-        <h2>omówienie, czyli świętowanie sukcesow i analizowanie porażek</h2>
+        <h2>Omówienie, czyli świętowanie sukcesow i analizowanie porażek</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQmhQRe6cYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
             <div class = "back_next">
-            <a href="../../modules.php" class="back-button"> wróć</a>
-            <a href="../part4/1_1-main.php" class="start-button">przejdź dalej</a>
+            <a href="../part2/1_1-main.php" class="back-button"> wróć</a>
+            <a href="3_2.php" class="start-button">przejdź dalej</a>
             </div>
     </article>
     </section>

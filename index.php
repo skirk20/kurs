@@ -37,7 +37,7 @@
         To tematy często pomijane w szkole. Tym
         kursem chcemy pokazać, jak otworzyć na nie serca i umysły uczniów oraz rodziców.</p>
         <p>
-        <a href="choice.php" class="start-button">rozpocznij</a>
+        <a href="choice.php" class="main-start-button">start</a>
         </p>
     </article>
             <img src="images/grafika_przewodnia.png" alt="klkl">
@@ -46,6 +46,14 @@
     <?php
     include_once('sample/footer.html')
     ?>
-
+<style>
+footer{
+    position: fixed;
+    bottom: 0;
+}
+main{
+    margin-bottom: 20vh;
+}
+</style>
 </body>
 </html>

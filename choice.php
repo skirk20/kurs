@@ -15,13 +15,13 @@ include('sample/navigation.html');
 <h2>
     Moduły
 </h2>
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia, quas, asperiores ullam neque aperiam similique ea at sint, vitae obcaecati quasi quam? Molestiae quam accusantium, eius deserunt at quasi earum?</p>
+<p>Wybierz ścieżkę rozwoju.</p>
 </article>
 </section>
 <section class="modules">
 <a href="modules_dyr/part1/1_1-main.php" class="button-black">dyrektor</a>
 <a href="modules.php" class="button-blue">nauczyciel</a>
-<a href="modules_parent.php" class="button-black">rodzic</a>
+<a href="modules_parent/part1/1_1-main.php" class="button-black">rodzic</a>
 </section> 
 </body>
 <?php

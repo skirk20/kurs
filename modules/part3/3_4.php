@@ -70,7 +70,7 @@ skupieni są na sobie, czemu towarzyszy niestabilność emocjonalna, niskie pocz
 wartości oraz dążenie do uzyskania “świętego spokoju”. Trudno w takich warunkach
 przyjmować informację zwrotną. Z tego powodu warto uczyć uczniów i rodziców, jak
 formułować informację zwrotną, czemu ma ona służyć i jak na nią reagować. O tym, jak to
-robić, dowiesz się z podcastu oraz scenariusza zajęć.
+robić, dowiesz się z Inspiratoriumu oraz scenariusza zajęć.
 </p>
 <div class = "back_next">
     <a href="3_3.php" class="back-button"> wróć</a>

@@ -3,14 +3,14 @@
 
     <h3>
         <a href="../part1/1_1-main.php" class="module-choice">
-        wartości, czyli o ukrytych motywach naszego dzialania</a>
+        Wartości, czyli o ukrytych motywach naszego dzialania</a>
     </h3>
    
         
-        <h3><a href="../part2/2_1-main.php" class="module-choice"> docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
-        <h3><a href="../part3/3_1-main.php" class="module-choice"> omówienie, czyli świętowanie sukcesow i analizowanie porażek</a></h3>
+        <h3><a href="../part2/2_1-main.php" class="module-choice"> Docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
+        <h3><a href="../part3/3_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesow i analizowanie porażek</a></h3>
 
-        <h3><a href="../part4/4_1-main.php" class="module-choice" style="color: #028388;"> planowanie, czyli wyznaczanie celów i skuteczne dążenie do
+        <h3><a href="../part4/4_1-main.php" class="module-choice" style="color: #028388;"> Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
 nich</a></h3>
         <ul>
         <li><a href="4_1.php" class="button-choice">efekt</a></li>
@@ -18,9 +18,9 @@ nich</a></h3>
         <li><a href="4_3.php" class="button-choice">refleksja</a></li>
         <li><a href="4_4.php" class="button-choice">wiedza</a></li>
         <li><a href="4_5.php" class="button-choice">praktyka</a></li>
-        <li><a href="4_6.php" class="button-choice">Podcast</a></li>
+        <li><a href="4_6.php" class="button-choice">Inspiratorium</a></li>
         <li><a href="4_7.php" class="button-choice">Literatura</a></li>
         </ul>
-        <h3><a href="../part5/5_1-main.php" class="module-choice"> wytrwałość, czyli życie jako maraton, a nie sprint</a></h3>
+        <h3><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a nie sprint</a></h3>
 </section>
 <section class="content content3">

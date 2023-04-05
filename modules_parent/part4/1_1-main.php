@@ -12,12 +12,12 @@
     include_once("../module_4.php");
     ?>
     <article class="modules-content">
-        <h2>planowanie, czyli wyznaczanie celów i skuteczne dążenie do nich</h2>
+        <h2>Planowanie, czyli wyznaczanie celów i skuteczne dążenie do nich</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/gxdl8NwlqaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
             <div class = "back_next">
-            <a href="../../modules.php" class="back-button"> wróć</a>
-            <a href="../part5/1_1-main.php" class="start-button">przejdź dalej</a>
+            <a href="../part3/1_1-main.php" class="back-button"> wróć</a>
+            <a href="4_2.php" class="start-button">przejdź dalej</a>
             </div>
     </article>
     </section>
