@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_3.php");
 ?>
 <article class="modules-content">
-<h2>Omówienie, czyli świętowanie sukcesow i analizowanie porażek</h2>
+<h2>Omówienie, czyli świętowanie sukcesow i&nbspanalizowanie porażek</h2>
 <p>Często w naszym działaniu przechodzimy płynnie od zakończenia jednego zadania do
 rozpoczęcia kolejnego. Nie mamy nawyku przyglądania się temu, co pomagało, a co
 przeszkadzało osiągnąć cel, podsumowywania i omawiania wniosków - zarówno z tego, co

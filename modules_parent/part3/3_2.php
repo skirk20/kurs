@@ -4,27 +4,11 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_3.php");
 ?>
 <article class="modules-content">
-<h2>Dowiedz się więcej</h2>
-<p>Polecamy przeczytać</p>
-<p>
-    <ul>
-    <li>
-        Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i rodzicielstwie, wyd. MiND, 2013 r.
-        </li>
-        <li>
-        John M. Oldham, Lois B. Morris, Twój psychologiczny autoportret, wyd. Czarna Owca, 2019 r.
-        </li>
-        <li>
-        Kevin Steede, 10 błędów popełnianych przez dobrych rodziców, wyd. GWP Gdańskie Wydawnictwo Psychologiczne, wyd. 2015
-        </li>
-    </ul>
-</p>
-<p class="attached">
-    <!-- <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a> -->
-</p>
+<h2>Inspiratorium</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5qEwj7V5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <div class = "back_next">
     <a href="1_1-main.php" class="back-button"> wróć</a>
-    <a href="../part4/1_1-main.php" class="start-button">przejdź dalej</a>
+    <a href="3_3.php" class="start-button">przejdź dalej</a>
     </div>
 </article>
 </section>

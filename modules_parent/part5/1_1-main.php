@@ -12,7 +12,7 @@
     include_once("../module_5.php");
     ?>
     <article class="modules-content">
-        <h2>Wytrwałość, czyli życie jako maraton, a nie sprint</h2>
+        <h2>Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/AvFrPAc7Nrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <div class = "back_next">
             <a href="../part4/1_1-main.php" class="back-button"> wróć</a>

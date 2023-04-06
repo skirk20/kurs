@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_4.php");
 ?>
 <article class="modules-content">
-<h2>Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
+<h2>Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do
 nich</h2>
 <p>Czasy, w których żyjemy, obfitują w wiele możliwości i pokus. Z jednej strony chcemy dbać
 o budowanie dobrej przyszłości, z drugiej - korzystać z bieżących przyjemności. Jedyną

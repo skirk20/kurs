@@ -39,7 +39,7 @@ wychowawców klas 4-8:
     Planowanie, czyli wyznaczanie celów i skuteczne dążenie do nich
     </li>
     <li>
-    Wytrwałość, czyli życie jako maraton, a nie sprint
+    Wytrwałość, czyli życie jako maraton, a&nbspnie sprint
     </li>
 </ul></p>
 <p>
