@@ -16,12 +16,7 @@
             <li><a href="3_6.php" class="button-choice">Inspiratorium</a></li>
             <li><a href="3_7.php" class="button-choice">Literatura</a></li>
             </ul>
-<<<<<<< HEAD
         <h3><a href="../part4/4_1-main.php" class="module-choice"> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie&nbspdonich</a></h3>
-=======
-        <h3><a href="../part4/4_1-main.php" class="module-choice"> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do
-nich</a></h3>
->>>>>>> d2f6e60c7931cb2caf34f00d3ace546f004c5d7c
         <h3><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>
 
 </section>
