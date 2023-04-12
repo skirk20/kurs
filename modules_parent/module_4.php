@@ -2,7 +2,7 @@
 <section class="left-bar">
 <h3>
         <a href="../part1/1_1-main.php" class="module-choice">
-        Wartości, czyli o ukrytych motywach naszego dzialania</a>
+        Wartości, czyli o&nbspukrytych motywach naszego dzialania</a>
     </h3>
 <h3><a href="../part2/1_1-main.php" class="module-choice"> Docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
         <h3><a href="../part3/1_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesow i&nbspanalizowanie porażek</a></h3>

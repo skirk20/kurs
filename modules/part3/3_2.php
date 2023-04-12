@@ -5,12 +5,12 @@ include_once("../module_3.php");
 ?>
 <article class="modules-content">
 <h2>studium przypadku</h2>
-<p>Anna, wychowawczyni klasy 6a, przesyła do rodziców plan zebrania na koniec semestru. </p>
+<p>Anna, wychowawczyni klasy 6a, przesyła do&nbsprodziców plan zebrania na koniec semestru. </p>
 
 <div class="content-1_2">
     
             Szanowni Państwo,<br>
-        przypominam, że w najbliższy czwartek odbędzie się zebranie podsumowujące pierwszy
+        przypominam, że&nbspw&nbspnajbliższy czwartek odbędzie się zebranie podsumowujące pierwszy
         semestr. Poniżej przedstawiam plan spotkania:
     
         <ol style="margin-left: 2em;">
@@ -37,13 +37,13 @@ include_once("../module_3.php");
     
 </div>
 <p>
-Marta, wychowawczyni klasy 6b, przesyła do rodziców plan zebrania na koniec semestru.
+Marta, wychowawczyni klasy 6b, przesyła do&nbsprodziców plan zebrania na&nbspkoniec semestru.
 </p>
 <div class="content-1_2">
 
 
 Szanowni Państwo,<br>
-przypominam, że w najbliższy czwartek odbędzie się zebranie podsumowujące pierwszy
+przypominam, że&nbspw&nbspnajbliższy czwartek odbędzie się zebranie podsumowujące pierwszy
 semestr. Chciałabym z Państwem porozmawiać o:
     
         <ul style="margin-left: 2em;">
@@ -51,7 +51,7 @@ semestr. Chciałabym z Państwem porozmawiać o:
             tym, co dobrego wydarzyło się w tym semestrze;.
             </li>
             <li>
-            tym, co stanowiło dla nas największe wyzwanie w wychowywaniu młodych ludzi;
+            tym, co stanowiło dla nas największe wyzwanie w&nbspwychowywaniu młodych ludzi;
             </li>
             <li>
             tym, w jakich obszarach zauważyliśmy rozwój młodych;

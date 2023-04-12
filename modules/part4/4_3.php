@@ -13,15 +13,15 @@ include_once("../module_4.php");
         Jak na nie reagujesz?
         </li>
         <li>
-        W jakim stopniu uważasz, że jesteś w stanie wesprzeć rodziców w znalezieniu
+        W jakim stopniu uważasz, że jesteś w stanie wesprzeć rodziców w&nbspznalezieniu
 odpowiedzi na te pytania?
         </li>
         <li>
-        Jak rozmawiasz z uczniami o wyznaczaniu celów życiowych?
+        Jak rozmawiasz z uczniami o&nbspwyznaczaniu celów życiowych?
         </li>
         <li>
         Przypomnij sobie jakikolwiek własny cel życiowy. Jak go określałeś/aś? Czy udało Ci się go
-zrealizować? Dlaczego? Co Ci przeszkadzało, a co wspierało?
+zrealizować? Dlaczego? Co Ci przeszkadzało, a&nbspco wspierało?
         </li>
     </ul>
     <div class = "back_next">

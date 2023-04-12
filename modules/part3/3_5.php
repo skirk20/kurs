@@ -7,15 +7,15 @@ include_once("../module_3.php");
     <h2>praktyka</h2>
     <h3>scenariusz lekcji wychowawczej</h3>
     <p>
-        <b>temat:</b> Omówienie, czyli świętowanie sukcesów i analizowanie porażek</br>
+        <b>temat:</b> Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</br>
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
     <h3>cel:</h3>
         <p>po zajeciach uczen: </p>
         <ul>
-            <li>rozumie, dlaczego warto podsumowywać wydarzenia, procesy i efekty swojej pracy</li>
-            <li>swie, jak powinna być zbudowana informacja zwrotna</li>
-            <li>jest świadom, że informacja zwrotna służy rozwojowi a nie jest próbą krytyki danej
+            <li>rozumie, dlaczego warto podsumowywać wydarzenia, procesy i&nbspefekty swojej pracy</li>
+            <li>wie, jak powinna być zbudowana informacja zwrotna</li>
+            <li>jest świadom, że informacja zwrotna służy rozwojowi a&nbspnie jest próbą krytyki danej
 osoby.</li>
         </ul>
     <h3>metody</h3>
@@ -34,7 +34,7 @@ osoby.</li>
     
     <li>
     
-    Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o zasadach
+    Przywitaj się z&nbspuczniami. Przedstaw temat oraz cele lekcji, przypomnij o&nbspzasadach
 panujących na lekcji (wywieś kontrakt).
         
     </li>
@@ -43,15 +43,15 @@ panujących na lekcji (wywieś kontrakt).
     <ol class="a1_5-list">
     <li>
         
-    Poproś uczniów o połączenie się w pary, ewentualnie w trzyosobowe grupy. Wręcz
-przykłady informacji zwrotnych z załącznika nr 1: otrzymaną od nauczyciela za efekt
+    Poproś uczniów o&nbsppołączenie się w pary, ewentualnie w&nbsptrzyosobowe grupy. Wręcz
+przykłady informacji zwrotnych z&nbspzałącznika nr 1: otrzymaną od&nbspnauczyciela za efekt
 swojej pracy (wypracowanie), za proces (prezentacja projektu), udzieloną przez
 rodzica dotyczącą spraw domowych.
     </li>
     <li>
         
-    Uczniowie zapoznają się z nimi i ustalają, jak mógł czuć się ich odbiorca, jakie widzą
-mocne i słabe strony każdej z informacji zwrotnej.
+    Uczniowie zapoznają się z&nbspnimi i&nbspustalają, jak mógł czuć się ich odbiorca, jakie widzą
+mocne i&nbspsłabe strony każdej z informacji zwrotnej.
         
     </li>
     <li> 
@@ -61,33 +61,32 @@ mocne i słabe strony każdej z informacji zwrotnej.
             zachęć do podzielenia się wnioskami dot. każdej informacji zwrotnej;
             </li>
             <li>
-            zapytaj, które informacje zwrotne dostarczają informacji o tym, nad czym
+            zapytaj, które informacje zwrotne dostarczają informacji o&nbsptym, nad czym
 należy pracować;
             </li>
             <li>
-            zapytaj, które informacje zwrotne dostarczają informacji o tym, jak można w
-przyszłości lepiej wykonać zadanie/osiągnąć lepszy efekt.
+            zapytaj, które informacje zwrotne dostarczają informacji o&nbsptym, jak można w&nbspprzyszłości lepiej wykonać zadanie/osiągnąć lepszy efekt.
             </li>
         </ul>
     </li>
     </ol>
-<p>    Uczniowie powinni dojść do wniosku, że informacje zwrotne zawierające konkretne
-odniesienie do faktów umożliwiają doskonalenie swojej pracy. Nie są przejawem czepialstwa
-ani nie są wymierzone w odbiorcę, lecz stanowią konkretną wskazówkę nad tym, co i jak
+<p>    Uczniowie powinni dojść do wniosku, że&nbspinformacje zwrotne zawierające konkretne
+odniesienie do&nbspfaktów umożliwiają doskonalenie swojej pracy. Nie są przejawem czepialstwa
+ani nie są wymierzone w odbiorcę, lecz stanowią konkretną wskazówkę nad tym, co i&nbspjak
 można poprawić.
 </p>
 <ol class="a1_5-list">
     <li>
         
-    Poproś uczniów, aby indywidualnie opisali na kartkach sytuacje, w których
-otrzymywali od rodziców trudne do przyjęcia komentarze (wywołujące nieprzyjemne
+    Poproś uczniów, aby indywidualnie opisali na kartkach sytuacje, w&nbspktórych
+otrzymywali od&nbsprodziców trudne do przyjęcia komentarze (wywołujące nieprzyjemne
 uczucia, konflikt, itp.).
         
     </li>
     <li>
     
-    Wyjaśnij, że chciałbyś zebrać te opisy i rozdać je rodzicom na zebraniu - po to, aby
-rodzice nauczyli się formułować informację zwrotną. Poproś o zgodę uczniów.
+    Wyjaśnij, że chciałbyś zebrać te opisy i&nbsprozdać je rodzicom na zebraniu - po to, aby
+rodzice nauczyli się formułować informację zwrotną. Poproś o&nbspzgodę uczniów.
         
     </li>
     </ol>
@@ -96,21 +95,21 @@ rodzice nauczyli się formułować informację zwrotną. Poproś o zgodę uczni�
     <li>
         
     Powiedz, że istotnym elementem każdego procesu jest jego omówienie. Dziś takim
-procesem była praca i refleksja nad informacjami zwrotnymi. Poproś, aby każdy
-uczeń zapisał na samoprzylepnej karteczce, czego się nauczył i (ewentualnie, w
-zależności od dojrzałości uczniów) jak zamierza wykorzystać tę wiedzę.
+procesem była praca i&nbsprefleksja nad informacjami zwrotnymi. Poproś, aby każdy
+uczeń zapisał na&nbspsamoprzylepnej karteczce, czego się nauczył i&nbsp(ewentualnie, w
+zależności od&nbspdojrzałości uczniów) jak zamierza wykorzystać tę wiedzę.
         
     </li>
     <li>
-    W ramach podsumowania opowiedz uczniom o zebraniu z rodzicami, na którym
-również będziesz rozmawiać o informacji zwrotnej. Zadaniem rodziców będzie
-udzielenie informacji zwrotnej do opisanej przez uczniów sytuacji, a następnie
-wspólne omówienie jej z dziećmi.
+    W ramach podsumowania opowiedz uczniom o&nbspzebraniu z&nbsprodzicami, na którym
+również będziesz rozmawiać o&nbspinformacji zwrotnej. Zadaniem rodziców będzie
+udzielenie informacji zwrotnej do&nbspopisanej przez uczniów sytuacji, a&nbspnastępnie
+wspólne omówienie jej z&nbspdziećmi.
     </li>
 </ol>
     <h3>Propozycja rozszerzenia:</h3>
     <p>
-    W celu głębszego zrozumienia przez uczniów, czym jest omówienie i świętowanie, na
+    W celu głębszego zrozumienia przez uczniów, czym jest omówienie i&nbspświętowanie, na
 kolejnej lekcji zaproponuj zabawę:
     </p>
     <ol class="a1_5-list">
@@ -122,7 +121,7 @@ kolejnej lekcji zaproponuj zabawę:
     </li>
     <li>
     
-    Sformułuj zadanie: Zbudujcie z przygotowanych materiałów jak najwyższą wieżę.
+    Sformułuj zadanie: Zbudujcie z&nbspprzygotowanych materiałów jak najwyższą wieżę.
 Musi utrzymać się co najmniej przez 1 minutę po zakończeniu procesu budowania. Macie na wykonanie zadania 10/15 minut. Ustalcie, jak będziecie świętować swój
 sukces - skonstruowanie wieży.
     
@@ -131,7 +130,7 @@ sukces - skonstruowanie wieży.
     W trakcie zadania obserwuj grupy.
     </li>
     <li>
-    Po sygnale, że grupa skończyła zadanie spytaj, jak mieli świętować, i przypomnij o
+    Po sygnale, że grupa skończyła zadanie spytaj, jak mieli świętować, i&nbspprzypomnij o
 tym, że to odpowiedni moment.
     </li>
     <li>
@@ -160,13 +159,13 @@ uczestnicy realizowali moduł 2).
         Z czego jesteście dumni?
         </li>
         <li>
-        Jak myślisz, co pomagało, a co przeszkadzało w wykonaniu zadania?
+        Jak myślisz, co pomagało, a co przeszkadzało w&nbspwykonaniu zadania?
         </li>
     </ul>
     </li>
     <li>
-    Zachęć uczniów do udzielenia informacji zwrotnej wybranej osobie w grupie.
-Podkreśl, że uczniowie muszą zadbać, o to aby każda osoba z grupy otrzymała co
+    Zachęć uczniów do udzielenia informacji zwrotnej wybranej osobie w&nbspgrupie.
+Podkreśl, że uczniowie muszą zadbać, o&nbspto aby każda osoba z&nbspgrupy otrzymała co
 najmniej dwie informacje zwrotne.
     </li>
     <li>
@@ -176,8 +175,8 @@ najmniej dwie informacje zwrotne.
     Poprowadź rozmowę o tym, jak można wspólnie świętować sukcesy.
     </li>
     <li>
-    Pokieruj rozmową o tym, co i jak można podsumowywać w domu, w szkole. Jak to
-robić w rodzinie, w klasie, a jak indywidualnie.
+    Pokieruj rozmową o tym, co i&nbspjak można podsumowywać w&nbspdomu, w&nbspszkole. Jak to
+robić w&nbsprodzinie, w&nbspklasie, a&nbspjak indywidualnie.
     </li>
 </ol>
     <p class="attached">

@@ -12,16 +12,16 @@ include_once("../module_3.php");
         Jak podsumowujesz ważne dla siebie wydarzenia czy etapy w życiu?
         </li>
         <li>
-        Jak często podsumowujesz z uczniami wydarzenia klasowe?
+        Jak często podsumowujesz z&nbspuczniami wydarzenia klasowe?
         </li>
         <li>
-        Czy omawiasz z uczniami ich postępy? W jaki sposób?
+        Czy omawiasz z uczniami ich postępy? W&nbspjaki sposób?
         </li>
         <li>
-        W jakich sytuacjach masz szansę poznać refleksje rodziców o postępach ich dzieci? Czy dla Ciebie są to sytuacje komfortowe?
+        W jakich sytuacjach masz szansę poznać refleksje rodziców o&nbsppostępach ich dzieci? Czy dla Ciebie są to sytuacje komfortowe?
         </li>
         <li>
-        Jak rodzice rozmawiają z dziećmi o tym, co dzieje się w szkole?
+        Jak rodzice rozmawiają z dziećmi o&nbsptym, co dzieje się w&nbspszkole?
         </li>
     </ul>
     <div class = "back_next">

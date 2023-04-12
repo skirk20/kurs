@@ -37,22 +37,21 @@ include_once("../module_2.php");
     
     <li>
     
-    Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o zasadach
+    Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o&nbspzasadach
 panujących na lekcji (wywieś kontrakt).
         
     </li>
     <li>
         
-    Zaanimuj swobodną rozmowę na forum klasy - czym jest docenianie? Zapisz
+    Zaanimuj swobodną rozmowę na&nbspforum klasy - czym jest docenianie? Zapisz
 wypowiedziane przez uczniów słowa/zwroty kluczowe.
         
     </li>
     <li>
         
-    Poproś chętnych uczniów aby powiedzieli, co lub kogo doceniają. Zwróć uwagę, że
-często nie doceniamy tego, co mamy oraz ludzi, którzy nas otaczają. Możesz odwołać
-się do własnych doświadczeń (np. nie doceniałam/em swobody możliwości
-bezpośredniego kontaktu z uczniami, dopóki nie pojawiła się edukacja zdalna).
+    Poproś chętnych uczniów aby powiedzieli, co lub kogo doceniają. Zwróć uwagę, że&nbspczęsto nie doceniamy tego, co mamy oraz ludzi, którzy nas otaczają. Możesz odwołać
+się do&nbspwłasnych doświadczeń (np. nie doceniałam/em swobody możliwości
+bezpośredniego kontaktu z&nbspuczniami, dopóki nie pojawiła się edukacja zdalna).
         
     </li>
     </ol>
@@ -72,7 +71,7 @@ pracy.
     <li>
     
     Podziel uczniów na kilkuosobowe grupy. Każdej wręcz opisy dwóch sytuacji (załącznik
-nr 1). Poproś, aby zapoznali się z nimi i znaleźli różnice w sposobie formułowania
+nr 1). Poproś, aby zapoznali się z&nbspnimi i&nbspznaleźli różnice w&nbspsposobie formułowania
 przekazu.
         
     </li>
@@ -93,12 +92,12 @@ przekazu.
     </ul>
     </li>
     <li>
-    Powiedz uczniom, aby powrócili do lektury sformułowanych przez siebie na początku
-lekcji wypowiedzi. Poproś, aby zastanowili się, co by zmienili w tej wypowiedzi, mając
+    Powiedz uczniom, aby powrócili do&nbsplektury sformułowanych przez siebie na&nbsppoczątku
+lekcji wypowiedzi. Poproś, aby zastanowili się, co by zmienili w&nbsptej wypowiedzi, mając
 już nową wiedzę.
     </li>
     <li>
-    Chętni uczniowie czytają swoje pierwsze i zmodyfikowane wypowiedzi (pamiętaj, że
+    Chętni uczniowie czytają swoje pierwsze i&nbspzmodyfikowane wypowiedzi (pamiętaj, że
 jest to zadanie tylko dla chętnych).
     </li>
     </ol>
@@ -106,8 +105,8 @@ jest to zadanie tylko dla chętnych).
     <ol class="a1_5-list">
     <li>
         
-    W ramach podsumowania opowiedz uczniom o zebraniu z rodzicami, na którym
-również będziesz rozmawiać o docenianiu. Powiedz o zadaniu, które rodzice
+    W ramach podsumowania opowiedz uczniom o&nbspzebraniu z rodzicami, na którym
+również będziesz rozmawiać o&nbspdocenianiu. Powiedz o&nbspzadaniu, które rodzice
 otrzymają do wykonania wraz uczniami - wspólnym codziennym docenianiu się przez
 najbliższy tydzień.
         
@@ -118,21 +117,21 @@ najbliższy tydzień.
     <li>
     
     Zajęcia możesz podzielić na więcej jednostek lekcyjnych. Możliwe, że dyskusja
-w ramach fazy wstępnej okaże się bardzo owocna. W takim przypadku nie przerywaj
-jej. Staraj się, aby uczniowie nazwali to, co doceniają (zdrowie, rodzinę, wolność,
-pokój, przyrodę, itp.) i z jakiego powodu to doceniają. To ważne, aby umieć doceniać
-i cieszyć się tym, co wokół nas.
+w&nbspramach fazy wstępnej okaże się bardzo owocna. W&nbsptakim przypadku nie przerywaj
+jej. Staraj się, aby uczniowie nazwali to, co&nbspdoceniają (zdrowie, rodzinę, wolność,
+pokój, przyrodę, itp.) i&nbspz&nbspjakiego powodu to doceniają. To ważne, aby umieć doceniać
+i&nbspcieszyć się tym, co wokół nas.
         
     </li>
     <li>
     
-    Pod koniec fazy realizacyjnej możesz rozpocząć rozmowę/pracę w grupach nad
+    Pod koniec fazy realizacyjnej możesz rozpocząć rozmowę/pracę w&nbspgrupach nad
 poszukiwaniem innych sposobów doceniania.
     
     </li>
     <li>
         
-    Możesz sformułować zadanie indywidualne - napisz, narysuj za co doceniasz rodziców
+    Możesz sformułować zadanie indywidualne - napisz, narysuj za&nbspco&nbspdoceniasz rodziców
 (pamiętaj, aby docenienie spełniało kryteria).
     </li>
 </ol>

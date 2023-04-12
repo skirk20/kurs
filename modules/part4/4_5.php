@@ -7,13 +7,13 @@ include_once("../module_4.php");
     <h2>praktyka</h2>
     <h3>scenariusz lekcji wychowawczej</h3>
     <p>
-        <b>temat:</b> Planowanie, czyli wyznaczanie celów i skuteczne dążenie do nich.</br>
-        <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
+        <b>temat:</b> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do nich.</br>
+        <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o&nbspdodatkowe 45 min.)
     </p>
     <h3>cele:</h3>
         po zajeciach uczen: </br>
         <ul>
-            <li>rozumie potrzebę formułowania i zapisywania celów</li>
+            <li>rozumie potrzebę formułowania i&nbspzapisywania celów</li>
             <li>wie, jak sformułować cel metodą SMART</li>
             <li>potrafi wyznaczyć swój cel.</li>
         </ul>
@@ -35,7 +35,7 @@ include_once("../module_4.php");
     <ol class="a1_5-list">
     
     <li>
-    Przedstaw temat oraz cele lekcji. Przypomnij o zasadach panujących na lekcji (wywieś
+    Przedstaw temat oraz cele lekcji. Przypomnij o&nbspzasadach panujących na lekcji (wywieś
 kontrakt).
     </li>
     </ol>
@@ -43,29 +43,29 @@ kontrakt).
     <ol class="a1_5-list">
     <li>
         
-    Poproś uczniów i uczennice, aby każde z nich zapisało jeden cel, który chciałoby
-osiągnąć i jeden, który już osiągnęło. Następnie dobierają się w pary i rozmawiają
-o tych celach - zwłaszcza o tym, dlaczego je wybrali i co pomogło lub może pomóc
-w ich zrealizowaniu.
+    Poproś uczniów i&nbspuczennice, aby każde z&nbspnich zapisało jeden cel, który chciałoby
+osiągnąć i&nbspjeden, który już osiągnęło. Następnie dobierają się w&nbsppary i&nbsprozmawiają
+o&nbsptych celach - zwłaszcza o&nbsptym, dlaczego je wybrali i&nbspco pomogło lub może pomóc
+w&nbspich zrealizowaniu.
         
     </li>
     <li>
         
     Zachęć uczniów do rozmowy na forum klasy - dlaczego warto wyznaczać sobie cele
-i je zapisywać. Uczniowie powinni dojść do wniosku, że dzięki temu formułujemy jasny, zrozumiały kierunek działania. Zapisanie go motywuje, niejako zobowiązuje nas
-do osiągnięcia go. Możesz odwołać się do własnego doświadczenia.
+i&nbspje zapisywać. Uczniowie powinni dojść do&nbspwniosku, że dzięki temu formułujemy jasny, zrozumiały kierunek działania. Zapisanie go motywuje, niejako zobowiązuje nas
+do&nbsposiągnięcia go. Możesz odwołać się do&nbspwłasnego doświadczenia.
         
     </li>
     <li>
     
-    Omów, czym jest metoda SMART w określaniu celów. Informacje znajdziesz
-w załączniku nr 1.
+    Omów, czym jest metoda SMART w&nbspokreślaniu celów. Informacje znajdziesz
+w&nbspzałączniku nr 1.
         
     </li>
     <li>
         
     Podziel uczniów na kilkuosobowe grupy. Każdej rozdaj przykład różnych celów
-(załącznik nr 2). Poproś, aby określili, które są zgodnie z koncepcją SMART, a które
+(załącznik nr 2). Poproś, aby określili, które są zgodnie z&nbspkoncepcją SMART, a&nbspktóre
 nie. Swoje decyzje powinni uzasadnić.
         
     </li>
@@ -77,19 +77,19 @@ nie. Swoje decyzje powinni uzasadnić.
     <ol class="a1_5-list">
     <li>
         
-    Zachęć uczniów do sformułowania własnych celów zgodnie z metodą SMART.
-W zależności od dojrzałości młodych ludzi możesz zaproponować sformułowanie
-celów krótkoterminowych lub długoterminowych (w perspektywie kilku miesięcy lub
+    Zachęć uczniów do sformułowania własnych celów zgodnie z&nbspmetodą SMART.
+W&nbspzależności od&nbspdojrzałości młodych ludzi możesz zaproponować sformułowanie
+celów krótkoterminowych lub długoterminowych (w&nbspperspektywie kilku miesięcy lub
 nawet lat).
         
     </li>
     <li>
-    Uczniowie w parach sprawdzają, czy ich cele spełniają kryteria metody SMART.
+    Uczniowie w&nbspparach sprawdzają, czy ich cele spełniają kryteria metody SMART.
     </li>
     <li>
-    Opowiedz uczniom o zebraniu z rodzicami, na którym również będziesz rozmawiać
-o formułowaniu celów. Wspólnym zadaniem rodziców i uczniów będzie wyznaczenie
-jednego rodzinnego celu i zastanowienie się jak chcą go osiągnąć i co jest im
+    Opowiedz uczniom o&nbspzebraniu z&nbsprodzicami, na którym również będziesz rozmawiać
+o&nbspformułowaniu celów. Wspólnym zadaniem rodziców i&nbspuczniów będzie wyznaczenie
+jednego rodzinnego celu i&nbspzastanowienie się jak chcą go osiągnąć i&nbspco jest im
 potrzebne.
     </li>
 </ol>

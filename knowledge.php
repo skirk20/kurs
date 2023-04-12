@@ -30,7 +30,7 @@
                     Stephen Covey, 7 nawyków skutecznego działania, wyd. Rebis, 2022
                 </li>
                 <li>
-                    Angela Lee Duckworth, Upór. Potęga pasji i wytrwałości, wyd. Galaktyka, 2016 r.
+                    Angela Lee Duckworth, Upór. Potęga pasji i&nbspwytrwałości, wyd. Galaktyka, 2016 r.
                 </li>
                 <li>
                     Carol Dweck, Nowa psychologia sukcesu, wyd. MUZA, 2015 r. r.
@@ -39,19 +39,19 @@
                     John Hattie, Widoczne uczenie się dla nauczycieli, wyd. Centrum Edukacji Obywatelskiej, 2015 r.
                 </li>
                 <li>
-                    Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i rodzicielstwie, wyd. MiND, 2013 r.
+                    Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i&nbsprodzicielstwie, wyd. MiND, 2013 r.
                 </li>
                 <li>
-                    Agnieszka Kozak, Joanna Berendt, Dogadać się z nastolatkiem. Dojrzałość i szacunek w relacji, wyd. CoJaNaTo, 2021 r.
+                    Agnieszka Kozak, Joanna Berendt, Dogadać się z nastolatkiem. Dojrzałość i&nbspszacunek w relacji, wyd. CoJaNaTo, 2021 r.
                 </li>
                 <li>
-                    Robert J. Marzano, Sztuka i teoria skutecznego nauczania, wyd. Civitas, 2015 r.
+                    Robert J. Marzano, Sztuka i&nbspteoria skutecznego nauczania, wyd. Civitas, 2015 r.
                 </li>
                 <li>
                     John M. Oldham, Lois B. Morris, Twój psychologiczny autoportret, wyd. Czarna Owca, 2019 r.
                 </li>
                 <li>
-                    Marshall B. Rosenebrg, Porozumienie bez przemocy. O języku życia, wyd. Czarna Owca,
+                    Marshall B. Rosenebrg, Porozumienie bez przemocy. O&nbspjęzyku życia, wyd. Czarna Owca,
                     2015 r.</li>
 
                 <li>

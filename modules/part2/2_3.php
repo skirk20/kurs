@@ -9,19 +9,19 @@ include_once("../module_2.php");
     
     <ul>
         <li>
-        Która z tych osób czuje się autentycznie doceniona?
+        Która z&nbsptych osób czuje się autentycznie doceniona?
         </li>
         <li>
-        Która z tych osób uważa, że dyrektor widział jej pracę?
+        Która z&nbsptych osób uważa, że dyrektor widział jej pracę?
         </li>
         <li>
         Które słowa doceniania chciałabyś/chciałbyś Ty usłyszeć?
         </li>
         <li>
-        Który rodzic czuje, że jego wysiłek został dostrzeżony?
+        Który rodzic czuje, że&nbspjego wysiłek został dostrzeżony?
         </li>
         <li>
-        Który uczeń będzie czuł się bardziej zmotywowany do dalszej pracy nad sobą?
+        Który uczeń będzie czuł się bardziej zmotywowany do&nbspdalszej pracy nad sobą?
         </li>
     </ul>
     <p>pomyśl:</p>

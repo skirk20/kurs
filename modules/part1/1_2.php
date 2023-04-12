@@ -6,16 +6,16 @@ include_once("../module_1.php");
 <article class="modules-content">
 <h2>Studium przypadku</h2>
 <p>W szkole odbywają się obchody Święta Niepodległości. Adrian, uczeń 8 klasy, przychodzi
-    w dresie. Magda, jego wychowawczyni, kilkukrotnie przypominała o odpowiednim ubiorze.
-    Zdecydowała się napisać wiadomość do rodziców:</p>
+    w&nbspdresie. Magda, jego wychowawczyni, kilkukrotnie przypominała o&nbspodpowiednim ubiorze.
+    Zdecydowała się napisać wiadomość do&nbsprodziców:</p>
 
 <section class="content-1_2">
     <p style="font-style:oblique;">
         <head>Szanowni Państwo,</head><br><br>
         
-            Adrian, mimo moich wcześniejszych informacji o obowiązku ubrania się w strój galowy,
-            przyszedł na obchody Święta Niepodległości w dresie. Bardzo proszę o porozmawianie
-            z synem na ten temat.
+            Adrian, mimo moich wcześniejszych informacji o&nbspobowiązku ubrania się w&nbspstrój galowy,
+            przyszedł na&nbspobchody Święta Niepodległości w&nbspdresie. Bardzo proszę o&nbspporozmawianie
+            z&nbspsynem na&nbspten&nbsptemat.
         <br><br>
         Z poważaniem,<br>
         Magdalena Kowalska
@@ -24,7 +24,7 @@ include_once("../module_1.php");
     <h4>Magda otrzymała odpowiedź:</h4>
     <p style="font-style:oblique;">
         Pani Magdo,<br><br>
-        szanujemy wybór Adriana, dajemy mu wolność w decydowaniu o swoim ubiorze.<br><br>
+        szanujemy wybór Adriana, dajemy mu wolność w&nbspdecydowaniu o&nbspswoim ubiorze.<br><br>
         Z pozdrowieniami,
         Justyna Nowak
     </p>

@@ -6,9 +6,9 @@ include_once("../module_5.php");
 <article class="modules-content">
 <h2>Efekt</h2>
 <p>Po zrealizowaniu tego modułu będziesz wiedzieć, jak wspierać rozwój wytrwałości swoich
-uczniów w sytuacjach szkolnych oraz jak rozmawiać z rodzicami o wspieraniu nastolatków
-w kształtowaniu wytrwałości. Zachęcisz rodziców i uczniów do zastanowienia się nad tym,
-kiedy wytrwałość jest potrzebna, czy są wytrwali oraz zainspirujesz rodziców do tego, jak
+uczniów w sytuacjach szkolnych oraz jak rozmawiać z&nbsprodzicami o&nbspwspieraniu nastolatków
+w&nbspkształtowaniu wytrwałości. Zachęcisz rodziców i&nbspuczniów do&nbspzastanowienia się nad tym,
+kiedy wytrwałość jest potrzebna, czy są wytrwali oraz zainspirujesz rodziców do&nbsptego, jak
 mogą wspierać rozwój tej postawy.</p>
 <div class = "back_next">
     <a href="5_1-main.php" class="back-button"> wróć</a>

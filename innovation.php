@@ -14,29 +14,29 @@
     <section class="content">
         <article>
         <h2>O innowacji</h2>
-            <p>Nie każdy nauczyciel zostając wychowawcą wie, w jaki sposób może wspierać rozwój swoich
-uczniów. Kurs na relacje wspiera wychowawców i dyrektorów szkół w podnoszeniu
-kompetencji miękkich uczniów i rodziców. Jest to zbiór podstawowej wiedzy, pytań
-inspirujących do refleksji nad własnym warsztatem oraz scenariuszy umożliwiających
-przeprowadzenie zajęć z wychowawcą oraz zebrań z rodzicami. Kurs na relacje to przestrzeń,
-w którym w jednym miejscu znajdziesz podstawową wiedzę dotyczącą obszarów i postaw
-wartych kształtowania podczas spotkań z rodzicami i uczniami. Na podstawie opisów
+            <p>Nie każdy nauczyciel zostając wychowawcą wie, w&nbspjaki sposób może wspierać rozwój swoich
+uczniów. Kurs&nbspna&nbsprelacje wspiera wychowawców i&nbspdyrektorów szkół w&nbsppodnoszeniu
+kompetencji miękkich uczniów i&nbsprodziców. Jest to&nbspzbiór podstawowej wiedzy, pytań
+inspirujących do&nbsprefleksji nad własnym warsztatem oraz scenariuszy umożliwiających
+przeprowadzenie zajęć z&nbspwychowawcą oraz zebrań z&nbsprodzicami. Kurs&nbspna&nbsprelacje to&nbspprzestrzeń,
+w&nbspktórym w&nbspjednym miejscu znajdziesz podstawową wiedzę dotyczącą obszarów i&nbsppostaw
+wartych kształtowania podczas spotkań z&nbsprodzicami i&nbspuczniami. Na&nbsppodstawie opisów
 przypadków możesz zastanowić się też nad własnym warsztatem pracy. Gotowe scenariusze
-zajęć z uczniami i rodzicami pozwolą Ci przeprowadzić ważne dla rozwoju relacji młodych
-i starszych aktywności. Kurs składa się z modułu dla dyrektora oraz pięciu modułów dla
+zajęć z&nbspuczniami i&nbsprodzicami pozwolą Ci przeprowadzić ważne dla rozwoju relacji młodych
+i&nbspstarszych aktywności. Kurs składa się z&nbspmodułu dla dyrektora oraz pięciu modułów dla
 wychowawców klas 4-8:
 <ul>
     <li>
-    Wartości, czyli o ukrytych motywach naszego działania 
+    Wartości, czyli o&nbspukrytych motywach naszego działania 
     </li>
     <li>
     Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości
     </li>
     <li>
-    Omówienie, czyli świętowanie sukcesów i analizowanie porażek
+    Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek
     </li>
     <li>
-    Planowanie, czyli wyznaczanie celów i skuteczne dążenie do nich
+    Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do&nbspnich
     </li>
     <li>
     Wytrwałość, czyli życie jako maraton, a&nbspnie sprint

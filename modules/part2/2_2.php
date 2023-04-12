@@ -5,21 +5,20 @@ include_once("../module_2.php");
 ?>
 <article class="modules-content">
 <h2>studium przypadku</h2>
-<p>Po jasełkach dyrektor szkoły na posiedzeniu rady pedagogicznej mówi:</p>
+<p>Po jasełkach dyrektor szkoły na&nbspposiedzeniu rady pedagogicznej mówi:</p>
 
 <section class="content-1_2">
     <p>
-    Dziękuję panu Michałowi za przygotowane przedstawienie świąteczne. Jestem z Pani dumny,
-z przyjemnością się to oglądało. Rodzice byli zachwyceni.
+    Dziękuję panu Michałowi za&nbspprzygotowane przedstawienie świąteczne. Jestem z&nbspPani dumny,
+z&nbspprzyjemnością się to oglądało. Rodzice byli zachwyceni.
     </p>
     <p>
-    Dziękuję pani Hannie za organizację wspólnego kolędowania. Doceniam poświęcony czas na
-próby chóru, za cierpliwość w pracy z uczniami nad zapamiętywaniem tekstu kolęd
-i zaangażowanie do współpracy rodziców.
+    Dziękuję pani Hannie za organizację wspólnego kolędowania. Doceniam poświęcony czas na&nbsppróby chóru, za cierpliwość w&nbsppracy z&nbspuczniami nad zapamiętywaniem tekstu kolęd
+i&nbspzaangażowanie do&nbspwspółpracy rodziców.
     </p>
 </section>
 <p>
-Po powrocie z wycieczki nauczycielka klasy 6, pani Agnieszka, mówi do rodzica:
+Po powrocie z&nbspwycieczki nauczycielka klasy 6, pani Agnieszka, mówi do&nbsprodzica:
 </p>
 <section class="content-1_2">
     <p>
@@ -27,9 +26,9 @@ Po powrocie z wycieczki nauczycielka klasy 6, pani Agnieszka, mówi do rodzica:
 Dziękuję.
     </p>
     <p>
-    Pani Barbaro, dziękuję za zorganizowanie wyjazdu. Czułam, że wszystko jest przygotowane:
-mieliśmy dokładny plan z ciekawymi dla uczniów miejsca zwiedzania. Doceniam bardzo
-wysiłek włożony w komunikację z pozostałymi rodzicami.
+    Pani Barbaro, dziękuję za&nbspzorganizowanie wyjazdu. Czułam, że&nbspwszystko jest przygotowane:
+mieliśmy dokładny plan z&nbspciekawymi dla uczniów miejsca zwiedzania. Doceniam bardzo
+wysiłek włożony w&nbspkomunikację z&nbsppozostałymi rodzicami.
     </p>
 </section>
 <p>
@@ -40,7 +39,7 @@ Po apelu wychowawczyni mówi:
     Janku, udało Ci się być grzecznym. Nie rozmawiałeś. Tak ładnie siedziałeś. Brawo.
     </p>
     <p>
-    Zosiu, doceniam to, że wytrwałaś w skupieniu przez cały apel. Co Ci w tym pomogło?
+    Zosiu, doceniam to, że wytrwałaś w skupieniu przez cały apel. Co Ci w&nbsptym pomogło?
     </p>
 </section>
 <div class = "back_next">

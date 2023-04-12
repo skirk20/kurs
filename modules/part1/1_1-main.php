@@ -4,15 +4,15 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_1.php");
 ?>
 <article class="modules-content">
-<h2>Wartości, czyli o ukrytych motywach naszego działania</h2>
-<p>Kurs zaczynamy od wartości. Dlaczego? Wyznawane przez nas wartości decydują o naszych postawach, są podstawą podejmowania przez nas decyzji, czasami prowadzą do konfliktów 
-    z osobami o innej hierarchii wartości. Wpływają na nasze emocje, ocenę innych i samoocenę. </p>
+<h2>Wartości, czyli o&nbspukrytych motywach naszego działania</h2>
+<p>Kurs zaczynamy od&nbspwartości. Dlaczego? Wyznawane przez nas wartości decydują o&nbspnaszych postawach, są podstawą podejmowania przez nas decyzji, czasami prowadzą do&nbspkonfliktów 
+    z&nbsposobami o&nbspinnej hierarchii wartości. Wpływają na nasze emocje, ocenę innych i&nbspsamoocenę. </p>
     <p>
-    Jeśli dla mamy Antka najważniejsza jest wolność i samodzielność, to może nie przykładać szczególnej uwagi do wyników edukacyjnych i zachowań syna. Jeśli dla taty Helenki najważniejsza jest efektywność edukacyjna, to może z kolei nie zwracać uwagi na stres 
-    i zmęczenie córki. 
+    Jeśli dla mamy Antka najważniejsza jest wolność i&nbspsamodzielność, to&nbspmoże nie przykładać szczególnej uwagi do&nbspwyników edukacyjnych i&nbspzachowań syna. Jeśli dla taty Helenki najważniejsza jest efektywność edukacyjna, to&nbspmoże z&nbspkolei nie zwracać uwagi na stres 
+    i&nbspzmęczenie córki. 
     </p>
     <p>
-    Rozpoczynając przygodę z nową klasą poznaj system wartości uczniów i rodziców. Dzięki temu łatwiej będzie Ci później zrozumieć ich zachowania i zaplanować działania wychowawcze.
+    Rozpoczynając przygodę z&nbspnową klasą poznaj system wartości uczniów i&nbsprodziców. Dzięki temu łatwiej będzie Ci później zrozumieć ich zachowania i&nbspzaplanować działania wychowawcze.
     </p>
     <div class = "back_next">
     <a href="../../modules.php" class="back-button"> wróć</a>

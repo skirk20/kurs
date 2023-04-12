@@ -5,9 +5,9 @@ include_once("../module_1.php");
 ?>
 <article class="modules-content">
 <h2>Efekt</h2>
-<p>Celem tego modułu jest wsparcie Cię w zachęceniu nauczycieli do wzięcia odpowiedzialności
-za budowanie relacji z rodzicami i poszerzanie ich wiedzy oraz realizowania zajęć
-z wychowawcą w sposób wspierający rozwój ucznia. Pokażesz nauczycielom, dlaczego jest to
+<p>Celem tego modułu jest wsparcie Cię w&nbspzachęceniu nauczycieli do&nbspwzięcia odpowiedzialności
+za budowanie relacji z&nbsprodzicami i&nbspposzerzanie ich wiedzy oraz realizowania zajęć
+z&nbspwychowawcą w&nbspsposób wspierający rozwój ucznia. Pokażesz nauczycielom, dlaczego jest to
 ważne oraz jak mogą to robić.</p>
     <div class = "back_next">
             <a href="1_1-main.php" class="back-button"> wróć</a>

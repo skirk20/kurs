@@ -15,27 +15,27 @@
     <section class="content">
         <article>
         <h2>Intro</h2>
-        <p>Kurs na relacje to inspiracje i gotowe narzędzia do prowadzenia lekcji wychowawczych oraz
-        spotkań z rodzicami. Kurs porusza tematy z pozoru proste. Wierzymy jednak, że to właśnie
-        w nich tkwi potężna moc wychowawstwa.
+        <p>Kurs na relacje to&nbspinspiracje i&nbspgotowe narzędzia do&nbspprowadzenia lekcji wychowawczych oraz
+        spotkań z&nbsprodzicami. Kurs porusza tematy z&nbsppozoru proste. Wierzymy jednak, że&nbspto&nbspwłaśnie
+        w&nbspnich tkwi potężna moc wychowawstwa.
 </p>
 <ul>
     <li>
-         Wspólna rozmowa o wartościach,
+         Wspólna rozmowa o&nbspwartościach,
     </li> 
     <li>
-    docenianie innych i tego co nas otacza,
+    docenianie innych i&nbsptego co&nbspnas otacza,
     </li>
     <li>
-         omówienie sukcesów i analizowanie porażek,
+         omówienie sukcesów i&nbspanalizowanie porażek,
     </li>
     <li>
-        nawyk planowania i wytrwałego dążenia do wyznaczonych celów, 
+        nawyk planowania i&nbspwytrwałego dążenia do&nbspwyznaczonych celów, 
     </li>
 </ul>
 <p>
         To tematy często pomijane w szkole. Tym
-        kursem chcemy pokazać, jak otworzyć na nie serca i umysły uczniów oraz rodziców.</p>
+        kursem chcemy pokazać, jak otworzyć na&nbspnie serca i&nbspumysły uczniów oraz rodziców.</p>
         <p>
         <a href="choice.php" class="main-start-button">start</a>
         </p>

@@ -7,16 +7,15 @@ include('sample/navigation.html');
 <h2>
     Moduły
 </h2>
-<p>Wybierz interesujący Cię temat. W każdym module znajdziesz wiedzę, scenariusze zajęć oraz inspiratoria do wysłuchania.</p>
+<p>Wybierz interesujący Cię temat. W każdym module znajdziesz wiedzę, scenariusze zajęć oraz inspiratoria do&nbspwysłuchania.</p>
 </article>
 </section>
 <section class="modules"> 
-<a href="modules/part1/1_1-main.php" class="button-black">Wartości, czyli <br>o ukrytych motywach naszego działania</a>
+<a href="modules/part1/1_1-main.php" class="button-black">Wartości, czyli o&nbspukrytych motywach naszego działania</a>
 <a href="modules/part2/2_1-main.php" class="button-blue">Docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a>
-<a href="modules/part3/3_1-main.php" class="button-black">Omówienie, czyli świętowanie sukcesow <br>i analizowanie porażek</a>
-<a href="modules/part4/4_1-main.php" class="button-blue">Planowanie, czyli wyznaczanie celów <br>i skuteczne dążenie do
-nich</a>
-<a href="modules/part5/5_1-main.php" class="button-black">Wytrwałość, czyli życie jako maraton, <br>a nie sprint</a>
+<a href="modules/part3/3_1-main.php" class="button-black">Omówienie, czyli świętowanie sukcesow i&nbspanalizowanie porażek</a>
+<a href="modules/part4/4_1-main.php" class="button-blue">Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do&nbspnich</a>
+<a href="modules/part5/5_1-main.php" class="button-black">Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a>
 
 </section>
 <?php

@@ -7,32 +7,32 @@ include_once("../module_5.php");
     <h2>refleksja</h2>
     <ul>
         <li>
-        Jak myślisz, które z dzieci, po swoich przygotowaniach do wystąpienia publicznego,
-dowiedziało się czegoś więcej o sobie oraz o tym, jak radzić sobie z trudnymi
+        Jak myślisz, które z&nbspdzieci, po swoich przygotowaniach do wystąpienia publicznego,
+dowiedziało się czegoś więcej o&nbspsobie oraz o&nbsptym, jak radzić sobie z trudnymi
 sytuacjami
 w przyszłości?
         </li>
         <li>
-        Pomyśl o znanych ci ludziach, którzy sami zapracowali na odniesiony sukces w życiu
+        Pomyśl o&nbspznanych ci ludziach, którzy sami zapracowali na odniesiony sukces w życiu
 zawodowym lub prywatnym. Co się do tego przyczyniło? Jacy ludzie odnoszą sukces?
 Jakie zachowania temu sprzyjają?
         </li>
         <li>
-        Jak oceniasz swoją wytrwałość w dążeniu do celu? Co Cię w tym wspiera, a co
+        Jak oceniasz swoją wytrwałość w&nbspdążeniu do celu? Co Cię w&nbsptym wspiera, a&nbspco
 blokuje?
         </li>
         <li>
-        Jakie masz obserwacja dotyczące tego, jak zachowania i postawy rodziców
-przekładają się na postawy i zachowania uczniów?
+        Jakie masz obserwacja dotyczące tego, jak zachowania i&nbsppostawy rodziców
+przekładają się na postawy i&nbspzachowania uczniów?
         </li>
         <li>
-        Jak rodzice Twoich uczniów wspierają ich w byciu wytrwałym?
+        Jak rodzice Twoich uczniów wspierają ich w&nbspbyciu wytrwałym?
         </li>
         <li>
-        Jak Ty wspierasz uczniów w budowaniu wytrwałości?
+        Jak Ty wspierasz uczniów w&nbspbudowaniu wytrwałości?
         </li>
         <li>
-        Co wiesz na temat kształtowania postawy wytrwałości i sytuacji, które temu
+        Co wiesz na temat kształtowania postawy wytrwałości i&nbspsytuacji, które temu
 sprzyjają?
         </li>
     </ul>

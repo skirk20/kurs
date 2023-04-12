@@ -7,10 +7,10 @@ include_once("../module_1.php");
     <h2>Refleksja</h2>
     <p>
         <ul>
-            <li>Co jako dyrektor myślisz o działaniach obu nauczycielek?</li>
-            <li>Jak zadbać o spójność działań wychowawczych w zespole?</li>
+            <li>Co jako dyrektor myślisz o&nbspdziałaniach obu nauczycielek?</li>
+            <li>Jak zadbać o spójność działań wychowawczych w&nbspzespole?</li>
             <li>Jakie zadania, według Ciebie, ma wychowawca?</li>
-            <li>Na czym powinien skoncentrować się wychowawca: na dbaniu o stan emocjonalny uczniów czy budowaniu wiedzy i umiejętności z nauczanego przedmiotu?</li>
+            <li>Na czym powinien skoncentrować się wychowawca: na dbaniu o&nbspstan emocjonalny uczniów czy budowaniu wiedzy i&nbspumiejętności z&nbspnauczanego przedmiotu?</li>
         </ul>
     </p>
     
