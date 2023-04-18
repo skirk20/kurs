@@ -252,8 +252,8 @@ p{
     font-size:medium;
 }
 li::first-letter{
-    text-transform: uppercase;
-}
+    text-transform: lowercase; }
+
 .attached>a{
     margin: .5em 0;
 }

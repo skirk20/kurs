@@ -5,15 +5,15 @@ include_once("../module_1.php");
 ?>
 <article class="modules-content">
 <h2>Wiedza</h2>
-<p>Już w pierwszym artykule ustawy Prawo oświatowe czytamy, że “system oświaty zapewnia
+<p>Już w pierwszym artykule ustawy Prawo oświatowe czytamy, że „system oświaty zapewnia
 w&nbspszczególności: 1) realizację prawa każdego obywatela Rzeczypospolitej Polskiej do&nbspkształcenia się oraz prawa dzieci i&nbspmłodzieży do&nbspwychowania i&nbspopieki, odpowiednich do&nbspwieku
-i&nbsposiągniętego rozwoju” a&nbspdefinicja wychowania to “wspieranie dziecka w&nbsprozwoju ku pełnej
+i&nbsposiągniętego rozwoju” a&nbspdefinicja wychowania to „wspieranie dziecka w&nbsprozwoju ku pełnej
 dojrzałości w&nbspsferze fizycznej, emocjonalnej, intelektualnej, duchowej i&nbspspołecznej,
 wzmacniane i&nbspuzupełniane przez działania z&nbspzakresu profilaktyki problemów dzieci
-i&nbspmłodzieży.”</p>
+i&nbspmłodzieży”</p>
     <p>
     Wynika z&nbsptego zapisu jasno, że zadaniem nauczycieli jest nie tylko dbanie o&nbsprozwój
-poznawczy ucznia, ale także oddziaływania wychowawcze wobec młodych ludzi.
+poznawczy ucznia, ale także oddziaływania wychowawcze wobec młodych ludzi. Dodatkowym aktem prawnym, który obliguje nas do realizacji niektórych treści podczas zajęć z wychowawcą jest rozporządzenie w sprawie doradztwa zawodowego, które wskazuje, że treści z doradztwa zawodowego mają być omawiane na obowiązkowych zajęciach ogólnokształcących 
     </p>
     <p>
     Agnieszkę i&nbspMagdę zobowiązuje do&nbsptego również ustawa Karta Nauczyciela:
@@ -28,7 +28,6 @@ podstawowymi funkcjami szkoły: dydaktyczną, wychowawczą i&nbspopiekuńczą, w
 zadania związane z&nbspzapewnieniem bezpieczeństwa uczniom w&nbspczasie zajęć
 organizowanych przez szkołę;</li>
 <li>wspierać każdego ucznia w&nbspjego rozwoju;</li>
-<li>...</li>
 <li>kształcić i&nbspwychowywać młodzież w&nbspumiłowaniu Ojczyzny, w&nbspposzanowaniu
 Konstytucji Rzeczypospolitej Polskiej, w&nbspatmosferze wolności sumienia i&nbspszacunku dla
 każdego człowieka;</li>
@@ -36,7 +35,7 @@ każdego człowieka;</li>
 demokracji, pokoju i&nbspprzyjaźni między ludźmi różnych narodów, ras i&nbspświatopoglądów.</li>
     </ol>
     <p>
-    Agnieszka organizując dodatkową lekcję języka polskiego skupia się na funkcji dydaktycznej
+    Agnieszka, organizując dodatkową lekcję języka polskiego, skupia się na funkcji dydaktycznej
 szkoły. Przekazując specjalistom sprawy uczniów niejako zdejmuje z&nbspsiebie
 odpowiedzialność za równie ważną funkcję wychowawczą. Daje młodym ludziom szansę na
 zdobycie kompetencji polonistycznych i&nbspjednocześnie ogranicza możliwość rozwoju
@@ -45,7 +44,7 @@ psychospołecznego.
     <p>
     Ograniczanie działań wychowawczych na rzecz dydaktycznych jest w&nbsppolskich szkołach
 praktyką coraz powszechniejszą. Z&nbspjednej strony jest to spowodowane brakiem
-przygotowania do&nbsppełnienia roli wychowawczej, z&nbspdrugiej - często brakiem wsparcia dla
+przygotowania do&nbsppełnienia roli wychowawcy, z&nbspdrugiej - często brakiem wsparcia dla
 nauczycieli, którzy zaczynają pełnić tę rolę. Prowadzi to z&nbspjednej strony do&nbspobniżenia
 kompetencji wychowawczych nauczycieli i&nbspspadku wiary w&nbspznaczenie ich roli wychowawczej,
 a&nbspz&nbspdrugiej pozbawia uczniów, szczególnie tych z&nbspdysfunkcyjnych lub niewspierających rodzin,
@@ -62,8 +61,7 @@ rozwoju młodego człowieka.
     </p>
     <p>
     Nawet jeśli dla Ciebie, dyrektora szkoły, najważniejsze są wyniki dydaktyczne, to warto wziąć
-pod uwagę wnioski płynące z badań i&nbspmetaanaliz dotyczących czynników wpływających na
-wyniki w&nbspnauce zrealizowane przez prof. Johna Hattiego. Wykazał on, że dla procesu uczenia
+pod uwagę wnioski sformułowane przez prof. Johna Hattiego na&nbsppodstawie badań i&nbspmetaanaliz, dotyczące czynników mających wpływ na&nbspwyniki w&nbspnauce. Wykazał on, że dla procesu uczenia
 się istotne znaczenie ma relacja z&nbspnauczycielem oraz współpraca nauczyciela z&nbsprodzicami,
 oparcie się na strategiach i&nbspmetodach wymagających dialogu oraz zwrócenie uwagi na proces zdobywania wiedzy i&nbspumiejętności, a&nbspnie wyłącznie wynik. Zachęcamy Cię do&nbspprzeanalizowania wyników badań z&nbspzałącznika nr 1 oraz zapoznania z&nbsptymi badaniami kadry
 pedagogicznej Twojej szkoły.
@@ -75,13 +73,13 @@ być ona siłą napędową, konieczne jest zaspokojenie trzech potrzeb, czyli:
 </p>
 <ul>
     <li>
-    autonomii (określam cel, mogę wybrać sposoby jego osiągnięcia)
+    autonomii (określam cel, mogę wybrać sposoby jego osiągnięcia);
     </li>
     <li>
-    kompetencji (chcę się rozwijać, mogę osiągnąć cel)
+    kompetencji (chcę się rozwijać, mogę osiągnąć cel);
     </li>
     <li>
-    przynależności (jestem częścią społeczności uczącej się) 
+    przynależności (jestem częścią społeczności uczącej się). 
     </li>
 </ul>
 <p>
@@ -114,22 +112,23 @@ Jak możesz stworzyć warunki do&nbsprozwoju kadry pedagogicznej?
     </li>
             </ul>
         </li>
+        <br>
         <li>
         Zachęcaj do autorefleksji
         </li>
 </ol>
 <p>
-Holenderski badacz Fred Korthagen opracował tzw. “model cebuli”, który opisuje elementy
+Holenderski badacz Fred Korthagen opracował tzw. „model cebuli”, który opisuje elementy
 określające nauczyciela. Są to misja, tożsamość, przekonania, kompetencje, zachowanie oraz
 środowisko. Nauczyciel powinien stale zadawać sobie pytania dotyczące jego
 funkcjonowania w&nbspodniesieniu do tych warstw i&nbsppowinien być świadomy, że warstwy te na
-siebie bezpośrednio oddziaływują. Zewnętrzne warstwy wpływają na te wewnętrzne, np.
+siebie bezpośrednio oddziałują. Zewnętrzne warstwy wpływają na te wewnętrzne, np.
 środowisko zmienia jego zachowanie (czyli np. panująca atmosfera kontroli i&nbspwrogości zmieni
 sposób funkcjonowania nauczyciela). Z drugiej strony zachowanie wynika z&nbspjego przekonań.
 Najbardziej fundamentalną warstwą jest ta wewnętrzna - misja i&nbsptożsamość. Wszelka zmiana
 rozwojowa nauczyciela wynika z&nbspjego wnętrza, a&nbspnastępnie uzależniona jest od przepływu
 między warstwami. Co zrobić, żeby uruchomić proces zmiany? Należy zadbać o trzy
-podstawowe potrzeby opisane w punkcie 1:</p>
+podstawowe potrzeby opisane w punkcie&nbsp1 oraz odpowiedzieć sobie na&nbspnastępujące pytania</p>
 Podstawowe pytania autorefleksji:
 <ul>
     <li>misja
@@ -158,7 +157,7 @@ dla mnie wiedza?
     kompetencje
     <ul>
         <li>
-        W czym jest dobry/a? Co umiem? Jak wiedzę posiadam?
+        W czym jestem dobry/a? Co umiem? Jak wiedzę posiadam?
         </li>
     </ul>
     </li>
@@ -180,7 +179,7 @@ dla mnie wiedza?
     </li>
 </ul>
 <ol>
-<li>
+<li style="list-style-type: '3. '">
 Zainicjuj zmianę ukrytego programu szkoły
 </li>
 </ol>
@@ -199,51 +198,51 @@ zorganizować pracę twórczą z&nbspwykorzystaniem materiałów plastycznych, t
 informację, że jest to niemożliwe, bo potem powstaje duży bałagan i&nbsppanie sprzątaczki się na
 to nie zgadzają. Po otrzymaniu reprymendy, że w&nbspsali po lekcji polskiego znowu był
 nieporządek, polonista następnym razem dwa razy zastanowi się, czy robić coś innego niż
-wykład i&nbspnotatka.
+wykład i&nbspkarta pracy.
 </p>
 <p>
 Warto przyjrzeć się wspólnie z pracownikami szkoły, uczniami i&nbsprodzicami, co stanowi wasz
 ukryty program (każda szkoła go ma). Dzięki temu będziecie mogli przyjrzeć się, jakie
-komunikaty wysyłacie i&nbspna ile są one spójne albo sprzeczne z&nbsptym, co byście chcieli
+komunikaty wysyłacie i&nbspna ile są one spójne albo sprzeczne z&nbsptym, co chcecie
 kształtować w&nbspwaszych uczniach, rodzicach i&nbsppracownikach. Dopiero świadomość, jaki jest
 ukryty program szkoły, niweluje ryzyko, że działa on wbrew Waszej misji i&nbspwizji.
 </p>
 <ul>
-<li>
+<li style="list-style-type: '4. '">
 Modeluj
 </li>
 </ul>
 <p>
-Dawaj przykład jako dyrektor i&nbspprzywódca organizacji dawaj przykład. Jesteś postacią
-odgrywającą w&nbspzespole dużą rolę, więc to, o&nbspczym i&nbspw&nbspjaki sposób mówisz, oddziałuje na cała
+Dawaj przykład jako dyrektor i&nbspprzywódca organizacji. Jesteś postacią
+odgrywającą w&nbspzespole dużą rolę, więc to, o&nbspczym i&nbspw&nbspjaki sposób mówisz, oddziałuje na całą
 społeczność. Zwróć szczególną uwagę na to, co komunikujesz jako ważne dla Ciebie, na co
 kładziesz nacisk. Twoje działania mają szczególnie duży wpływ na kształtowanie ukrytego
-programu nauczania, na środowisko (czyli jedną z&nbspwarstw cebuli decydujących o&nbsptym, jaki jest
+programu szkoły, na środowisko (czyli jedną z&nbspwarstw cebuli decydujących o&nbsptym, jaki jest
 nauczyciel). Przyjrzyj się sobie, poproś innych, żeby Ci w&nbsptym pomogli. Dokonaj autorefleksji.
 Jakie są Twoje wartości? Co myślisz o&nbspsobie jako dyrektorze? Jak odbierają Cię inni? Co cenisz
 w&nbspswojej szkole, a&nbspco chciałbyś w&nbspniej zmienić i&nbspdlaczego? Zastanów się, co chcesz
 komunikować zespołowi. Zacznij to robić w&nbspsposób uświadomiony i&nbspzaplanowany.
 </p>
 <ul>
-<li>
+<li style="list-style-type: '5. '">
     Wspieraj
 </li>
 </ul>
 <p>
-Nie zmuszaj do objęcia wychowawstwa, jeśli zależy Ci na jego jakości. Nie przydzielaj
+<b>Nie zmuszaj do objęcia wychowawstwa, jeśli zależy Ci na jego jakości.</b> Nie przydzielaj
 wychowawstwa wbrew woli nauczyciela, porozmawiaj o&nbsptym, jakie potrzeby stoją za tym,
 aby to właśnie ona/on został wychowawcą tej klasy, dlaczego uważasz, że to właśnie ona/on
 jest odpowiednia osobą w&nbsptej roli.
 </p>
 <p>
-Zaproponuj objęcie mentoringiem. Nauczycielom, którzy są nowi w&nbsptwoim zespole,
+<b>Zaproponuj objęcie mentoringiem.</b> Nauczycielom, którzy są nowi w&nbsptwoim zespole,
 zaproponuj współpracę z&nbsposobą, która będzie wsparciem w poznawaniu kultury organizacji
 Twojej szkoły. Może to być opiekun stażu, ale może to też być zupełnie inna osoba, która
 chętnie dzieli się swoim doświadczeniem i&nbspktórą Ty sam cenisz jako wychowawcę czy
 nauczyciela.
 </p>
 <p>
-Zaproponuj wsparcie zewnętrzne. Być może bezpłatny kurs dla początkujących
+<b>Zaproponuj wsparcie zewnętrzne.</b> Być może bezpłatny kurs dla początkujących
 wychowawców organizuje lokalny ośrodek doskonalenia nauczycieli? A&nbspmoże polecisz
 internetowe grupy wsparcia dla początkujących nauczycieli? A&nbspmoże w&nbspbudżecie szkoły
 znajdą się finanse na opłacenie kursu, warsztatów albo wręcz szkolenie dla kadry
@@ -252,7 +251,7 @@ scenariusza, to zawsze można podsunąć nowemu nauczycielowi wartościową lite
 Inspiratoriumy do odsłuchania lub inspirujące materiały w&nbspinternecie.
 </p>
 <p>
-Nie krytykuj za popełnione błędy. Stosuj informację zwrotną lub inne formy komunikowania
+<b>Nie krytykuj za popełnione błędy.</b> Stosuj informację zwrotną lub inne formy komunikowania
 tego, co zaobserwowałeś/co Cię niepokoi, jak najczęściej stosuj komunikat JA i&nbspnie uogólniaj,
 Pamiętaj, że dopiero nauczyciel, który czuje się bezpieczny i&nbspakceptowany, będzie gotów do
 wyjścia ze swojej strefy komfortu i&nbspwykorzystania nowych rozwiązań czy metod pracy.

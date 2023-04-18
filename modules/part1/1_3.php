@@ -15,7 +15,7 @@ include_once("../module_1.php");
             Pani Justyno,<br><br>
             podmiotowe traktowanie młodego człowieka jest bardzo ważne. Jest dla mnie zrozumiałym,&nbspże swoboda&nbspw decydowaniu&nbspo sobie jest istotna dla rozwoju Adriana. Jednocześnie jedną
             z&nbspwartości naszej szkoły jest szacunek, w&nbsptym także szacunek do&nbspsytuacji - w&nbsptym wypadku
-            związany z&nbspwspólnie obchodzonym przez całą społeczność szkolną Świętem Niepodległości.
+            związany z&nbspobchodzonym przez całą społeczność szkolną Świętem Niepodległości.
             Uważam, że&nbspto&nbspważne, aby Adrian potrafił okazywać szacunek również poprzez ubiór.
             <br><br>
             Z poważaniem,
@@ -33,6 +33,7 @@ include_once("../module_1.php");
     </section>
     <p>Zastanów się nad sformułowana przez Ciebie wiadomością. Czy na&nbsppodstawie tej
         wiadomości można określić:
+        </p>
     <ul>
         <li>
             wartości, którymi się kierujesz?
@@ -44,16 +45,17 @@ include_once("../module_1.php");
             Twoje kompetencje?  
         </li>
     </ul>
-    </p>
+    
     <p>
-        pomyśl:
+        Pomyśl:
+        </p>
         <ol>
             <li>Dlaczego zostałam/-em nauczycielem?</li>
             <li>Co jest ważne w&nbspbyciu wychowawcą klasy?</li>
             <li>Jakiej szkoły chcę dla swoich uczniów?</li>
             <li>Jakimi ludźmi powinni być moi absolwenci?</li>
         </ol>
-    </p>
+    
     <div class = "back_next">
     <a href="1_2.php" class="back-button"> wróć</a>
     <a href="1_4.php" class="start-button">przejdź dalej</a>
