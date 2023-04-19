@@ -89,8 +89,10 @@ To, co nauczyciel może robić z&nbspuczniami w&nbspswojej klasie w&nbspprocesie
 dydaktycznym, Ty jako dyrektor możesz robić ze swoją kadrą pedagogiczną. To wymaga
 jednej odważnej decyzji: zaufania do&nbspdrugiej strony oraz stworzenia warunków do&nbsprozwoju.
 </p>
+<div style="display:flex">
 <a href="1_4.php" class="back-button">pierwsza strona</a>
 <a href="1_4-sec.php" class="start-button">druga strona</a>
+</div>
         <div class = "back_next">
             
             <a href="1_3.php" class="back-button"> wróć</a>

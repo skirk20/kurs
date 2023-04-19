@@ -173,8 +173,10 @@ Pamiętaj, że dopiero nauczyciel, który czuje się bezpieczny i&nbspakceptowan
 wyjścia ze swojej strefy komfortu i&nbspwykorzystania nowych rozwiązań czy metod pracy.
 </p>
 </p>
+<div style="display:flex">
 <a href="1_4.php" class="back-button">pierwsza strona</a>
 <a href="1_4-sec.php" class="start-button">druga strona</a>
+</div>
         <div class = "back_next">
             
             <a href="1_3.php" class="back-button"> wróć</a>
