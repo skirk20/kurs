@@ -10,7 +10,7 @@ include_once("../module_1.php");
     Temat: Wartości, czyli o&nbspukrytych motywach naszego działania
     </p>
     <p>
-    Czas: 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
+    Czas: 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 minut)
     </p>
     <p>
     Cele: 
@@ -20,13 +20,13 @@ include_once("../module_1.php");
     </p>
     <ul>
         <li>
-        wie, czym są wartości
+        wie, czym są wartości;
         </li>
         <li>
-        rozumie, w jaki sposób wartości wpływają na zachowania
+        rozumie, w jaki sposób wartości wpływają na zachowania;
         </li>
         <li>
-        potrafi wskazać wartości istotne dla siebie, rodziny i&nbspinnych wspólnot
+        potrafi wskazać wartości istotne dla siebie, rodziny i&nbspinnych wspólnot.
         </li>
     </ul>
     <p>
@@ -34,11 +34,11 @@ include_once("../module_1.php");
     </p>
     <ul>
         <li>
-        rozmowa kierowana
+        rozmowa kierowana;
         </li>
-        <li>kula śnieżna</li>
+        <li>kula śnieżna;</li>
         <li>
-        opis przypadku
+        opis przypadku.
         </li>
 </ul>
         <p>
@@ -46,16 +46,16 @@ include_once("../module_1.php");
         </p>
         <ul>
         <li>
-        indywidualna
+        indywidualna;
         </li>
         <li>
-        grupowa
+        grupowa;
         </li>
         <li>
-        zespołowa
+        zespołowa.
         </li>
     </ul>
-        <h3>Faza wstępna [15 min]</h3>
+        <h3>Faza wstępna [15 minut]</h3>
         <ol>
             
             <li>
@@ -64,7 +64,7 @@ panujących na lekcji (wywieś kontrakt).
             </li>
             <li>
             Podziel uczniów na 4-5 osobowe grupy. Każdej grupie wręcz Opis sytuacji (załącznik
-nr 1). Uczniowie czytają zawarte w materiale historie. Następnie ustalają, jakimi
+nr 1) - wybierz kilka najbardziej adekwatnych dla Twojej klasy. Uczniowie czytają zawarte w materiale historie. Następnie ustalają, jakimi
 wartościami kierowali się bohaterowie.
             </li>
             <li>
@@ -79,11 +79,11 @@ decyzje mogą wynikać z&nbspróżnych potrzeb, a&nbspte - z&nbspróżnych warto
         Faza realizacyjna [25 minut]
         </h3>
         <ol>
-        <li>
+        <li style="list-style-type: '4. '">
         Każdemu uczniowi wręcz kartę wartości (załącznik nr 2). Poproś, aby&nbspwybrał
 5 wartości, które uważa za najważniejsze i&nbspzastanowił się, dlaczego je wskazał.
         </li>
-        <li>
+        <li style="list-style-type: '5. '">
         Stosując metodę kuli śnieżnej zachęć uczniów, aby porównali swoje odpowiedzi
 najpierw z&nbspjedną, a&nbspnastępnie z&nbspkolejnymi dwiema osobami. Zapytaj, w&nbspjakim stopniu
 ich wybór wartości był zbieżny ze&nbspwskazaniami kolegów i&nbspkoleżanek.<br>
@@ -95,7 +95,7 @@ zastanawiać się, jakie wartości wpływają na&nbspnasze zachowanie. Jeśli je
 świadomi, lepiej kierujemy własnym życiem. Odwołaj się do&nbspkonkretnych przykładów,
 np. z&nbspwłasnego życia lub z&nbspżycia klasy, szkoły.
         </li>
-        <li>
+        <li style="list-style-type: '6. '">
         Wręcz grupom uczniów Opisy grup i&nbspinstytucji (załącznik nr 3). Poproś, aby po&nbspprzeczytaniu opisu wspólnie ustalili, jakie wartości panują w&nbspdanej grupie lub
 instytucji. Następnie uczniowie prezentują wyniki pracy uzasadniając swoje
 odpowiedzi.<br>
@@ -106,13 +106,13 @@ rodzina.
 </ol>
         <h3>Faza podsumowująca [5 min]</h3>
      <ol>
-        <li>
+        <li style="list-style-type: '7. '">
         W&nbspramach podsumowania opowiedz uczniom o&nbspzebraniu z&nbsprodzicami, na którym
 również będziesz rozmawiać o&nbspwartościach i&nbspzadaniu, jakie rodzice otrzymają do&nbspwykonania wraz z uczniami - wspólnej rozmowie o&nbsptym, które wartości są ważne&nbspw ich rodzinie oraz co robią jako rodzina, żeby postępować zgodnie z nimi.
         </li>
     </ol>
     <h3>
-        propozycja rozszerzenia
+        Propozycja rozszerzenia
     </h3>
     <ol>
     
@@ -120,7 +120,7 @@ również będziesz rozmawiać o&nbspwartościach i&nbspzadaniu, jakie rodzice o
     Na kolejnej lekcji uczniowie mogą narysować/odtworzyć scenki prezentujące to, jakie
 wartości są ważne w ich rodzinach i&nbspjak je wcielają w życie (np. zdrowy tryb życia -
 troska o regularne, zdrowe odżywianie się). W&nbspprzypadku wykonania tego ćwiczenia,
-za zgodą uczniów, możesz zebrać rysunki/nagrać scenki i&nbsppokazać je rodzicom na&nbspzebraniu. Będę stanowiły podstawę do rozmowy o&nbsptym, jak dorośli i&nbspdzieci
+za zgodą uczniów, możesz zebrać rysunki/nagrać scenki i&nbsppokazać je rodzicom na&nbspzebraniu. Będą stanowiły podstawę do rozmowy o&nbsptym, jak dorośli i&nbspdzieci
 postrzegają wartości swojej rodziny.
     </li>
     <li>

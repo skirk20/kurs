@@ -7,7 +7,7 @@ include_once("../module_2.php");
 <h2>Wiedza</h2>
 <p>To, jak na powyższe słowa docenienia zareagowali ich odbiorcy, w&nbspdużym stopniu zależy od&nbspdoświadczeń, przekonań, a&nbspprzede wszystkim ich poczucia własnej wartości.</p>
 <p>
-Pani Joanna mogła ucieszyć się, że dyrektor ją pochwalił za to, że spełniła JEGO oczekiwania
+Pan Michał mógł ucieszyć się, że dyrektor pochwalił go za to, że spełniła JEGO oczekiwania
 i&nbspże w&nbspkońcu jest z&nbspniej dumny. Pan Paweł mógł uznać, że&nbspsukces wycieczki to&nbspprzede
 wszystkim zasługa dużej dozy szczęścia, a&nbspnie jego pracy. W&nbspkońcu „wszystko się udało”, a&nbspnie
 „wszystko Pan zorganizował”. Janek po tej pochwale wie, że&nbspma być posłuszny, bo&nbspwtedy
@@ -15,16 +15,16 @@ będzie nagroda w&nbspformie pochwały (Brawo!).
 </p>
 <h3>Co usłyszeli pozostali bohaterowie?</h3>
 <p>
-Pani Karolina wie, że&nbspdyrektor zauważył jej pracę, czas, który przeznaczyła na&nbspprzygotowania
-chóru, ale także jej postawę – cierpliwość i&nbspumiejętność zaangażowania rodziców. Pan Michał
-czuje, że&nbspnauczycielka zauważyła jego kompetencje komunikacyjne oraz organizacyjne. Zaś
-Robert jest świadomy, że wychowawczyni rozumie jego trudności z&nbspkoncentracją oraz widzi
-wysiłek, jaki wkłada, by&nbspim&nbspsprostać. Co więcej, jest ciekawa, co&nbspmu&nbspw&nbsptym pomogło.
+Pani Hanna wie, że&nbspdyrektor zauważył jej pracę, czas, który przeznaczyła na&nbspprzygotowania
+chóru, ale także jej postawę – cierpliwość i&nbspumiejętność zaangażowania rodziców. Pani Barbara
+czuje, że&nbspnauczycielka zauważyła jej kompetencje komunikacyjne oraz organizacyjne. Zaś
+Zosia jest świadoma, że wychowawczyni rozumie jego trudności z&nbspkoncentracją oraz widzi
+wysiłek, jaki wkłada, aby nad nimi pracować. Co więcej, jest ciekawa, co&nbspmu&nbspw&nbsptym pomogło.
 </p>
 <p>
 Mądre docenianie motywuje do&nbspdalszej pracy, wspiera budowanie poczucia własnej
 sprawczości i&nbspwartości. Jesper Juul pisze, że&nbsppoczucie własnej wartości pochodzi z&nbspdwóch
-źródeł – z&nbspbycia dostrzeganym i&nbsppoczucia, że&nbspjest się cenionym 7 . Poczucie bycia dostrzeganym
+źródeł – z&nbspbycia dostrzeganym i&nbsppoczucia, że&nbspjest się cenionym. Poczucie bycia dostrzeganym
 oraz bycia cenionym w&nbspdużym stopniu dają nam odpowiednio sformułowane wyrazy
 uznania.
 </p>

@@ -22,41 +22,40 @@ konfliktu o wartości.
 nazwane wartości. Dzięki temu uczniowie i&nbsprodzice będą rozumieli, co w&nbspwaszej klasie
 (szkole) jest ważne w zakresie trzech funkcji szkoły: dydaktyki, wychowywania i&nbspopieki.
     </p>
-<h3>jak określić te wartości?</h3>
+<h3>Jak określić te wartości?</h3>
 <ol>
     <li>Sprawdź, jakie wartości są zapisane w&nbspszkolnych dokumentach. Bardzo możliwe, że&nbspsą
         one wyrażone wprost, np. w koncepcji pracy szkoły, programie profilaktyczno-
         wychowawczym lub statucie szkoły.</li>
     <li>Sprawdź wartości zapisane w&nbspprawie oświatowym – np. ustawie Prawo oświatowe,
-        Karcie Nauczyciela (znajdziesz je w załączniku).</li>
+        Karcie Nauczyciela.</li>
     <li>Wsłuchaj się w głos rodziców i&nbspuczniów. Stwórz przestrzeń, w&nbspktórej będą mogli
         opowiedzieć o&nbsptym, co dla nich jest ważne. Możliwe, że&nbspsami zorientują się, że&nbspich
         wartości stoją ze&nbspsobą w sprzeczności. Nie bój się tego. To świetna okazja do&nbsprozmowy o tym, jak trudno jest wychowywać, uczyć, kiedy różnimy się w&nbspsprawach
         fundamentalnych. Niech rodzice zobaczą jak duże musisz mieć kompetencje, żeby
-        przewodzić tej organizacji.</li>
+        każdy z&nbspuczniów i&nbsprodziców czył, że mimo różnic jest pełnoprawnym współtwórcą tej społeczności. </li>
 </ol>
 <p>Wartości, które znajdziesz w&nbspprawie szkolnym lub oświatowym są&nbspobowiązujące, nie możesz
     ich zmienić. Są to&nbspwartości ogólnoludzkie, humanistyczne, które pomagają nam dobrze żyć
     i&nbspfunkcjonować w społeczeństwie. Zostaje jeszcze spore pole do&nbspich doprecyzowania. I&nbspto&nbspwłaśnie do tego zaproś uczniów i&nbsprodziców.</p>
 
 <h3>Na czym mogą polegać różnice w&nbspwartościach?</h3>
-<p>Od lat przy dyskusjach o&nbspedukacji wiele osób odwołuje się do fińskiego modelu kształcenia.
-    W&nbspszczególności, że uczniowie w&nbspFinlandii osiągają bardzo dobre wyniki w&nbspbadaniach PISA 1 .
+<p>Od lat przy dyskusjach o&nbspedukacji wiele osób odwołuje się do fińskiego modelu kształcenia, tym bardziej, że uczniowie w&nbspFinlandii osiągają bardzo dobre wyniki w&nbspbadaniach PISA 1 .
     Nie dziwi więc, że&nbsprodzice spoglądają na fińską szkołę z&nbsprozmarzeniem – szkoła bez
-    narzuconego systemu wymagań, nadmiernych prac domowych i&nbsptestów, za&nbspto&nbspucząca
-    praktycznych umiejętności, zapewniająca autentyczną równowagę między nauką
-    a&nbspwypoczynkiem; szkoła, w&nbspktórej uczeń może biegać w&nbspskarpetkach i&nbspspędzać przerwy na&nbspświeżym powietrzu. Jednak, to co&nbspjest kluczem fińskiej szkoły, co&nbspprzewija się w&nbsprozmowach
+    narzuconego systemu wymagań, czasochłonnych prac domowych i&nbsptestów, za&nbspto&nbspucząca
+    praktycznych umiejętności, zapewniająca równowagę między nauką
+    a&nbspwypoczynkiem; szkoła, w&nbspktórej uczeń może biegać w&nbspskarpetkach i&nbspspędzać przerwy na&nbspświeżym powietrzu. Jednak, fundamentem fińskiej oświaty, co&nbspprzewija się w&nbsprozmowach
     z&nbspfińskimi nauczycielami, to zaufanie. Stanowi ono wartość, na której zbudowano cały system
     edukacji 2 .</p>
 <p>Z drugiej strony, o&nbspczym mówi się już znacznie rzadziej, jeszcze lepsze wynik PISA osiągają
-    uczniowie w&nbspSingapurze. Tam jednak oś wartości budujących szkołę stanowi nie zaufanie, a&nbspposłuszeństwo wobec nauczyciela, wiedza i&nbspnauka. Duża liczba godzin nauki, rywalizacja
+    uczniowie w&nbspSingapurze. Tam jednak fundament wartości budujących szkołę stanowi nie zaufanie, a&nbspposłuszeństwo wobec nauczyciela, wiedza i&nbspnauka. Duża liczba godzin nauki, rywalizacja
     między uczniami, wysokie oczekiwania rodziców i&nbspnauczycieli, rozbudowany program
     nauczania sprawiają, że&nbspuczniowie osiągają lepsze wyniki niż ich koledzy i&nbspkoleżanki
     w Finlandii.</p>
     <p>
         Bardzo możliwe, że&nbspw&nbspswojej klasie znajdziesz wśród rodziców oddanych (choć
 nieświadomie) zwolenników tak fińskiego, jak i&nbspsingapurskiego modelu kształcenia:
-<ul>
+<ul style = "font-style: oblique">
     <li>Zuzia ma jeszcze czas. Harówka, to przyjdzie w&nbspliceum.</li>
     <li>Niepokoi mnie, że w&nbsp6 klasie nie potrafią jeszcze pisać rozprawki. Przecież już za&nbspdwa
         lata jest egzamin! Proponuję dodatkowe lekcje z&nbspjęzyka polskiego.</li>

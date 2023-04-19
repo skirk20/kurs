@@ -4,12 +4,12 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_2.php");
 ?>
 <article class="modules-content">
-<h2>studium przypadku</h2>
+<h2>Studium przypadku</h2>
 <p>Po jasełkach dyrektor szkoły na&nbspposiedzeniu rady pedagogicznej mówi:</p>
 
 <section class="content-1_2">
     <p>
-    Dziękuję panu Michałowi za&nbspprzygotowane przedstawienie świąteczne. Jestem z&nbspPani dumny,
+    Dziękuję panu Michałowi za&nbspprzygotowane przedstawienie świąteczne. Jestem z&nbspPana dumny,
 z&nbspprzyjemnością się to oglądało. Rodzice byli zachwyceni.
     </p>
     <p>
@@ -27,7 +27,7 @@ Dziękuję.
     </p>
     <p>
     Pani Barbaro, dziękuję za&nbspzorganizowanie wyjazdu. Czułam, że&nbspwszystko jest przygotowane:
-mieliśmy dokładny plan z&nbspciekawymi dla uczniów miejsca zwiedzania. Doceniam bardzo
+mieliśmy dokładny plan z&nbspciekawymi dla uczniów miejscami zwiedzania. Doceniam bardzo
 wysiłek włożony w&nbspkomunikację z&nbsppozostałymi rodzicami.
     </p>
 </section>

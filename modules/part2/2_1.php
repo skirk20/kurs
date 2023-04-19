@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_2.php");
 ?>
 <article class="modules-content">
-<h2>efekt</h2>
+<h2>Efekt</h2>
 <p>Dzięki realizacji tego modułu poznasz znaczenie doceniania dla rozwoju młodych ludzi
 i&nbspwzmacniania ich motywacji. Będziesz rozróżniać, czym jest docenianie, a&nbspczym chwalenie
 i&nbspjak wpływają one na kształtowanie postawy młodego człowieka. Nauczysz uczniów i&nbspich

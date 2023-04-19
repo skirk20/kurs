@@ -4,27 +4,24 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_2.php");
 ?>
 <article class="modules-content">
-    <h2>refleksja</h2>
+    <h2>Refleksja</h2>
     <p>Zastanów się:</p>
     
     <ul>
         <li>
-        Która z&nbsptych osób czuje się autentycznie doceniona?
+        Które z&nbsptych osób dowidziały się, za co zostały docenione?
         </li>
         <li>
-        Która z&nbsptych osób uważa, że dyrektor widział jej pracę?
+        Który z&nbspnauczycieli wie, że&nbspdyrektor autentycznie przyjrzał się jego pracy?
         </li>
         <li>
-        Które słowa doceniania chciałabyś/chciałbyś Ty usłyszeć?
+        Który rodzic czuje, że&nbspjego wysiłek został dostrzeżony??
         </li>
         <li>
-        Który rodzic czuje, że&nbspjego wysiłek został dostrzeżony?
-        </li>
-        <li>
-        Który uczeń będzie czuł się bardziej zmotywowany do&nbspdalszej pracy nad sobą?
+        Który uczeń czuje się bardziej zauważony przez nauczycielkę?
         </li>
     </ul>
-    <p>pomyśl:</p>
+    <p>Pomyśl:</p>
     <ul>
         <li>
         Jak często doceniają Cię inni?

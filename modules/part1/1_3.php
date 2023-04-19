@@ -18,7 +18,7 @@ include_once("../module_1.php");
             związany z&nbspobchodzonym przez całą społeczność szkolną Świętem Niepodległości.
             Uważam, że&nbspto&nbspważne, aby Adrian potrafił okazywać szacunek również poprzez ubiór.
             <br><br>
-            Z poważaniem,
+            Z poważaniem,<br>
             Magdalena Kowalska
         </p>
         <p style="font-style:oblique ;">
@@ -27,11 +27,11 @@ include_once("../module_1.php");
             odświętnie, tj. w&nbspbiałą lub granatową koszulę oraz granatowe lub czarne spodnie.
             Niewywiązanie się z&nbsptego obowiązku będzie skutkowało obniżeniem oceny z&nbspzachowania.
             <br><br>
-            Z poważaniem,
+            Z poważaniem,<br>
             Magdalena Kowalska
         </p>
     </section>
-    <p>Zastanów się nad sformułowana przez Ciebie wiadomością. Czy na&nbsppodstawie tej
+    <p>Zastanów się nad sformułowaną przez Ciebie wiadomością. Czy na&nbsppodstawie tej
         wiadomości można określić:
         </p>
     <ul>
