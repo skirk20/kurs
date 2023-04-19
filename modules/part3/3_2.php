@@ -48,7 +48,7 @@ semestr. Chciałabym z Państwem porozmawiać o:
     
         <ul style="margin-left: 2em;">
             <li>
-            tym, co dobrego wydarzyło się w tym semestrze;.
+            tym, co dobrego wydarzyło się w tym semestrze;
             </li>
             <li>
             tym, co stanowiło dla nas największe wyzwanie w&nbspwychowywaniu młodych ludzi;

@@ -4,35 +4,35 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_2.php");
 ?>
 <article class="modules-content">
-    <h2>praktyka</h2>
-    <h3>scenariusz lekcji wychowawczej</h3>
+    <h2>Praktyka</h2>
+    <h3>Scenariusz lekcji wychowawczej</h3>
     <p>
-        <b>temat:</b> Dlaczego warto doceniać? Jak to robić?</br>
-        <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
+        <b>Temat:</b> Dlaczego warto doceniać? Jak to robić?</br>
+        <b>Czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
-    <h3>cele;</h3>
+    <h3>Cele:</h3>
     <p>
-        po zajeciach uczen:</p> 
+        Po zajeciach uczen:</p> 
         <ul>
             <li>rozumie, dlaczego ważne jest docenianie</li>
             <li>potrafi sformułować komunikat doceniający drugą osobę</li>
         </ul>
     
-    <h3>metody</h3>
+    <h3>Metody</h3>
     
         <ul>
-            <li>rozmowa kierowana</li>
-            <li>opis przypadku</li>
+            <li>rozmowa kierowana;</li>
+            <li>opis przypadku.</li>
         </ul>
     
-    <h3>formy</h3>
+    <h3>Formy</h3>
     
         <ul>
-            <li>indywidualna</li>
-            <li>grupowa</li>
-            <li>zespołowa</li>
+            <li>indywidualna;</li>
+            <li>grupowa;</li>
+            <li>zespołowa.</li>
         </ul>
-    <h3>Faza wstępna [15 min]</h3>
+    <h3>Faza wstępna [15 minut]</h3>
     <ol class="a1_5-list">
     
     <li>
@@ -57,30 +57,30 @@ bezpośredniego kontaktu z&nbspuczniami, dopóki nie pojawiła się edukacja zda
     </ol>
     <h3>Faza realizacyjna [25 min]</h3>
     <ol class="a1_5-list">
-    <li>
+    <li style="list-style-type: '4. '">
         
     Sformułuj zadanie indywidualne - zapisz wypowiedź, w której docenisz jedną
 wybraną osobę. Uprzedź, że nie będzie obowiązku czytania ani pokazywania swojej
 pracy.
         
     </li>
-    <li>
+    <li style="list-style-type: '5. '">
         
     Daj możliwość przeczytania wypowiedzi chętnym uczniom.
     </li>
-    <li>
+    <li style="list-style-type: '6. '">
     
     Podziel uczniów na kilkuosobowe grupy. Każdej wręcz opisy dwóch sytuacji (załącznik
 nr 1). Poproś, aby zapoznali się z&nbspnimi i&nbspznaleźli różnice w&nbspsposobie formułowania
 przekazu.
         
     </li>
-    <li>
+    <li style="list-style-type: '7. '">
         
     Omów wyniki pracy grup. Wysłuchaj wniosków.
         
     </li>
-    <li>
+    <li style="list-style-type: '8. '">
     Wprowadź teorię - przedstaw wskazówki skutecznego docenienia:
     <ul>
         <li>
@@ -91,19 +91,19 @@ przekazu.
         </li>
     </ul>
     </li>
-    <li>
+    <li style="list-style-type: '9. '">
     Powiedz uczniom, aby powrócili do&nbsplektury sformułowanych przez siebie na&nbsppoczątku
 lekcji wypowiedzi. Poproś, aby zastanowili się, co by zmienili w&nbsptej wypowiedzi, mając
 już nową wiedzę.
     </li>
-    <li>
+    <li style="list-style-type: '10. '">
     Chętni uczniowie czytają swoje pierwsze i&nbspzmodyfikowane wypowiedzi (pamiętaj, że
 jest to zadanie tylko dla chętnych).
     </li>
     </ol>
     <h3>Faza podsumowująca [5 min]</h3>
     <ol class="a1_5-list">
-    <li>
+    <li style="list-style-type: '11. '">
         
     W ramach podsumowania opowiedz uczniom o&nbspzebraniu z rodzicami, na którym
 również będziesz rozmawiać o&nbspdocenianiu. Powiedz o&nbspzadaniu, które rodzice
@@ -132,7 +132,8 @@ poszukiwaniem innych sposobów doceniania.
     <li>
         
     Możesz sformułować zadanie indywidualne - napisz, narysuj za&nbspco&nbspdoceniasz rodziców
-(pamiętaj, aby docenienie spełniało kryteria).
+(pamiętaj, aby docenienie spełniało kryteria). W&nbsptakim przypadku zadaj rodzicom pracę domową, aby oni również narysowali, za co doceniają dzieci. W&nbspdomu wspólnie powinni wymienić sie rysunkami i&nbspopowiedzieć o&nbsptym co w&nbspsobie dostrzegają i&nbspcenią.
+
     </li>
 </ol>
     <p class="attached">

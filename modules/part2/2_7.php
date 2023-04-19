@@ -10,13 +10,13 @@ include_once("../module_2.php");
     <ul>
         
         <li>
-        Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i rodzicielstwie, wyd. MiND, 2013 r.
+        Marshall B. Rosenebrg, Porozumienie bez przemocy. O języku życia, wyd. Czarna Owca, 2015 r.
         </li>
         <li>
-        John M. Oldham, Lois B. Morris, Twój psychologiczny autoportret, wyd. Czarna Owca, 2019 r.
+        Agnieszka Kozak, Joanna Berendt, Dogadać się z nastolatkiem. Dojrzałość i szacunek w relacji, wyd. CoJaNaTo, 2021 r.
         </li>
         <li>
-        Kevin Steede, 10 błędów popełnianych przez dobrych rodziców, wyd. GWP Gdańskie Wydawnictwo Psychologiczne, wyd. 2015
+        Carol Dweck, Nowa psychologia sukcesu, wyd. MUZA, 2015 r.
         </li>
     </ul>
 </p>

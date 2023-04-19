@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_3.php");
 ?>
 <article class="modules-content">
-    <h2>refleksja</h2>
+    <h2>Refleksja</h2>
     <p>Zastanów się:</p>
     
     <ul>
