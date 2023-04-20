@@ -64,6 +64,7 @@ Jak zatem mądrze doceniać?
 Żeby móc docenić, trzeba wiedzieć, za co. Wymaga to czasu i&nbspuważności: patrzenia,
 słuchania, rozmawiania. Musisz wiedzieć, co dokładnie chcesz docenić, i&nbspto jest największe
 wyzwanie – dostrzec to i&nbspnazwać.
+</p>
 <ol>
     <li>
     Bądź autentyczny – doceniaj wtedy, kiedy wiesz i&nbspczujesz, za co.
@@ -84,6 +85,10 @@ wyzwanie – dostrzec to i&nbspnazwać.
     Daj szansę wyrazić się odbiorcy – zadaj pytania otwarte.
     </li>
 </ol>
+<p>
+Pamiętajmy, że czasami szkoła jest jedynym miejscem, w&nbspktórym nasi uczniowie i&nbspuczennice mogą poczuć się zauważeni i&nbspdocenieni. Część rodziców nadal wychodzi z&nbspzałożenia, że to inni są od tego, żeby chwalić moje dziecko, więc w&nbspdomu spotyka się ono przede wszystkim
+z&nbspkrytyką i&nbspwymaganiami. Dlatego tak ważne jest, abyś jako wychowawca nie tylko modelował docenianie wśród uczniów, ale też uświadamiał rodziców, jak bardzo jest to ważne i&nbspjak to robić.
+
 </p>
 <div class = "back_next">
     <a href="2_3.php" class="back-button"> wróć</a>

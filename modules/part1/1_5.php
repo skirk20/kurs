@@ -5,7 +5,7 @@ include_once("../module_1.php");
 ?>
 <article class="modules-content">
 <h2>Praktyka</h2>
-    <h3>scenariusz lekcji wychowawczej</h3>
+    <h3>Scenariusz lekcji wychowawczej</h3>
     <p>
     Temat: Wartości, czyli o&nbspukrytych motywach naszego działania
     </p>
@@ -30,7 +30,7 @@ include_once("../module_1.php");
         </li>
     </ul>
     <p>
-        metody
+        Metody
     </p>
     <ul>
         <li>
@@ -42,7 +42,7 @@ include_once("../module_1.php");
         </li>
 </ul>
         <p>
-            formy
+            Formy
         </p>
         <ul>
         <li>
@@ -58,16 +58,16 @@ include_once("../module_1.php");
         <h3>Faza wstępna [15 minut]</h3>
         <ol>
             
-            <li>
+            <li style="list-style: '1. '">
             Przywitaj się z&nbspuczniami. Przedstaw temat oraz cele lekcji, przypomnij o&nbspzasadach
 panujących na lekcji (wywieś kontrakt).
             </li>
-            <li>
+            <li style="list-style: '2. '">
             Podziel uczniów na 4-5 osobowe grupy. Każdej grupie wręcz Opis sytuacji (załącznik
 nr 1) - wybierz kilka najbardziej adekwatnych dla Twojej klasy. Uczniowie czytają zawarte w materiale historie. Następnie ustalają, jakimi
 wartościami kierowali się bohaterowie.
             </li>
-            <li>
+            <li style="list-style: '3. '">
             Omów na forum klasy udzielone przez grupy odpowiedzi. Zwróć uwagę, że&nbspwartości
 są motorem naszych działań, że od tego, w&nbspco wierzymy zależy to, jakie podejmujemy
 decyzje. Odwołaj się do przykładów z&nbspopisów sytuacji. Podkreśl również, że&nbspmożliwe

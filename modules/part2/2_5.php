@@ -35,19 +35,19 @@ include_once("../module_2.php");
     <h3>Faza wstępna [15 minut]</h3>
     <ol class="a1_5-list">
     
-    <li>
+    <li  style="list-style: '1. '">
     
     Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o&nbspzasadach
 panujących na lekcji (wywieś kontrakt).
         
     </li>
-    <li>
+    <li style="list-style: '2. '">
         
     Zaanimuj swobodną rozmowę na&nbspforum klasy - czym jest docenianie? Zapisz
 wypowiedziane przez uczniów słowa/zwroty kluczowe.
         
     </li>
-    <li>
+    <li style="list-style: '3. '">
         
     Poproś chętnych uczniów aby powiedzieli, co lub kogo doceniają. Zwróć uwagę, że&nbspczęsto nie doceniamy tego, co mamy oraz ludzi, którzy nas otaczają. Możesz odwołać
 się do&nbspwłasnych doświadczeń (np. nie doceniałam/em swobody możliwości
