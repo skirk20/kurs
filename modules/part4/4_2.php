@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_4.php");
 ?>
 <article class="modules-content">
-<h2>studium przypadku</h2>
+<h2>Studium przypadku</h2>
 <p>Po zebraniu część rodziców podchodzi do&nbspwychowawczyni:</p>
 <ul>
     <li>
@@ -12,7 +12,7 @@ include_once("../module_4.php");
 szkoły chce iść.
     </li>
     <li>
-    No, Karolina ma tak samo. Jak tylko próbuję ją zapytać, co&nbspchciałaby robić, to&nbspod&nbsprazu
+    No, Ola ma tak samo. Jak tylko próbuję ją zapytać, co&nbspchciałaby robić, to&nbspod&nbsprazu
 zamyka się w swoim pokoju.
     </li>
     <li>

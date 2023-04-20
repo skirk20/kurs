@@ -9,7 +9,7 @@ include_once("../module_5.php");
 uczniów w sytuacjach szkolnych oraz jak rozmawiać z&nbsprodzicami o&nbspwspieraniu nastolatków
 w&nbspkształtowaniu wytrwałości. Zachęcisz rodziców i&nbspuczniów do&nbspzastanowienia się nad tym,
 kiedy wytrwałość jest potrzebna, czy są wytrwali oraz zainspirujesz rodziców do&nbsptego, jak
-mogą wspierać rozwój tej postawy.</p>
+mogą wspierać rozwój tej postawy. Dowiesz się też, co&nbspdają nam porażki.</p>
 <div class = "back_next">
     <a href="5_1-main.php" class="back-button"> wróć</a>
     <a href="5_2.php" class="start-button">przejdź dalej</a>

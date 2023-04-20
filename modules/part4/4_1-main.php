@@ -9,7 +9,7 @@ include_once("../module_4.php");
 o&nbspbudowanie dobrej przyszłości, z&nbspdrugiej - korzystać z&nbspbieżących przyjemności. Jedyną
 metodą, aby to nie przypadek w&nbsppełni decydował o&nbspnaszym życiu, jest wyznaczanie sobie
 celów i&nbspdążenie do&nbspich realizacji. Tylko w&nbspten sposób nie zgubimy obranej drogi w&nbsplabiryncie
-życia.</p>
+wieli krótko- i&nbspdługoterminowych decyzji.</p>
 <div class = "back_next">
     <a href="../../modules.php" class="back-button"> wróć</a>
     <a href="4_1.php" class="start-button">przejdź dalej</a>

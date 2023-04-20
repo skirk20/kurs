@@ -19,7 +19,7 @@ osoby z&nbspjego otoczenia.</p>
 Młody człowiek często przyjmuje strategię unikania – dąży do&nbspświętego spokoju, nie chce
 podejmować żadnych decyzji, bo nie wie, czym się kierować (nie wyznaje stabilnego systemu
 wartości), czuje, że nie ma odpowiednich kompetencji (chociaż tego nie powie).
-W konsekwencji stara się działać tu i&nbspteraz, a&nbspnie planować w&nbspdłuższej perspektywie. To
+W&nbspkonsekwencji stara się działać tu i&nbspteraz, a&nbspnie planować w&nbspdłuższej perspektywie. To
 wszystko sprawia, że wielu młodych ludzi ma wielką trudność z określeniem swoich planów,
 celów a&nbspnawet marzeń.
 </p>

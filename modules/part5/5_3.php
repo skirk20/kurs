@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_5.php");
 ?>
 <article class="modules-content">
-    <h2>refleksja</h2>
+    <h2>Refleksja</h2>
     <ul>
         <li>
         Jak myślisz, które z&nbspdzieci, po swoich przygotowaniach do wystąpienia publicznego,

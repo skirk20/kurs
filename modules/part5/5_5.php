@@ -4,44 +4,44 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_5.php");
 ?>
 <article class="modules-content">
-    <h2>praktyka</h2>
-    <h3>scenariusz lekcji wychowawczej</h3>
+    <h2>Praktyka</h2>
+    <h3>Scenariusz lekcji wychowawczej</h3>
     <p>
-        <b>temat:</b> Życie jako maraton, a&nbspnie sprint, czyli o&nbspwytrwałości.</br>
-        <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o&nbspdodatkowe 45 min.)
+        <b>Temat:</b> Życie jako maraton, a&nbspnie sprint, czyli o&nbspwytrwałości.</br>
+        <b>Czas:</b> 45 minut (+ ewentualne rozszerzenie o&nbspdodatkowe 45 min.)
     </p>
-    <h3>cele</h3>
-        po zajeciach uczen: </br>
+    <h3>Cele</h3>
+        Po zajeciach uczen: </br>
         <ul>
             <li>wie, czym jest wytrwałość</li>
             <li>rozumie, że wytrwałość jest niezbędna do&nbsposiągania celów</li>
             <li>zna nawyki skutecznego działania</li>
         </ul>
-    <h3>metody</h3>
+    <h3>Metody</h3>
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    <h3>formy</h3>
+    <h3>Formy</h3>
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    <h3>Faza wstępna [5 min]</h3>  
+    <h3>Faza wstępna [5 minut]</h3>  
     <ol class="a1_5-list">
     
-    <li>
+    <li style="list-style:'1. '">
     
     Przywitaj się z&nbspuczniami. Przedstaw temat oraz cele lekcji. Przypomnij o&nbspzasadach
 panujących na lekcji (wywieś kontrakt).
         
     </li>
 </ol>
-<h3>Faza realizacyjna [30 min]</h3>
+<h3>Faza realizacyjna [30 minut]</h3>
 <ol class="a1_5-list">
     
-    <li>
+    <li style="list-style:'2. '">
         
     Podziel uczniów na kilkuosobowe grupy. Każdej rozdaj jeden z&nbspbiografów znanych
 osób (załącznik nr 1). Zadaniem uczniów jest ustalenie, jakie nawyki musieli oni
@@ -49,7 +49,7 @@ w sobie wyrobić, aby osiągnąć to, kim są obecnie. Wnioski uczniowie zapisuj
 kartce/flipcharcie, następnie prezentują je na forum klasy.
         
     </li>
-    <li>
+    <li style="list-style:'3. '">
         
     Podsumuj wnioski uczniów wprowadzając teorię - opowiedz o&nbsp7 nawykach
 skutecznego działania Seana Covey’a (więcej znajdziesz w załączniku nr 2). Zachęć
@@ -57,14 +57,14 @@ uczniów do zastanowienia się, co w biografiach wskazanych osób świadczy o&nb
 mieli wyrobione podane nawyki.
         
     </li>
-    <li>
+    <li style="list-style:'4. '">
     
     Każdemu uczniowi rodzaj kartę pracy (załącznik nr 3). Pracując indywidualnie, każdy
 uczeń łączy przykład z&nbspnawykiem. Następnie sprawdza zgodność wykonania zadania
 z&nbspinnym uczniem. Na koniec przedstaw prawidłowe odpowiedzi.
         
     </li>
-    <li>
+    <li style="list-style:'5. '">
         
     Zaanimuj rozmowę - co trzeba zrobić, aby dana czynność stała się nawykiem?
 Uczniowie powinni dojść do&nbspwniosku, że&nbspkonieczne jest powtarzanie określonej
@@ -76,24 +76,23 @@ spać o&nbspokreślonej godzinie, zapisywanie rzeczy do&nbspzrobienia w&nbspkale
         
     </li>
 </ol>
-    <h3>Faza podsumowująca [10 min]</h3>
+    <h3>Faza podsumowująca [10 minut]</h3>
     <ol class="a1_5-list">
-    <li>
+    <li style="list-style:'6. '">
         
     W ramach podsumowania poproś uczniów, aby wskazali czynność, którą chcą uczynić
 swoim nawykiem. Zaznaczają ją na karcie pracy.
         
     </li>
-    <li>
+    <li style="list-style:'7. '">
     Opowiedz uczniom o zebraniu z&nbsprodzicami, na którym również będziesz rozmawiać
-o&nbspnawykach i&nbspwytrwałości. Zadaniem rodziców będzie dowiedzenie się jaką czynność
-wybrało ich dziecko oraz wspólne ustalenie jak rodzic może je wspierać
-wypracowaniu nawyku.
+o&nbspnawykach i&nbspwytrwałości. Zadaniem rodziców będzie dowiedzenie się, jaką czynność
+wybrało ich dziecko oraz wspólne ustalenie, jak rodzic może je wspierać w&nbspwypracowaniu nawyku.
     </li>
 </ol>
     <h3>Propozycja rozszerzenia:</h3>
     <ol class="a1_5-list">
-    <li>
+    <li style="list-style:'1. '">
         
     Możesz wprowadzić rozmowę, dyskusję na temat:
         
@@ -102,6 +101,9 @@ wypracowaniu nawyku.
             <li>Czy upór i&nbspkonsekwencja w&nbspdziałaniu są zawsze korzystne?</li>
             <li>Co mnie motywuje do&nbspbycia wytrwałym w&nbspdanym temacie, zadaniu?</li>
         </ol>
+    </li>
+    <li style="list-style:'2. '">
+    Możesz zachęcić uczniów do rozwiązania testu pokazującego ich skalę uporu (załącznik nr 4).
     </li>
 </ol>
     <p class="attached">

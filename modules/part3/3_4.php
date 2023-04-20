@@ -12,12 +12,13 @@ ubiegłych lub do&nbsptych z&nbspinnych klas. Plan drugiego zebrania jest bardzi
 zwłaszcza dla rodziców: będą musieli powiedzieć, co z&nbspich perspektywy było największym
 wyzwaniem, będą musieli zastanowić się, co&nbspdobrego się wydarzyło, a&nbspnad czym warto dalej
 pracować. Skąd mają to wiedzieć? Jeśli rozmawiali z&nbspdziećmi, nie będzie to stanowić kłopotu,
-ale jeśli na pytanie „Jak było w szkole?” słyszeli odpowiedzi, że&nbsp„dobrze”, „fajnie”…</p>
+ale jeśli na pytanie „Jak było w szkole?” słyszeli odpowiedzi, że&nbsp„dobrze”, „fajnie"?</p>
 <p>
 Dlatego warto zachęcać i&nbspdzieci, i&nbsprodziców do&nbsppodsumowywania wydarzeń i&nbspprocesów. Jako
 nauczyciele jesteśmy dobrze przygotowani i&nbspprzyzwyczajeni do&nbspomawiania działów, tematów,
 sprawdzianów. Czas tak samo podejść do&nbspwycieczek, dni tematycznych, działań
-wolontariackich, a&nbspczasem po prostu tygodnia czy nawet danego dnia.
+wolontariackich, a&nbspczasem po prostu tygodnia czy nawet danego dnia. Omawianie pozwala dowiedzieć się, co dzieje się w&nbspsercu i&nbspumyśle nastolatka, jakie emocje mu towarzyszą, jakie pytania sobie zadaje, co go ogranicza, a co wspiera; co myśli o&nbspsobie, a&nbspco o&nbspinnych. Bez tej wiedzy my, dorośli, nie jesteśmy w&nbspstanie wesprzeć młodego człowieka w&nbspjego rozwoju, nie pomożemy mu w&nbspbudowaniu wiedzy o&nbspsobie i&nbspo&nbspotaczającym go świecie.
+
 </p>
 <div>
 <p>
@@ -55,18 +56,18 @@ intuicyjnie. Warto towarzyszyć im w&nbsptym procesie.
 <p>
 Świętowanie nawet niewielkich sukcesów powiązane jest z&nbsptą radosną i&nbspspontaniczną częścią
 podsumowywania, dzięki któremu doświadczamy całej gamy pozytywnych uczuć. Viktor
-Frankl w&nbspksiążce “Człowiek w poszukiwaniu sensu” napisał, że&nbspświętowanie nadaje sens
+Frankl w&nbspksiążce „Człowiek w poszukiwaniu sensu” napisał, że&nbspświętowanie nadaje sens
 naszym wysiłkom, że&nbspdzięki niemu stajemy się silniejsi. Świętowanie to utożsamienie się z&nbspodniesionym sukcesem, zaakceptowanie naszych osiągnięć, budowanie wewnętrznego
 przekonania, że&nbspzasługujemy na to, co się wydarzyło. To także możliwość nie tylko
 intelektualnego, ale też fizycznego odczucia, że&nbspnaprawdę odnieśliśmy sukces. To kolejny
-krok do&nbspbudowania motywacji do&nbsppodejmowania kolejnych wyzwań.
+krok w&nbspbudowaniu motywacji do&nbsppodejmowania kolejnych wyzwań.
 </p>
 <p>
 Podsumowania wiążą się często z&nbspudzielaniem i&nbspotrzymywaniem informacji zwrotnych.
 Dotyczą one naszych zachowań, decyzji lub efektów pracy. Dla wielu młodych ludzi przyjęcie
 krytycznej informacji zwrotnej jest trudne, rozwojowo bowiem na etapie adolescencji
 skupieni są na sobie, czemu towarzyszy niestabilność emocjonalna, niskie poczucie własnej
-wartości oraz dążenie do&nbspuzyskania “świętego spokoju”. Trudno w&nbsptakich warunkach
+wartości oraz dążenie do&nbspuzyskania „świętego spokoju”. Trudno w&nbsptakich warunkach
 przyjmować informację zwrotną. Z&nbsptego powodu warto uczyć uczniów i&nbsprodziców, jak
 formułować informację zwrotną, czemu ma ona służyć i&nbspjak na nią reagować. O&nbsptym, jak to
 robić, dowiesz się z&nbspInspiratoriumu oraz scenariusza zajęć.

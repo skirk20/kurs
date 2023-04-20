@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_5.php");
 ?>
 <article class="modules-content">
-<h2>studium przypadku</h2>
+<h2>Studium przypadku</h2>
 <p>Maciek, jak każdy uczeń klasy 5, ma zaprezentować przed koleżankami i&nbspkolegami książkę,
 którą chciałby zaproponować jako lekturę do&nbspomówienia. Mama Maćka wiedząc, że&nbspchłopiec
 jest wrażliwy, a&nbspwystąpienia publiczne są dla niego trudne, napisała do&nbspnauczycielki języka
@@ -29,8 +29,7 @@ Anna Kowalska
 Julka, jak każdy szóstoklasista, jutro ma zaproponować na godzinie wychowawczej miejsce,
 do&nbspktórego cała klasa pojedzie w&nbsptym roku na wycieczkę. Dziewczynka jest dość nieśmiała
 i&nbspwycofana, obawia się, że&nbspprezentacja się jej nie uda, że&nbspbędzie zbyt zawstydzona, nie
-zaprezentuje swojego pomysłu w&nbsptak atrakcyjny sposób, żeby klasa chciała pojechać akurat
-do Wieliczki. Najchętniej tego dnia w ogóle by nie poszła do szkoły, właściwie nie zależy jej
+zaprezentuje swojego pomysłu w&nbsptak atrakcyjny sposób, jak koledzy i&nbspkoleżanki. Najchętniej tego dnia w ogóle by nie poszła do szkoły, właściwie nie zależy jej
 już na żadnej wycieczce. Opowiedziała o&nbspswoich wątpliwościach mamie. Mama Julki zachęca
 dziewczynkę do przetrenowania przed nią wystąpienia,
 a&nbsppotem razem ustalają, że&nbspJulka doda kilka elementów do swojej prezentacji: zdjęcia

@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_4.php");
 ?>
 <article class="modules-content">
-    <h2>refleksja</h2>
+    <h2>Refleksja</h2>
     <ul>
         <li>
         Czy zdarzyło Ci się usłyszeć podobne pytania?
@@ -13,8 +13,7 @@ include_once("../module_4.php");
         Jak na nie reagujesz?
         </li>
         <li>
-        W jakim stopniu uważasz, że jesteś w stanie wesprzeć rodziców w&nbspznalezieniu
-odpowiedzi na te pytania?
+        Czy myślisz, że w&nbspjakimś stopniu jesteś w*nbspstanie wesprzeć rodziców w&nbspznalezieniu odpowiedzi na te pytania?
         </li>
         <li>
         Jak rozmawiasz z uczniami o&nbspwyznaczaniu celów życiowych?

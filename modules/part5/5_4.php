@@ -29,7 +29,7 @@ i&nbspzajmę się ulubioną grą strategiczną).
 <p>
 Nie jest to umiejętność, z&nbspktórą się rodzimy, ale możemy ją trenować – tak samo, jak
 trenujemy inne umiejętności. Im szybciej zaczniemy, tym lepiej, bo tylko dzięki wierze,
-że&nbsptrening czyni mistrza bardziej angażujemy się w&nbspdziałania prowadzące nas do celu. Dzięki
+że&nbsptrening czyni mistrza, bardziej angażujemy się w&nbspdziałania prowadzące nas do celu. Dzięki
 temu zamiast unikać trudności mierzymy się z nimi i&nbspnie załamujemy się popełnionymi
 błędami, ponieważ traktujemy je jako sytuację do&nbspwyciągnięcia wniosków na przyszłość.
 </p>
@@ -65,25 +65,25 @@ zakończenia działania.
 <p>
 Ustalając cel do realizacji podziel go na krótkie etapy/działania, których zakończenie łatwo
 jest zauważyć. Np. jeśli celem jest sprzątnięty pokój, to omówcie, jakie działania/zadania
-wchodzą w&nbspzakres tego celu: np
+wchodzą w&nbspzakres tego celu np.:
 </p>
 <ol>
     <li>
-    książki i zabawki stoją na półce,
+    książki i zabawki stoją na półce.
     </li>
     <li>
     na biurku leżą tylko
-książki potrzebne do&nbspodrobienia lekcji,
+książki potrzebne do&nbspodrobienia lekcji.
     </li>
     <li>
-    łóżko jest pościelone,
+    łóżko jest pościelone.
     </li>
     <li>
     w pokoju nie ma żadnych
-brudnych naczyń,
+brudnych naczyń.
     </li>
     <li>
-    brudne ubrania są wyniesione w ustalone miejsce,
+    brudne ubrania są wyniesione w ustalone miejsce.
     </li>
     <li>
     czyste ubrania są
@@ -96,13 +96,13 @@ Jeśli celem jest uzyskanie dobrej oceny ze sprawdzianu&nbspz matematyki, to zad
 <ol>
     <li>
     sprawdzenie zakresu materiału
-obowiązującego na sprawdzianie,
+obowiązującego na sprawdzianie.
     </li>
     <li>
-    przygotowanie planu nauki,
+    przygotowanie planu nauki.
     </li>
     <li>
-    zabranie się do pracy z&nbspodpowiednim wyprzedzeniem,
+    zabranie się do pracy z&nbspodpowiednim wyprzedzeniem.
     </li>
     <li>
     konsultacja z&nbspnauczycielem przedmiotu/koleżanką czy
@@ -114,8 +114,8 @@ Dalszym etapem kształtowania tej postawy jest skoncentrowanie się na celu bard
 odległym w&nbspczasie, ale ważnym i&nbspatrakcyjnym dla dziecka. W&nbspszkole to może być np. zdobycie
 czerwonego paska na koniec roku, organizacja dyskoteki, kiermaszu czy imprezy sportowej, a&nbspw&nbspdomu np. odłożenie pewnej kwoty z&nbspkieszonkowego na wymarzony zakup lub regularne
 zajmowanie się hobby przez kilka miesięcy. W&nbsptrakcie osiągania celu rozmawiaj o&nbspnim
-z&nbspdzieckiem, zachęcaj do&nbspdziałania, ale za każdym razem udzielaj mu tylko tyle wskazówek
-i&nbsppomocy, ile minimalnie potrzeba, aby odniosło sukces.
+z&nbspnastolatkiem, zachęcaj do&nbspdziałania, ale za każdym razem udzielaj mu tylko tyle wskazówek
+i&nbsppomocy, ile minimalnie potrzeba, aby odniósł sukces.
 </p>
 <p>
 Dawaj informacje zwrotne na temat postępów w&nbspdrodze do celu. Mogą być one werbalne
@@ -126,7 +126,7 @@ człowiek mógł często sprawdzać, co już osiągnął, a&nbspco jeszcze przed
 lodówki, na ścianie w&nbsppokoju, przyklejona w&nbspnotesie ucznia.
 </p>
 <p>
-Przypominaj nastolatkowi o&nbsptym, jaki jest cel. Jeśli np. zbiera pieniądze na określoną rzecz –
+Przypominaj nastolatkowom o&nbsptym, jaki jest cel. Jeśli np. zbierają pieniądze na określoną rzecz –
 umieść zdjęcie tej rzeczy w&nbspłatwo dostępnym dla niego miejscu. Takie zdjęcie będzie dużo
 bardziej skuteczne niż werbalne przypominanie o&nbspcelu – nastolatki często traktują nasze
 słowa jako zrzędzenie, marudzenie czy przejaw niewiary w&nbspich odpowiedzialność.
@@ -137,9 +137,18 @@ dla niego najlepsza – czy to przypomnienie wyświetlające się co określony 
 telefonie, czy może wygaszacz ekranu, który będzie przypominajką? A&nbspmoże minutnik, który
 będzie przypominał o&nbsptym, że przerwa w&nbspnauce miała trwać 30 minut, a&nbspnie dłużej? Ustalenie
 takich form „mechanicznych” przypomnień jest bardzo korzystnym rozwiązaniem, bo nie
-powoduje u&nbspdziecka poczucia, że to dorosły mu coś narzuca czy ogranicza przyjemności, a&nbspwięc nie prowokuje konfliktów, o&nbspktóre łatwo przy niestabilnych emocjach nastolatka.
+powoduje u&nbspdziecka poczucia, że to dorosły mu coś narzuca czy ogranicza przyjemności, a&nbspwięc nie prowokuje konfliktów, o&nbspktóre łatwo przy niestabilnych emocjach nastolatka. Wiele nastolatek i&nbspnastolatków kompletnie nie potrafi radzić sobie z&nbspporażką. W&nbspmomencie pierwszego niepowodzenia wycofują się i&nbspnie podejmują kolejnej próby osiągnięcia celu.
 </p>
+<p>
+W dużym stopniu to my, dorośli, jesteśmy za to odpowiedzialni, bo do tej pory chroniliśmy dzieci przed sytuacjami trudnymi. Musimy zdawać sobie sprawę z&nbsptego, że tak samo jak w&nbspnaszym życiu obecne są zarówno sukcesy, jak i&nbspporażki, tak samo będą one obecne w&nbspżyciu naszych dzieci czy uczniów. Warto, abyśmy przygotowali młodych ludzi do radzenia sobie z&nbspnimi tu i&nbspteraz, w&nbspbezpiecznych warunkach i&nbspotoczeniu, bo nabywanie tej umiejętności dopiero w&nbspdorosłym życiu będzie to dla nich zdecydowanie trudniejsze. Co możemy zrobić, aby oswajać naszych wychowanków z&nbspporażkami i&nbspbudować na nich przyszły sukces?
+</p>
+<p>
+Po pierwsze - nie bójmy się tego, że nastolatek poczuje smak porażki. Jeśli nie zagraża to jego życiu i&nbspzdrowiu, to pozwólmy mu wpłynąć na mieliznę, bo dzisiejsze drobne niepowodzenia budują umiejętność radzenia sobie w&nbspprzyszłości z&nbspwiększymi błędami i&nbspporażkami. Jednak nie zostawiajmy naszego nastolatka na tej mieliźnie samego - bądźmy przy nim, zachęcajmy do analizy, co poszło nie tak i&nbspjak można tego uniknąć w&nbspprzyszłości.
+</p>
+<p>
+Rozmawiajmy o tym, że porażki są nieuniknione i&nbspże wynikają z&nbspnich doświadczenia, na którym można budować sukces. Warto wielokrotnie powtarzać, że niepowodzenie nie jest komunikatem o&nbsptym, jakimi jesteśmy ludźmi, tylko o&nbsptym, że wybrany przez nas sposób działania nie prowadzi do wybranego celu. Pomagają pytania: „Czego się z&nbsptego nauczyliśmy?” lub „Co zrobimy inaczej następnym razem?”.
 
+</p>
 <div class = "back_next">
     <a href="5_3.php" class="back-button"> wróć</a>
     <a href="5_5.php" class="start-button">przejdź dalej</a>
