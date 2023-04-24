@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_2.php");
 ?>
 <article class="modules-content">
-<h2>Docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</h2>
+<h2>Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości</h2>
 <p>Docenianie to&nbspjednoznaczna korzyść dla wszystkich: osobie docenianej pozwala poczuć swoją
 wartość, a&nbsposobie doceniającej ułatwia dostrzeganie pozytywnych aspektów życia. Dzięki
 docenianiu czujemy się ważni dla kogoś i&nbspzmotywowani do&nbspdalszego dbania o&nbsprelację oraz

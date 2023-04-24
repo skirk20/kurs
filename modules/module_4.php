@@ -7,8 +7,8 @@
     </h3>
    
         
-        <h3><a href="../part2/2_1-main.php" class="module-choice"> Docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
-        <h3><a href="../part3/3_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesow i&nbspanalizowanie porażek</a></h3>
+        <h3><a href="../part2/2_1-main.php" class="module-choice"> Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
+        <h3><a href="../part3/3_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</a></h3>
 
         <h3><a href="../part4/4_1-main.php" class="module-choice" style="color: #028388;"> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie&nbspdonich</a></h3>
         <ul>

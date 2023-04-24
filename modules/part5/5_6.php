@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_5.php");
 ?>
 <article class="modules-content">
-<h2>Polecamy przeczytać</h2>
+<h2>Dowiedz się więcej</h2>
     <ul>
    <li> 
     Roy Baumeister, John Tierney, Siła woli. Odkryjmy na nowo to, co w człowieku

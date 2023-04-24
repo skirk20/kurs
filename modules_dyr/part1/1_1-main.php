@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_1.php");
 ?>
 <article class="modules-content">
-<h2>Wartości, czyli o&nbspukrytych motywach naszego działania</h2>
+<h2>Dla dyrektora, czyli dlaczego i&nbspjak rozmawiać z&nbspkadrą o&nbspwartościach</h2>
 <p>Dyrektorze, masz ogromny wpływ na to, jaki ukryty program realizuje szkoła, której
 przewodzisz. To od&nbspwysyłanych przez Ciebie sygnałów i&nbsppodejmowanych działań
 w&nbspbardzo dużym stopniu zależy jakość nauczania, wychowywania i&nbspopieki w&nbspTwojej szkole.</p>

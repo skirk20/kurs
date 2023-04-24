@@ -1,7 +1,7 @@
 <section class="main">
 <section class="left-bar">
     <h3>
-        <a href="1_1-main.php" name="main-1-1-choice" class="module-choice" style="color: #028388;">Wartości, czyli o&nbspukrytych motywach naszego dzialania</a>
+        <a href="1_1-main.php" name="main-1-1-choice" class="module-choice" style="color: #028388;">Dla dyrektora, czyli dlaczego i&nbspjak rozmawiać z&nbspkadrą o&nbspwartościach</a>
     </h3>
     <ul>
         <li><a href="1_1.php" class="button-choice">Efekt</a></li>

@@ -57,30 +57,30 @@ bezpośredniego kontaktu z&nbspuczniami, dopóki nie pojawiła się edukacja zda
     </ol>
     <h3>Faza realizacyjna [25 min]</h3>
     <ol class="a1_5-list">
-    <li style="list-style-type: '4. '">
+    <li style="list-style: '4. '">
         
     Sformułuj zadanie indywidualne - zapisz wypowiedź, w której docenisz jedną
 wybraną osobę. Uprzedź, że nie będzie obowiązku czytania ani pokazywania swojej
 pracy.
         
     </li>
-    <li style="list-style-type: '5. '">
+    <li style="list-style: '5. '">
         
     Daj możliwość przeczytania wypowiedzi chętnym uczniom.
     </li>
-    <li style="list-style-type: '6. '">
+    <li style="list-style: '6. '">
     
     Podziel uczniów na kilkuosobowe grupy. Każdej wręcz opisy dwóch sytuacji (załącznik
 nr 1). Poproś, aby zapoznali się z&nbspnimi i&nbspznaleźli różnice w&nbspsposobie formułowania
 przekazu.
         
     </li>
-    <li style="list-style-type: '7. '">
+    <li style="list-style: '7. '">
         
     Omów wyniki pracy grup. Wysłuchaj wniosków.
         
     </li>
-    <li style="list-style-type: '8. '">
+    <li style="list-style: '8. '">
     Wprowadź teorię - przedstaw wskazówki skutecznego docenienia:
     <ul>
         <li>
@@ -91,19 +91,19 @@ przekazu.
         </li>
     </ul>
     </li>
-    <li style="list-style-type: '9. '">
+    <li style="list-style: '9. '">
     Powiedz uczniom, aby powrócili do&nbsplektury sformułowanych przez siebie na&nbsppoczątku
 lekcji wypowiedzi. Poproś, aby zastanowili się, co by zmienili w&nbsptej wypowiedzi, mając
 już nową wiedzę.
     </li>
-    <li style="list-style-type: '10. '">
+    <li style="list-style: '10. '">
     Chętni uczniowie czytają swoje pierwsze i&nbspzmodyfikowane wypowiedzi (pamiętaj, że
 jest to zadanie tylko dla chętnych).
     </li>
     </ol>
     <h3>Faza podsumowująca [5 min]</h3>
     <ol class="a1_5-list">
-    <li style="list-style-type: '11. '">
+    <li style="list-style: '11. '">
         
     W ramach podsumowania opowiedz uczniom o&nbspzebraniu z rodzicami, na którym
 również będziesz rozmawiać o&nbspdocenianiu. Powiedz o&nbspzadaniu, które rodzice
@@ -114,7 +114,7 @@ najbliższy tydzień.
 </ol>
     <h3>propozycja rozszerzenia:</h3>
     <ol class="a1_5-list">
-    <li>
+    <li  style="list-style: '1. '">
     
     Zajęcia możesz podzielić na więcej jednostek lekcyjnych. Możliwe, że dyskusja
 w&nbspramach fazy wstępnej okaże się bardzo owocna. W&nbsptakim przypadku nie przerywaj
@@ -123,13 +123,13 @@ pokój, przyrodę, itp.) i&nbspz&nbspjakiego powodu to doceniają. To ważne, ab
 i&nbspcieszyć się tym, co wokół nas.
         
     </li>
-    <li>
+    <li  style="list-style: '2. '">
     
     Pod koniec fazy realizacyjnej możesz rozpocząć rozmowę/pracę w&nbspgrupach nad
 poszukiwaniem innych sposobów doceniania.
     
     </li>
-    <li>
+    <li  style="list-style: '3. '">
         
     Możesz sformułować zadanie indywidualne - napisz, narysuj za&nbspco&nbspdoceniasz rodziców
 (pamiętaj, aby docenienie spełniało kryteria). W&nbsptakim przypadku zadaj rodzicom pracę domową, aby oni również narysowali, za co doceniają dzieci. W&nbspdomu wspólnie powinni wymienić sie rysunkami i&nbspopowiedzieć o&nbsptym co w&nbspsobie dostrzegają i&nbspcenią.
