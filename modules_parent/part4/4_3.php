@@ -8,14 +8,17 @@ include_once("../module_4.php");
 <p>Polecamy przeczytać</p>
 <p>
     <ul>
-    <li>
-        Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i rodzicielstwie, wyd. MiND, 2013 r.
+    <li id="lit">
+    Sean Covey, 7 nawyków skutecznego nastolatka, wyd. Rebis, 2022 r.
+
         </li>
-        <li>
-        John M. Oldham, Lois B. Morris, Twój psychologiczny autoportret, wyd. Czarna Owca, 2019 r.
+        <li id="lit">
+        Sean Covey, 7 nawyków szczęśliwego dziecka, wyd. ZNAK, 2022 r.
+
         </li>
-        <li>
-        Kevin Steede, 10 błędów popełnianych przez dobrych rodziców, wyd. GWP Gdańskie Wydawnictwo Psychologiczne, wyd. 2015
+        <li id="lit">
+        Stephen Covey, 7 nawyków skutecznego działania, wyd. Rebis, 2022 r.
+
         </li>
     </ul>
 </p>

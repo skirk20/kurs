@@ -8,13 +8,24 @@ include_once("../module_1.php");
 <p>Polecamy przeczytać</p>
 <p>
     <ul>
-        <li>
-        John Hattie, Widoczne uczenie się dla nauczycieli, wyd. Centrum Edukacji Obywatelskiej, 2015 r. 
+        <li id="lit">
+        Jakub B. Bączek, Jacek Santorski, Z prądem i pod prąd. Determinacja, wyd. JS & Co Dom Wydawniczy, 2017 r.
+
         </li>
-        <li>
-            Robert J. Marzano, Sztuka i teoria skutecznego nauczania, wyd. Cicitas, 2015 r.
+        <li id="lit">
+        John Hattie, Widoczne uczenie się dla nauczycieli, wyd. Centrum Edukacji Obywatelskiej, 2015 r.
         </li>
-            
+        <li id="lit">
+        John Kotter, Holger Rathgeber, Peter Mueller, Gdy góra lodowa topnieje. Wprowadzanie zmian w każdych okolicznościach, wyd. Helion, 2008 r.
+
+        </li>
+        <li id="lit">
+        Robert J. Marzano, Sztuka i teoria skutecznego nauczania, wyd. Civitas, 2015 r.
+        </li>
+        <li id="lit">
+        Tony Stoltzfus, Sztuka zadawania pytań w coachingu. Jak opanować najważniejszą umiejętność coacha?, wyd. Aetos Media Sp. z o. o., 2012 r.
+        </li>
+
     </ul>
 </p>
 <p class="attached">

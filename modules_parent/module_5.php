@@ -12,6 +12,7 @@ nich</a></h3>
 <ul>
         <li><a href="5_2.php" class="button-choice">Inspiratorium</a></li>
         <li><a href="5_3.php" class="button-choice">Dowiedz się więcej</a></li>
+        <li><a href="5_4.php" class="button-choice">Dodatkowa literatura</a></li>
 </ul>
     </section>
 <section class="content content3">

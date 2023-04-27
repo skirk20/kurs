@@ -20,6 +20,7 @@
         <li><a href="5_5.php" class="button-choice">praktyka</a></li>
         <li><a href="5_6.php" class="button-choice">Dowiedz się więcej</a></li>
         <li><a href="5_7.php" class="button-choice">Inspiratorium</a></li>
+        <li><a href="5_8.php" class="button-choice">Polecana literatura</a></li>
         </ul>
 </section>
 <section class="content content3">

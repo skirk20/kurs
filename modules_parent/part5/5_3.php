@@ -8,14 +8,14 @@ include_once("../module_5.php");
 <p>Polecamy przeczytać</p>
 <p>
     <ul>
-    <li>
-        Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i rodzicielstwie, wyd. MiND, 2013 r.
+    <li id="lit">
+    Angela Lee Duckworth, Upór. Potęga pasji i wytrwałości, wyd. Galaktyka, 2016 r.
+
         </li>
-        <li>
-        John M. Oldham, Lois B. Morris, Twój psychologiczny autoportret, wyd. Czarna Owca, 2019 r.
-        </li>
-        <li>
-        Kevin Steede, 10 błędów popełnianych przez dobrych rodziców, wyd. GWP Gdańskie Wydawnictwo Psychologiczne, wyd. 2015
+        <li id="lit">
+        Roy Baumeister, John Tierney, Siła woli. Odkryjmy na nowo to, co w człowieku najpotężniejsze, wyd. Media
+Rodzina, 2013 r.
+
         </li>
     </ul>
 </p>
@@ -24,7 +24,7 @@ include_once("../module_5.php");
 </p>
     <div class = "back_next">
     <a href="5_2.php" class="back-button"> wróć</a>
-    <a href="../../index.php" class="start-button">powrót na stronę główną</a>
+    <a href="5_4.php" class="start-button">przejdź dalej</a>
     </div>
 </article>
 </section>
