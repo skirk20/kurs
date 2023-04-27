@@ -8,14 +8,14 @@ include_once("../module_4.php");
 <p>Polecamy przeczytać</p>
 <p>
     <ul>
-        <li>
+        <li id="lit">
         Sean Covey, 7 nawyków skutecznego nastolatka, wyd. Rebis, 2022 r.
 
         </li>
-        <li>
+        <li id="lit">
         Sean Covey, 7 nawyków szczęśliwego dziecka, wyd. ZNAK, 2022 r.
         </li>
-        <li>
+        <li id="lit">
         Stephen Covey, 7 nawyków skutecznego działania, wyd. Rebis, 2022 r.
 
         </li>

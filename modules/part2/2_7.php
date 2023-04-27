@@ -9,13 +9,13 @@ include_once("../module_2.php");
 <p>
     <ul>
         
-        <li>
+        <li id="lit">
         Marshall B. Rosenebrg, Porozumienie bez przemocy. O języku życia, wyd. Czarna Owca, 2015 r.
         </li>
-        <li>
+        <li id="lit">
         Agnieszka Kozak, Joanna Berendt, Dogadać się z nastolatkiem. Dojrzałość i szacunek w relacji, wyd. CoJaNaTo, 2021 r.
         </li>
-        <li>
+        <li id="lit">
         Carol Dweck, Nowa psychologia sukcesu, wyd. MUZA, 2015 r.
         </li>
     </ul>

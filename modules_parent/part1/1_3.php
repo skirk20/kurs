@@ -8,13 +8,13 @@ include_once("../module_1.php");
 <p>Polecamy przeczytać</p>
 <p>
     <ul>
-    <li>
+    <li id="lit">
         Jesper Juul, Życie w rodzinie. Wartości w partnerstwie i rodzicielstwie, wyd. MiND, 2013 r.
         </li>
-        <li>
+        <li id="lit">
         John M. Oldham, Lois B. Morris, Twój psychologiczny autoportret, wyd. Czarna Owca, 2019 r.
         </li>
-        <li>
+        <li id="lit">
         Kevin Steede, 10 błędów popełnianych przez dobrych rodziców, wyd. GWP Gdańskie Wydawnictwo Psychologiczne, wyd. 2015
         </li>
     </ul>
