@@ -14,7 +14,7 @@
             <li><a href="3_4.php" class="button-choice">wiedza</a></li>
             <li><a href="3_5.php" class="button-choice">praktyka</a></li>
             <li><a href="3_6.php" class="button-choice">Inspiratorium</a></li>
-            <li><a href="3_7.php" class="button-choice">Literatura</a></li>
+            <li><a href="3_7.php" class="button-choice">dowiedz się więcej</a></li>
             </ul>
         <h3><a href="../part4/4_1-main.php" class="module-choice"> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie&nbspdonich</a></h3>
         <h3><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>

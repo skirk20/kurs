@@ -18,7 +18,7 @@
         <li><a href="4_4.php" class="button-choice">wiedza</a></li>
         <li><a href="4_5.php" class="button-choice">praktyka</a></li>
         <li><a href="4_6.php" class="button-choice">Inspiratorium</a></li>
-        <li><a href="4_7.php" class="button-choice">Literatura</a></li>
+        <li><a href="4_7.php" class="button-choice">dowiedz się więcej</a></li>
         </ul>
         <h3><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>
 </section>

@@ -10,7 +10,7 @@
         <li><a href="1_4.php" class="button-choice">wiedza</a></li>
         <li><a href="1_5.php" class="button-choice">praktyka</a></li>
         <li><a href="1_6.php" class="button-choice">Inspiratorium</a></li>
-        <li><a href="1_7.php" class="button-choice">literatura</a></li>
+        <li><a href="1_7.php" class="button-choice">dowiedz się więcej</a></li>
         </ul>
         <h3><a href="../part2/2_1-main.php" class="module-choice"> Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
         <h3><a href="../part3/3_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</a></h3>
