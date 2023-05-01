@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_2.php");
 ?>
 <article class="modules-content">
-    <h2>Praktyka</h2>
+    <h2>Scenariusze zajęć</h2>
     <h3>Scenariusz lekcji wychowawczej</h3>
     <p>
         <b>Temat:</b> Dlaczego warto doceniać? Jak to robić?</br>

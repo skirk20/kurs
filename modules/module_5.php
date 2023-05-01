@@ -17,7 +17,7 @@
         <li><a href="5_2.php" class="button-choice">studium przypadku</a></li>
         <li><a href="5_3.php" class="button-choice">refleksja</a></li>
         <li><a href="5_4.php" class="button-choice">wiedza</a></li>
-        <li><a href="5_5.php" class="button-choice">praktyka</a></li>
+        <li><a href="5_5.php" class="button-choice">Scenariusze zajęć</a></li>
         <li><a href="5_6.php" class="button-choice">Dowiedz się więcej</a></li>
         <li><a href="5_7.php" class="button-choice">Inspiratorium</a></li>
         <li><a href="5_8.php" class="button-choice">Polecana literatura</a></li>

@@ -11,7 +11,7 @@
     <?php
         include_once('sample/navigation.html')
     ?>
-    <section class="content">
+    <section class="content" style="width:80%">
         <article>
         <h2>O nas</h2>
         <h3>
@@ -39,7 +39,7 @@ społeczno-obywatelskich, edukacji globalnej, zrównoważonego rozwoju, partycyp
 publicznej, komunikacji nauczycieli z&nbspuczniami i&nbsprodzicami.
 </p>
     </article>
-        <img src="images/grafika_przewodnia.png" alt="">
+    <img src="images/innowatorzy.png" alt="" style="width: 50%;">
         
     </section>
     <?php

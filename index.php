@@ -12,8 +12,8 @@
         include_once('sample/navigation.html')
     ?>
 
-    <section class="content">
-        <article>
+    <section class="content" style="width: 80%;">
+        <article >
         <h2>Dlaczego bierzemy kurs na relacje?</h2>
         <p>Droga Nauczycielko, Drogi Nauczycielu,</p>
         <p>Kurs na relacje to inspiracje i&nbspgotowe narzędzia do prowadzenia lekcji wychowawczych oraz spotkań z&nbsprodzicami. Niezależnie od tego, czy dopiero zaczynasz przygodę z&nbspwychowawstwem, czy masz już w&nbsptym doświadczenie, to&nbspmamy nadzieję, że&nbspznajdziesz tutaj rozwiązania pomocne w&nbspTwojej codziennej pracy z&nbspuczniami i&nbsprodzicami. Kurs porusza tematy z&nbsppozoru proste, wierzymy jednak, że&nbspto&nbspwłaśnie w&nbspnich tkwi potężna moc wychowawstwa:
@@ -43,7 +43,7 @@
         <a href="choice.php" class="main-start-button">start</a>
         </p>
     </article>
-            <img src="images/grafika_przewodnia.png" alt="klkl">
+    <img src="images/innowatorzy.png" alt="" style="width: 50%;">
     </section>
     
     <?php

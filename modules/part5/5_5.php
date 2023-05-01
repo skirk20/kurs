@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_5.php");
 ?>
 <article class="modules-content">
-    <h2>Praktyka</h2>
+    <h2>Scenariusze zajęć</h2>
     <h3>Scenariusz lekcji wychowawczej</h3>
     <p>
         <b>Temat:</b> Życie jako maraton, a&nbspnie sprint, czyli o&nbspwytrwałości.</br>

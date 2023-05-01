@@ -13,7 +13,7 @@
     ?>
     <article class="modules-content">
         <h2>Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BvkOY8C8eMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DaA_dtI8iGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
             <div class = "back_next">
             <a href="../part1/1_1-main.php" class="back-button"> wróć</a>

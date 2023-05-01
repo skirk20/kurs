@@ -16,7 +16,7 @@
         <li><a href="4_2.php" class="button-choice">studium przypadku</a></li>
         <li><a href="4_3.php" class="button-choice">refleksja</a></li>
         <li><a href="4_4.php" class="button-choice">wiedza</a></li>
-        <li><a href="4_5.php" class="button-choice">praktyka</a></li>
+        <li><a href="4_5.php" class="button-choice">Scenariusze zajęć</a></li>
         <li><a href="4_6.php" class="button-choice">Inspiratorium</a></li>
         <li><a href="4_7.php" class="button-choice">dowiedz się więcej</a></li>
         </ul>

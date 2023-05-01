@@ -13,7 +13,7 @@
     ?>
     <article class="modules-content">
         <h2>Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do nich</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/gxdl8NwlqaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VhF5P3Or7Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
             <div class = "back_next">
             <a href="../part3/1_1-main.php" class="back-button"> wróć</a>

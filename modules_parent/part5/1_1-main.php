@@ -13,7 +13,7 @@
     ?>
     <article class="modules-content">
         <h2>Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/AvFrPAc7Nrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jzsVW867gxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <div class = "back_next">
             <a href="../part4/1_1-main.php" class="back-button"> wróć</a>
             <a href="5_2.php" class="start-button">przejdź dalej</a>
