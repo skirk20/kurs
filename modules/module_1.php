@@ -3,14 +3,14 @@
     <h3>
         <a href="1_1-main.php" name="main-1-1-choice" class="module-choice" style="color: #028388;">Wartości, czyli o&nbspukrytych motywach naszego dzialania</a>
     </h3>
-    <ul>
-        <li><a href="1_1.php" class="button-choice">efekt</a></li>
-        <li><a href="1_2.php" class="button-choice">studium przypadku</a></li>
-        <li><a href="1_3.php" class="button-choice">refleksja</a></li>
-        <li><a href="1_4.php" class="button-choice">wiedza</a></li>
-        <li><a href="1_5.php" class="button-choice">Scenariusze zajęć</a></li>
-        <li><a href="1_6.php" class="button-choice">Inspiratorium</a></li>
-        <li><a href="1_7.php" class="button-choice">dowiedz się więcej</a></li>
+    <ul id="myDIV">
+        <li><a href="1_1.php" class="button-choice btn active" name="1_1" onclick="some()">efekt</a></li>
+        <li><a href="1_2.php" class="button-choice btn">studium przypadku</a></li>
+        <li><a href="1_3.php" class="button-choice btn">refleksja</a></li>
+        <li><a href="1_4.php" class="button-choice btn">wiedza</a></li>
+        <li><a href="1_5.php" class="button-choice btn">Scenariusze zajęć</a></li>
+        <li><a href="1_6.php" class="button-choice btn">Inspiratorium</a></li>
+        <li><a href="1_7.php" class="button-choice btn">dowiedz się więcej</a></li>
         </ul>
         <h3><a href="../part2/2_1-main.php" class="module-choice"> Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
         <h3><a href="../part3/3_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</a></h3>
@@ -21,3 +21,14 @@ nich</a></h3>
     </section>
 <section class="content content3">
 
+<!-- <script>
+var header = document.getElementById("myDIV");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+</script> -->

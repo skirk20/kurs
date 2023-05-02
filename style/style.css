@@ -292,3 +292,6 @@ li::first-letter{
 #lit::first-letter{
     text-transform:uppercase;
 }
+.active{
+    color:aqua;
+}

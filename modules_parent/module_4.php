@@ -9,8 +9,8 @@
         <h3><a href="../part4/1_1-main.php" class="module-choice" style="color: #028388;"> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do
 nich</a></h3>
 <ul>
-        <li><a href="4_2.php" class="button-choice">Inspiratorium</a></li>
-        <li><a href="4_3.php" class="button-choice">Dowiedz się więcej</a></li>
+        <li><a href="4_2.php" class="button-choice btn">Inspiratorium</a></li>
+        <li><a href="4_3.php" class="button-choice btn">Dowiedz się więcej</a></li>
 </ul>
 <h3><a href="../part5/1_1-main.php" class="module-choice">Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>
 

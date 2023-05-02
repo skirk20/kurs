@@ -49,6 +49,13 @@ Po apelu wychowawczyni mówi:
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[1].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

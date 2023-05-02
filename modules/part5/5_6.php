@@ -57,6 +57,13 @@ https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[5].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

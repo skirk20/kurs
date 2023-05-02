@@ -201,6 +201,13 @@ robić w&nbsprodzinie, w&nbspklasie, a&nbspjak indywidualnie.
     </article>
     </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[4].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

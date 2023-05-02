@@ -30,6 +30,13 @@ include_once("../module_2.php");
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[6].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

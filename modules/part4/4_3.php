@@ -30,6 +30,13 @@ zrealizować? Dlaczego? Co Ci przeszkadzało, a&nbspco wspierało?
 </article>
     </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[2].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

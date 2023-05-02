@@ -14,11 +14,14 @@
     <article class="modules-content">
         <h2>Docenianie, czyli budowanie fundamentu adekwatnego poczucia własnej wartości</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/DaA_dtI8iGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        
+        <p class="attached">
+    <a href="../../resources/docenianie_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a>
+</p>
             <div class = "back_next">
             <a href="../part1/1_1-main.php" class="back-button"> wróć</a>
             <a href="2_2.php" class="start-button">przejdź dalej</a>
             </div>
+            
     </article>
     </section>
     </section>

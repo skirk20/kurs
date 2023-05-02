@@ -97,6 +97,13 @@ z&nbspkrytyką i&nbspwymaganiami. Dlatego tak ważne jest, abyś jako wychowawca
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[3].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

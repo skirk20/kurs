@@ -185,6 +185,13 @@ wyjścia ze swojej strefy komfortu i&nbspwykorzystania nowych rozwiązań czy me
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[3].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

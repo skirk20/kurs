@@ -47,6 +47,13 @@ pytanie kim są i&nbspczego chcą. Pomysły, jak to robić, znajdziesz w&nbspsce
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[3].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

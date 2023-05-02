@@ -17,6 +17,13 @@ mogą wspierać rozwój tej postawy. Dowiesz się też, co&nbspdają nam porażk
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[0].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

@@ -14,10 +14,14 @@
     <article class="modules-content">
         <h2>Wartości, czyli o&nbspukrytych motywach naszego dzialania</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/6d6z18G6IEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <div class = "back_next">
+             <p class="attached">
+    <a href="../../resources/wartosci_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a>
+</p>
+<div class = "back_next">
             <a href="../../choice.php" class="back-button"> wróć</a>
             <a href="../part1/1_2.php" class="start-button">przejdź dalej</a>
             </div>
+           
     </article>
     </section>
     </section>

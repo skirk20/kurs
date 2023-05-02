@@ -97,11 +97,18 @@ https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
 </p>
 <div class = "back_next">
     <a href="5_5.php" class="back-button"> wróć</a>
-    <a href="5_7.php" class="start-button">przejdź dalej</a>
+    <a href="../../index.php" class="start-button">powrót na stronę główną</a>
 </div>
 </article>
 </section>
 </section>
+<script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[7].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 <?php
 include_once("../../sample/footer.html")
 ?>

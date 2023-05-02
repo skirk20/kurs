@@ -5,8 +5,8 @@
         Wartości, czyli o ukrytych motywach naszego działania</a>
     </h3>
     <ul>
-        <li><a href="1_2.php" class="button-choice">Inspiratorium</a></li>
-        <li><a href="1_3.php" class="button-choice">Dowiedz się więcej</a></li>
+        <li><a href="1_2.php" class="button-choice btn">Inspiratorium</a></li>
+        <li><a href="1_3.php" class="button-choice btn">Dowiedz się więcej</a></li>
 </ul>
 <h3><a href="../part2/1_1-main.php" class="module-choice"> Docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h3>
         <h3><a href="../part3/1_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</a></h3>

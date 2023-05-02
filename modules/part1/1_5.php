@@ -153,6 +153,13 @@ o&nbsptych dokumentach (jaki jest ich cel, kto je opracował i&nbspuchwalił). Z
     </div>
     </article>
     </section>
+    <script>
+    
+    function dupa(){
+        document.getElementsByClassName("btn")[4].style.color='black'
+    }
+    window.onload = dupa();
+</script>
 </section>
 <?php
 include_once("../../sample/footer.html")
