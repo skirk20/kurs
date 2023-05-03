@@ -4,7 +4,7 @@
         <a href="1_1-main.php" name="main-1-1-choice" class="module-choice" style="color: #028388;">Wartości, czyli o&nbspukrytych motywach naszego dzialania</a>
     </h3>
     <ul id="myDIV">
-        <li><a href="1_1.php" class="button-choice btn active" name="1_1" onclick="some()">efekt</a></li>
+        <li><a href="1_1.php" class="button-choice btn">efekt</a></li>
         <li><a href="1_2.php" class="button-choice btn">studium przypadku</a></li>
         <li><a href="1_3.php" class="button-choice btn">refleksja</a></li>
         <li><a href="1_4.php" class="button-choice btn">wiedza</a></li>
