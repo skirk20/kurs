@@ -16,7 +16,7 @@ Rozmawiamy w&nbspnim o&nbsptym, co daje większe szanse na sukces w&nbspżyciu -
 </p>
     <div class = "back_next">
     <a href="../part4/4_2.php" class="back-button"> wróć</a>
-    <a href="5_3.php" class="start-button">przejdź dalej</a>
+    <a href="5_4.php" class="start-button">przejdź dalej</a>
     </div>
 </article>
 </section>

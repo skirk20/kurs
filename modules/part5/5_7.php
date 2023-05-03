@@ -15,7 +15,7 @@ Rozmawiamy w&nbspnim o&nbsptym, co daje większe szanse na sukces w życiu - tal
     <a href="../../resources/wytrwalosc_nauczyciel.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a>
 </p>
     <div class = "back_next">
-    <a href="5_6.php" class="back-button"> wróć</a>
+    <a href="5_5.php" class="back-button"> wróć</a>
     <a href="5_8.php" class="start-button">przejdź dalej</a>
 </article>
 </section>
@@ -23,7 +23,7 @@ Rozmawiamy w&nbspnim o&nbsptym, co daje większe szanse na sukces w życiu - tal
 <script>
     
     function blure(){
-        document.getElementsByClassName("btn")[6].style.color='black'
+        document.getElementsByClassName("btn")[5].style.color='black'
     }
     window.onload = blure();
 </script>

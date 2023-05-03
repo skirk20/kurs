@@ -18,9 +18,9 @@
         <li><a href="5_3.php" class="button-choice btn">refleksja</a></li>
         <li><a href="5_4.php" class="button-choice btn">wiedza</a></li>
         <li><a href="5_5.php" class="button-choice btn">Scenariusze zajęć</a></li>
-        <li><a href="5_6.php" class="button-choice btn">Dowiedz się więcej</a></li>
+        <!-- <li><a href="5_6.php" class="button-choice btn">Dowiedz się więcej</a></li> -->
         <li><a href="5_7.php" class="button-choice btn">Inspiratorium</a></li>
-        <li><a href="5_8.php" class="button-choice btn">Polecana literatura</a></li>
+        <li><a href="5_8.php" class="button-choice btn">Dowiedz się więcej</a></li>
         </ul>
 </section>
 <section class="content content3">

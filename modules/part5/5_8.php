@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_5.php");
 ?>
 <article class="modules-content">
-<h2>Polecana literatura</h2>
+<h2>Dowiedz się więcej</h2>
     <ul>
 <li id="lit">
 Roy Baumeister, John Tierney, Siła woli. Odkryjmy na nowo to, co w człowieku najpotężniejsze, wyd. Media Rodzina, 2013 r
@@ -105,7 +105,7 @@ https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
 <script>
     
     function blure(){
-        document.getElementsByClassName("btn")[7].style.color='black'
+        document.getElementsByClassName("btn")[6].style.color='black'
     }
     window.onload = blure();
 </script>

@@ -47,7 +47,10 @@ Każdy moduł możesz zrealizować niezależnie od pozostałych, jednocześnie w
 tworzą spójną całość, bo treści kolejnych modułów zazębiają się pozwalając przeprowadzić
 cykl logicznie powiązanych aktywności.
 </p>
-        
+<p class="attached">
+<a href="resources/pdfy/instrukcja.pdf" target="_blank"><img src="images/zasob_16.png" alt="ikona załącznika">instrukcja obsługi Kurs na relacje</a>
+<a href="resources/pdfy/licencja.pdf" target="_blank"><img src="images/zasob_16.png" alt="ikona załącznika">zapisy licencyjne</a>
+</p>
     </article>
         <img src="images/grafika_przewodnia.png" alt="">
         

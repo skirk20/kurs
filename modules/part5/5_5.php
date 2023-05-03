@@ -116,7 +116,7 @@ wybrało ich dziecko oraz wspólne ustalenie, jak rodzic może je wspierać w&nb
     </p>
     <div class = "back_next">
     <a href="5_4.php" class="back-button"> wróć</a>
-    <a href="5_6.php" class="start-button">przejdź dalej</a>
+    <a href="5_7.php" class="start-button">przejdź dalej</a>
 </div>
     </article>
     </section>

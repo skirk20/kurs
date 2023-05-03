@@ -11,8 +11,8 @@ nich</a></h3>
 <h3><a href="../part5/5_2.php" class="module-choice" style="color: #028388;">Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>
 <ul>
         <li><a href="5_2.php" class="button-choice btn">Inspiratorium</a></li>
-        <li><a href="5_3.php" class="button-choice btn">Dowiedz się więcej</a></li>
-        <li><a href="5_4.php" class="button-choice btn">Dodatkowa literatura</a></li>
+        <!-- <li><a href="5_3.php" class="button-choice btn">Dowiedz się więcej</a></li> -->
+        <li><a href="5_4.php" class="button-choice btn">Dowiedz się więcej</a></li>
 </ul>
     </section>
 <section class="content content3">
