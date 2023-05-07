@@ -21,7 +21,7 @@ include_once("../module_2.php");
     </ul>
 </p>
 <p class="attached">
-<a href="../../resources/modul_3_docenianie/kurs_na_relacje_modul_III-docenianie-gd-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/pdfy/scen_zeb_z_rodzicami_docenianie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <div class = "back_next">
     <a href="2_6.php" class="back-button"> wróć</a>
@@ -32,10 +32,10 @@ include_once("../module_2.php");
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[6].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

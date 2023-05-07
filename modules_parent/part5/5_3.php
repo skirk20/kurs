@@ -31,10 +31,10 @@ Rodzina, 2013 r.
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[1].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

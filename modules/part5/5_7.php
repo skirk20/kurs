@@ -14,10 +14,10 @@ include_once("../module_5.php");
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[6].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

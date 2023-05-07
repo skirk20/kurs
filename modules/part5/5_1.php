@@ -19,10 +19,10 @@ mogą wspierać rozwój tej postawy. Dowiesz się też, co&nbspdają nam porażk
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[0].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

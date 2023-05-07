@@ -49,10 +49,10 @@ pytanie kim są i&nbspczego chcą. Pomysły, jak to robić, znajdziesz w&nbspsce
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[3].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

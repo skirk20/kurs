@@ -22,7 +22,7 @@ include_once("../module_3.php");
     </ul>
 </p>
 <p class="attached">
-<a href="../../resources/modul_4_omowienie/kurs_na_relacje_modul_IV-omowienie-pdf.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/pdfy/omowienie_nauczyciel.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <div class = "back_next">
     <a href="3_6.php" class="back-button"> wróć</a>
@@ -33,10 +33,10 @@ include_once("../module_3.php");
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[6].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

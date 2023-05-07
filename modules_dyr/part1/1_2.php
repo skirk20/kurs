@@ -41,10 +41,10 @@ leży, a&nbspdodatkowo część uczniów nie potrafi wykonywać obliczeń na uł
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[1].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

@@ -150,7 +150,10 @@ i&nbsprodzicami.
 </ol>
     
     <p class="attached">
-        <a href="../../resources/poprawione-pdf/Kurs_na_relacje-modu__I-dyrektor-pdf-zalaczniki.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
+        <a href="../../resources/pdfy/dyr_cytaty_zal1.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 1 Cytaty</a>
+        <a href="../../resources/pdfy/dyr_zal2.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 2 Badania J. Hattiego</a>
+        <a href="../../resources/pdfy/dyr_zal3.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 3 Przemyślenia</a>
+        <a href="../../resources/pdfy/dyr_zal4.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 4 Karta autorefleksji - mój rozwój</a>
     </p>
     <div class = "back_next">
             <a href="1_4.php" class="back-button"> wróć</a>
@@ -160,10 +163,10 @@ i&nbsprodzicami.
     </section>
     <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[4].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 </section>
 <?php

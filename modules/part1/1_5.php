@@ -145,7 +145,10 @@ o&nbsptych dokumentach (jaki jest ich cel, kto je opracował i&nbspuchwalił). Z
     </ol>
 
     <p class="attached">
-        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf-zalaczniki_wychowawca.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załączniki do pobrania</a>
+        <a href="../../resources/pdfy/zal1_wartosci.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 1 Opis sytuacji</a>
+        <a href="../../resources/pdfy/zal2_wartosci.pdf" target="blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 2 Karta wartości</a>
+        <a href="../../resources/pdfy/zal3_wartosci.pdf" target="blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 3 Opisy grup i instytucji</a>
+        <a href="../../resources/pdfy/scen_zeb_z_rodzicami.pdf" target="blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Scenariusz zebrania z rodzicami</a>
     </p>
     <div class = "back_next">
     <a href="1_4.php" class="back-button"> wróć</a>
@@ -155,10 +158,10 @@ o&nbsptych dokumentach (jaki jest ich cel, kto je opracował i&nbspuchwalił). Z
     </section>
     <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[4].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 </section>
 <?php

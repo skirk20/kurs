@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_1.php");
 ?>
 
-<article class="modules-content" onload = 'chuj()'>
+<article class="modules-content">
 <h2>Efekt</h2>
 <p>Dzięki realizacji tego modułu poznasz system wartości rodziców. Będziesz w&nbspstanie określić
     w&nbspjakim stopniu rodzice są&nbspzgodni co&nbspdo&nbspwartości, według których powinny być
@@ -21,10 +21,10 @@ include_once("../module_1.php");
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[0].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

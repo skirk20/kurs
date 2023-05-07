@@ -137,9 +137,8 @@ poszukiwaniem innych sposobów doceniania.
     </li>
 </ol>
     <p class="attached">
-        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__III-docenianie-GD-pdf-zalacznik_wychowawcza.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>
-        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__III-docenianie-GD-pdf-zalacznik2_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 scenariusz zebrania z rodzicami</a>
-        <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__III-docenianie-GD-pdf-zalacznik1_zebranie.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opis sytuacji v2</a>
+        <a href="../../resources/pdfy/zal1_docenianie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Załącznik nr 1 Opis sytuacji</a>
+        <a href="../../resources/pdfy/scen_zeb_z_rodzicami_docenianie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">Scenariusz zebrania z rodzicami</a>
     </p>
     <div class = "back_next">
     <a href="2_4.php" class="back-button"> wróć</a>
@@ -150,10 +149,10 @@ poszukiwaniem innych sposobów doceniania.
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[4].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")

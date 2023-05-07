@@ -99,10 +99,10 @@ z&nbspkrytyką i&nbspwymaganiami. Dlatego tak ważne jest, abyś jako wychowawca
 </section>
 <script>
     
-    function dupa(){
+    function blure(){
         document.getElementsByClassName("btn")[3].style.color='black'
     }
-    window.onload = dupa();
+    window.onload = blure();
 </script>
 <?php
 include_once("../../sample/footer.html")
