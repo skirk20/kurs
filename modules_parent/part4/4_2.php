@@ -6,8 +6,8 @@ include_once("../module_4.php");
 <article class="modules-content">
 <h2>Inspiratorium</h2>
 <p>
-Zapraszamy do wysłuchania czwartego inspiratorium dla rodzica z cyklu Kurs na relacje.
-Rozmawiamy w nim o tym, jak zachęcić nastolatka do planowania. Zastanawiamy się, jak uczenie zarządzania czasem może budować autonomię młodego człowieka, ale też jak nasze działania mogą utrudniać jego wybicie się na samodzielność. Tłumaczymy, dlaczego warto wspólnie z dzieckiem formułować cele.
+Zapraszamy do wysłuchania czwartego inspiratorium dla rodzica z&nbspcyklu Kurs na relacje.
+Rozmawiamy w&nbspnim o&nbsptym, jak zachęcić nastolatka do planowania. Zastanawiamy się, jak uczenie zarządzania czasem może budować autonomię młodego człowieka, ale też jak nasze działania mogą utrudniać jego wybicie się na samodzielność. Tłumaczymy, dlaczego warto wspólnie z&nbspdzieckiem formułować cele.
 
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhF5P3Or7Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

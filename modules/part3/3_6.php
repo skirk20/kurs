@@ -6,9 +6,9 @@ include_once("../module_3.php");
 <article class="modules-content">
 <h2>Inspiratorium</h2>
 <p>
-Zapraszamy do wysłuchania trzeciego inspiratorium dla nauczyciela z cyklu Kurs na relacje.
-Rozmawiamy o tym,  dlaczego warto podsumowywać z uczniami procesy i efekty ich działania
-Przyglądamy się temu, jak to robić i na co uważać.
+Zapraszamy do wysłuchania trzeciego inspiratorium dla nauczyciela z&nbspcyklu Kurs na relacje.
+Rozmawiamy o&nbsptym,  dlaczego warto podsumowywać z&nbspuczniami procesy i&nbspefekty ich działania
+Przyglądamy się temu, jak to robić i&nbspna co uważać.
 
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/byCBDLuqpKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

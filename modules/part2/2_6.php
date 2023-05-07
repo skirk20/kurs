@@ -6,9 +6,9 @@ include_once("../module_2.php");
 <article class="modules-content">
 <h2>Inspiratorium</h2>
 <p>
-Zapraszamy do wysłuchania drugiego inspiratorium dla nauczyciela z cyklu Kurs na relacje.
-Rozmawiamy o znaczeniu doceniania dla rozwoju młodych ludzi, o wzmacnianiu
-ich motywacji. Przyglądamy się temu, czym jest docenianie, a czym chwalenie i jak wpływają one na kształtowanie postawy młodego człowieka. Staramy się również pokazać jak ważne jest świętowanie nawet małych sukcesów.
+Zapraszamy do wysłuchania drugiego inspiratorium dla nauczyciela z&nbspcyklu Kurs na relacje.
+Rozmawiamy o&nbspznaczeniu doceniania dla rozwoju młodych ludzi, o&nbspwzmacnianiu
+ich motywacji. Przyglądamy się temu, czym jest docenianie, a&nbspczym chwalenie i&nbspjak wpływają one na kształtowanie postawy młodego człowieka. Staramy się również pokazać jak ważne jest świętowanie nawet małych sukcesów.
 
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLhUG7mxMbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

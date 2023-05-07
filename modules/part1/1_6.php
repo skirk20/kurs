@@ -6,8 +6,8 @@ include_once("../module_1.php");
 <article class="modules-content">
 <h2>Inspiratorium</h2>
 <p>
-Zapraszamy do wysłuchania pierwszego inspiratorium dla nauczyciela z cyklu Kurs na relacje.
-Rozmawiamy o wartościach, czyli ukrytych motywach naszego działania. Staramy się pokazać, w jaki sposób możesz wprowadzać uczniów w świat wartości. Wyjaśniamy, jaki jest związek między wartościami a podejmowanymi decyzjami. Zdradzimy ci również jaka jest supermoc każdego wychowawcy.
+Zapraszamy do wysłuchania pierwszego inspiratorium dla nauczyciela z&nbspcyklu Kurs na relacje.
+Rozmawiamy o&nbspwartościach, czyli ukrytych motywach naszego działania. Staramy się pokazać, w&nbspjaki sposób możesz wprowadzać uczniów w&nbspświat wartości. Wyjaśniamy, jaki jest związek między wartościami a&nbsppodejmowanymi decyzjami. Zdradzimy ci również jaka jest supermoc każdego wychowawcy.
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vV6gQKweO_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p class="attached">

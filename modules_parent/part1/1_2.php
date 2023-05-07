@@ -5,7 +5,7 @@ include_once("../module_1.php");
 ?>
 <article class="modules-content">
 <h2>Inspiratorium</h2>
-<p>Zapraszamy do wysłuchania pierwszego inspiratorium z cyklu Kurs na relacje. Rozmawiamy w nim o wartościach, czyli o ukrytych motywach naszego działania. Staramy się pokazać, jak bardziej świadomie rozmawiać ze swoim dzieckiem o wartościach. Opowiadamy o tym, jaki jest związek między wartościami a podejmowanymi decyzjami oraz pokazujemy jak ważna jest spójność między tym co deklarujemy a tym co mówimy.
+<p>Zapraszamy do wysłuchania pierwszego inspiratorium z&nbspcyklu Kurs na relacje. Rozmawiamy w&nbspnim o&nbspwartościach, czyli o&nbspukrytych motywach naszego działania. Staramy się pokazać, jak bardziej świadomie rozmawiać ze swoim dzieckiem o&nbspwartościach. Opowiadamy o&nbsptym, jaki jest związek między wartościami a&nbsppodejmowanymi decyzjami oraz pokazujemy jak ważna jest spójność między tym co deklarujemy a&nbsptym co mówimy.
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6d6z18G6IEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p class="attached">

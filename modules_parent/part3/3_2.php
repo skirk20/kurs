@@ -6,9 +6,9 @@ include_once("../module_3.php");
 <article class="modules-content">
 <h2>Inspiratorium</h2>
 <p>
-Zapraszamy do wysłuchania trzeciego inspiratorium dla rodzica z cyklu Kurs na relacje.
-Rozmawiamy w nim o tym,  dlaczego warto podsumowywać z młodym człowiekiem procesy
-i efekty jego działania. Przyglądamy się temu,  jak to robić i na co uważać.
+Zapraszamy do wysłuchania trzeciego inspiratorium dla rodzica z&nbspcyklu Kurs na relacje.
+Rozmawiamy w&nbspnim o&nbsptym,  dlaczego warto podsumowywać z&nbspmłodym człowiekiem procesy
+i&nbspefekty jego działania. Przyglądamy się temu,  jak to robić i&nbspna co uważać.
 
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t3M-GDiR6Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
