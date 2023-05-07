@@ -12,7 +12,7 @@
         include_once('sample/navigation.html')
     ?>
 
-    <section class="content" style="width: 80%;">
+    <section class="content">
         <article >
         <h2>Dlaczego bierzemy kurs na relacje?</h2>
         <p>Droga Nauczycielko, Drogi Nauczycielu,</p>
@@ -43,7 +43,7 @@
         <a href="choice.php" class="main-start-button">start</a>
         </p>
     </article>
-    <img src="images/innowatorzy.png" alt="" style="width: 50%;">
+    <img src="images/grafika_przewodnia.png">
     </section>
     
     <?php

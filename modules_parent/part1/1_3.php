@@ -24,7 +24,7 @@ include_once("../module_1.php");
 </p>
     <div class = "back_next">
     <a href="1_2.php" class="back-button"> wróć</a>
-    <a href="../part2/1_1-main.php" class="start-button">przejdź dalej</a>
+    <a href="../part2/2_2.php" class="start-button">przejdź dalej</a>
     </div>
 </article>
 </section>

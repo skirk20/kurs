@@ -21,7 +21,7 @@ include('sample/navigation.html');
 <section class="modules">
 <a href="modules_dyr/part1/1_1-main.php" class="button-black">dyrektor</a>
 <a href="modules.php" class="button-blue">nauczyciel</a>
-<a href="modules_parent/part1/1_1-main.php" class="button-black">rodzic</a>
+<a href="modules_parent/part1/1_2.php" class="button-black">rodzic</a>
 </section> 
 </body>
 <?php
