@@ -21,7 +21,7 @@ include_once("../module_2.php");
     </ul>
 </p>
 <p class="attached">
-<a href="../../resources/pdfy/scen_zeb_z_rodzicami_docenianie.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
+<a href="../../resources/pdfy/docenianie_nauczyciel.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
 </p>
     <div class = "back_next">
     <a href="2_6.php" class="back-button"> wróć</a>
