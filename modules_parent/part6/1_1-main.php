@@ -1,11 +1,10 @@
 <link rel="stylesheet" href="../../style/style.css">
 <?php
 include_once("../../sample/navigation_modules.html");
-include_once("../module_5.php");
+include_once("../module_6.php");
 ?>
 <article class="modules-content">
-<h2>Dowiedz się więcej</h2>
-<p>Polecana literatura</p>
+<h2>Polecana literatura</h2>
 <p>
     <ul>
     <li id="lit">
@@ -80,7 +79,7 @@ include_once("../module_5.php");
     <!-- <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a> -->
 </p>
     <div class = "back_next">
-    <a href="5_2.php" class="back-button"> wróć</a>
+    <a href="../part5/1_1-main.php" class="back-button"> wróć</a>
     <a href="../../index.php" class="start-button">powrót na stronę główną</a>
     </div>
 </article>

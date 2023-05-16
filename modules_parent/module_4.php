@@ -13,7 +13,7 @@ nich</a></h3>
         <li><a href="4_3.php" class="button-choice btn">Dowiedz się więcej</a></li>
 </ul>
 <h3><a href="../part5/5_2.php" class="module-choice">Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>
-
+<h3><a href="../part6/1_1-main.php" class="module-choice">Polecana literatura</a></h3>
     </section>
 <section class="content content3">
 

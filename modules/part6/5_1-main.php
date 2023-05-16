@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="../../style/style.css">
 <?php
 include_once("../../sample/navigation_modules.html");
-include_once("../module_5.php");
+include_once("../module_6.php");
 ?>
 <article class="modules-content">
-<h2>Dowiedz się więcej</h2>
+<h2>Polecana literatura</h2>
     <ul>
 <li id="lit">
 Roy Baumeister, John Tierney, Siła woli. Odkryjmy na nowo to, co w człowieku najpotężniejsze, wyd. Media Rodzina, 2013 r
@@ -74,29 +74,9 @@ Margot Sunderland, Niska samoocena u dzieci. Praktyczny przewodnik dla specjalis
 </li>
 </ul>
 
-<h3>Źródła internetowe</h3>
-<p>
-<a href="https://epale.ec.europa.eu/pl/blog/wytrwalosc-jako-klucz-do-sukcesu">
-https://epale.ec.europa.eu/pl/blog/wytrwalosc-jako-klucz-do-sukcesu [dostęp: 05.02.2023
-r.]</a>
 
-<a href="https://angeladuckworth.com/grit-scale/">
-https://angeladuckworth.com/grit-scale/ [dostęp: 05.02.2023 r.]</a>
-
-<a href="https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html">
-https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
-[dostęp:05.02.2023 r.]</a>
-</p>
-<h4>Zachęcamy do korzystania z materiałów dostępnych na kanałach Uniwersytetu SWPS - Strefa Psyche</h4>
-<p>
-<a href="https://web.swps.pl/strefa-psyche">https://web.swps.pl/strefa-psyche</a>
-<a href="https://www.youtube.com/channel/UCyG2qD25UXOxSeySfC-tdvQ">https://www.youtube.com/channel/UCyG2qD25UXOxSeySfC-tdvQ</a>
-</p>
-<p class="attached">
-<a href="../../resources/pdfy/wytrwalosc_nauczyciel.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">całość modułu</a>
-</p>
 <div class = "back_next">
-    <a href="5_8.php" class="back-button"> wróć</a>
+    <a href="../../modules.php" class="back-button"> wróć</a>
     <a href="../../index.php" class="start-button">powrót na stronę główną</a>
 </div>
 </article>
