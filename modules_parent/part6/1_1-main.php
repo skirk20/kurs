@@ -76,7 +76,7 @@ include_once("../module_6.php");
     </ul>
 </p>
 <p class="attached">
-    <!-- <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a> -->
+    <!-- <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a> -->
 </p>
     <div class = "back_next">
     <a href="../part5/1_1-main.php" class="back-button"> wróć</a>

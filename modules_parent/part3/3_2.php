@@ -13,7 +13,7 @@ i&nbspefekty jego działania. Przyglądamy się temu,  jak to robić i&nbspna co
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t3M-GDiR6Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p class="attached">
-    <a href="../../resources/omowienie_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a>
+    <a href="../../resources/omowienie_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a>
 </p>
     <div class = "back_next">
     <a href="../part2/2_2.php" class="back-button"> wróć</a>

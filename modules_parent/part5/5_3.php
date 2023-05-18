@@ -20,7 +20,7 @@ Rodzina, 2013 r.
     </ul>
 </p>
 <p class="attached">
-    <!-- <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a> -->
+    <!-- <a href="../../resources/poprawione-pdf/Kurs_na_relacje_modu__II-warto_ci-GD-pdf.pdf-correctedByPAVE.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a> -->
 </p>
 <h3>Źródła internetowe</h3>
 <p>
