@@ -27,7 +27,7 @@
 
         </p>
              <p class="attached">
-    <a href="../../resources/wartosci_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a>
+    <a href="../../resources/wartosci_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a>
 </p>
 <div class = "back_next">
             <a href="../../choice.php" class="back-button"> wróć</a>

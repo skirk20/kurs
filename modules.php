@@ -16,7 +16,7 @@ include('sample/navigation.html');
 <a href="modules/part3/3_1-main.php" class="button-black">Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</a>
 <a href="modules/part4/4_1-main.php" class="button-blue">Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie do&nbspnich</a>
 <a href="modules/part5/5_1-main.php" class="button-black">Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a>
-
+<a href="modules/part6/5_1-main.php" class="button-blue">Polecana literatura</a>
 </section>
 <?php
 include_once('sample/footer.html');

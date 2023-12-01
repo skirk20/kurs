@@ -9,7 +9,7 @@ include_once("../module_1.php");
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6d6z18G6IEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p class="attached">
-    <a href="../../resources/wartosci_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a>
+    <a href="../../resources/wartosci_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a>
 </p>
     <div class = "back_next">
     <a href="../../choice.php" class="back-button"> wróć</a>

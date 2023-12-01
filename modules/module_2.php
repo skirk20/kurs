@@ -18,6 +18,7 @@
         <h3><a href="../part3/3_1-main.php" class="module-choice"> Omówienie, czyli świętowanie sukcesów i&nbspanalizowanie porażek</a></h3>
         <h3><a href="../part4/4_1-main.php" class="module-choice"> Planowanie, czyli wyznaczanie celów i&nbspskuteczne dążenie don&nbspich</a></h3>
         <h3><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a&nbspnie sprint</a></h3>
+        <h3><a href="../part6/5_1-main.php" class="module-choice" > Polecana literatura</a></h3>
 </section>
 <section class="content content3">
     

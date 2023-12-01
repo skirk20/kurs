@@ -4,7 +4,7 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_4.php");
 ?>
 <article class="modules-content">
-<h2>Literatura</h2>
+<h2>Dowiedz się więcej</h2>
 <p>Polecamy przeczytać</p>
 <p>
     <ul>

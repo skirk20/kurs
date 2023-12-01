@@ -12,7 +12,7 @@ Rozmawiamy w&nbspnim o&nbsptym, jak zachęcić nastolatka do planowania. Zastana
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhF5P3Or7Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p class="attached">
-    <a href="../../resources/planowanie_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">trankrypcja tekstu</a>
+    <a href="../../resources/planowanie_rodzic.pdf" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">transkrypcja tekstu</a>
 </p>
     <div class = "back_next">
     <a href="../part3/3_2.php" class="back-button"> wróć</a>
